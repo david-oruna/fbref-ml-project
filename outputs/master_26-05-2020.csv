@@ -1,0 +1,10 @@
+league,fixture_id,date,home_team,away_team,advice,goals_home,goals_away,home_pred,draw_pred,away_pred,odd_home_wins,odd_draw,odd_away_wins,odd_over_1_5,odd_over_2_5,odd_over_3_5,odd_under_1_5,odd_under_2_5,odd_under_3_5,odd_home_or_draw,odd_home_or_away,odd_draw_or_away
+Bundesliga 1,209157,2020-05-26T16:30:00+00:00,Borussia Dortmund,Bayern Munich,Double chance :  draws or Bayern Munich,-3.5,-3.5,0.1,0.45,0.45,3.6,4.0,1.85,1.1,1.36,1.9,7.0,3.2,1.9,1.83,1.22,1.28
+Bundesliga 1,209159,2020-05-26T18:30:00+00:00,Bayer Leverkusen,VfL Wolfsburg,Double chance : Bayer Leverkusen or draws,-3.5,-2.5,0.5,0.5,0.0,1.8,3.6,4.33,1.16,1.53,2.37,5.0,2.5,1.57,1.2,1.28,1.9
+Bundesliga 1,209160,2020-05-26T18:30:00+00:00,Eintracht Frankfurt,SC Freiburg,Double chance : Eintracht Frankfurt or draws,-2.5,-2.5,0.45,0.45,0.1,1.9,3.6,3.8,1.2,1.66,2.62,4.5,2.2,1.5,1.25,1.28,1.8
+Bundesliga 1,209161,2020-05-26T18:30:00+00:00,Werder Bremen,Borussia Monchengladbach,Winner : Borussia Monchengladbach,-1.5,-3.5,0.1,0.45,0.45,3.8,4.0,1.8,1.2,1.61,2.5,4.5,2.3,1.53,1.9,1.22,1.25
+Bundesliga 1,209158,2020-05-27T16:30:00+00:00,RB Leipzig,Hertha Berlin,Double chance : RB Leipzig or draws,-3.5,-2.5,0.45,0.45,0.1,1.4,4.75,7.0,1.16,1.53,2.3,5.0,2.5,1.61,1.1,1.18,2.75
+Bundesliga 1,209162,2020-05-27T18:30:00+00:00,1899 Hoffenheim,FC Koln,Double chance :  draws or FC Koln,-2.5,-3.5,0.1,0.45,0.45,2.3,3.6,2.8,1.2,1.57,2.5,4.5,2.37,1.53,1.4,1.28,1.57
+Bundesliga 1,209163,2020-05-27T18:30:00+00:00,Fortuna Dusseldorf,FC Schalke 04,Double chance : Fortuna Dusseldorf or draws,-2.5,-1.5,0.45,0.45,0.1,3.2,3.5,2.15,1.28,1.9,3.2,3.75,1.9,1.36,1.66,1.28,1.36
+Bundesliga 1,209164,2020-05-27T18:30:00+00:00,FC Augsburg,SC Paderborn 07,Double chance : FC Augsburg or draws,-2.5,-1.5,0.45,0.45,0.1,2.0,3.6,3.5,1.28,1.8,3.4,3.75,2.0,1.33,1.28,1.28,1.72
+Bundesliga 1,209165,2020-05-27T18:30:00+00:00,Union Berlin,FSV Mainz 05,Double chance : Union Berlin or draws,-2.5,-2.5,0.45,0.45,0.1,2.25,3.5,3.0,1.25,1.8,3.0,4.0,2.0,1.4,1.36,1.28,1.57

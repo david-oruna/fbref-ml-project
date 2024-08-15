@@ -1,0 +1,1946 @@
+league,fixture_id,date,home_team,away_team,referee,first_home_goals,first_away_goals,match_home_goals,match_away_goals,round
+Serie A,9045,2017-08-19T16:00:00+00:00,Juventus,Cagliari,"Fabio Maresca, Italy",2,0,3,0,1
+Serie A,9044,2017-08-19T18:45:00+00:00,Verona,Napoli,"Michael Fabbri, Italy",0,2,1,3,1
+Serie A,9043,2017-08-20T16:00:00+00:00,Atalanta,AS Roma,"Piero Giacomelli, Italy",0,1,0,1,1
+Serie A,9036,2017-08-20T18:45:00+00:00,Bologna,Torino,"Davide Massa, Italy",1,1,1,1,1
+Serie A,9037,2017-08-20T18:45:00+00:00,Crotone,AC Milan,"Maurizio Mariani, Italy",0,3,0,3,1
+Serie A,9038,2017-08-20T18:45:00+00:00,Inter,Fiorentina,"Paolo Tagliavento, Italy",2,0,3,0,1
+Serie A,9039,2017-08-20T18:45:00+00:00,Lazio,Spal,"Rosario Abisso, Italy",0,0,0,0,1
+Serie A,9040,2017-08-20T18:45:00+00:00,Sampdoria,Benevento,"Fabrizio Pasqua, Italy",1,1,2,1,1
+Serie A,9041,2017-08-20T18:45:00+00:00,Sassuolo,Genoa,"Antonio Damato, Italy",0,0,0,0,1
+Serie A,9042,2017-08-20T18:45:00+00:00,Udinese,Chievo,"Claudio Gavillucci, Italy",1,1,1,2,1
+Serie A,9034,2017-08-26T16:00:00+00:00,Benevento,Bologna,"Gianpaolo Calvarese, Italy",0,0,0,1,2
+Serie A,9035,2017-08-26T16:00:00+00:00,Genoa,Juventus,"Luca Banti, Italy",2,2,2,4,2
+Serie A,9033,2017-08-26T18:45:00+00:00,AS Roma,Inter,"Massimiliano Irrati, Italy",1,0,1,3,2
+Serie A,9032,2017-08-27T16:00:00+00:00,Torino,Sassuolo,"Paolo Silvio Mazzoleni, Italy",1,0,3,0,2
+Serie A,9026,2017-08-27T18:45:00+00:00,AC Milan,Cagliari,"Luca J. Pairetto, Italy",1,0,2,1,2
+Serie A,9027,2017-08-27T18:45:00+00:00,Chievo,Lazio,"Gianluca Manganiello, Italy",1,1,1,2,2
+Serie A,9028,2017-08-27T18:45:00+00:00,Crotone,Verona,"Marco Guida, Italy",0,0,0,0,2
+Serie A,9029,2017-08-27T18:45:00+00:00,Fiorentina,Sampdoria,"Daniele Doveri, Italy",0,2,1,2,2
+Serie A,9030,2017-08-27T18:45:00+00:00,Napoli,Atalanta,"Marco Di Bello, Italy",0,1,3,1,2
+Serie A,9031,2017-08-27T18:45:00+00:00,Spal,Udinese,"Paolo Valeri, Italy",1,0,3,2,2
+Serie A,9025,2017-09-09T16:00:00+00:00,Juventus,Chievo,"Michael Fabbri, Italy",1,0,3,0,3
+Serie A,9024,2017-09-10T10:30:00+00:00,Inter,Spal,"Claudio Gavillucci, Italy",1,0,2,0,3
+Serie A,9020,2017-09-10T13:00:00+00:00,Atalanta,Sassuolo,"Gianluca Manganiello, Italy",1,1,2,1,3
+Serie A,9021,2017-09-10T13:00:00+00:00,Cagliari,Crotone,"Daniele Doveri, Italy",1,0,1,0,3
+Serie A,9022,2017-09-10T13:00:00+00:00,Udinese,Genoa,"Fabio Maresca, Italy",1,0,1,0,3
+Serie A,9023,2017-09-10T13:00:00+00:00,Verona,Fiorentina,"Antonio Damato, Italy",0,3,0,5,3
+Serie A,9019,2017-09-10T14:00:00+00:00,Lazio,AC Milan,"Gianluca Rocchi, Italy",2,0,4,1,3
+Serie A,9018,2017-09-10T16:00:00+00:00,Benevento,Torino,"Rosario Abisso, Italy",0,0,0,1,3
+Serie A,9017,2017-09-10T18:45:00+00:00,Bologna,Napoli,"Piero Giacomelli, Italy",0,0,0,3,3
+Serie A,8836,2018-01-24T19:45:00+00:00,Sampdoria,AS Roma,"Daniele Orsato, Italy",1,0,1,1,3
+Serie A,9016,2017-09-16T13:00:00+00:00,Crotone,Inter,"Luca Banti, Italy",0,0,0,2,4
+Serie A,9015,2017-09-16T16:00:00+00:00,Fiorentina,Bologna,"Paolo Valeri, Italy",0,0,2,1,4
+Serie A,9014,2017-09-16T18:45:00+00:00,AS Roma,Verona,"Luca J. Pairetto, Italy",2,0,3,0,4
+Serie A,9013,2017-09-17T10:30:00+00:00,Sassuolo,Juventus,"Davide Massa, Italy",0,1,1,3,4
+Serie A,9009,2017-09-17T13:00:00+00:00,AC Milan,Udinese,"Marco Guida, Italy",2,1,2,1,4
+Serie A,9010,2017-09-17T13:00:00+00:00,Napoli,Benevento,"Massimiliano Irrati, Italy",4,0,6,0,4
+Serie A,9011,2017-09-17T13:00:00+00:00,Spal,Cagliari,"Eugenio Abbattista, Italy",0,1,0,2,4
+Serie A,9012,2017-09-17T13:00:00+00:00,Torino,Sampdoria,"Paolo Tagliavento, Italy",2,2,2,2,4
+Serie A,9008,2017-09-17T16:00:00+00:00,Chievo,Atalanta,"Maurizio Mariani, Italy",0,0,1,1,4
+Serie A,9007,2017-09-17T18:45:00+00:00,Genoa,Lazio,"Daniele Orsato, Italy",0,1,2,3,4
+Serie A,9006,2017-09-19T18:45:00+00:00,Bologna,Inter,"Marco Di Bello, Italy",1,0,1,1,5
+Serie A,9005,2017-09-20T16:00:00+00:00,Benevento,AS Roma,"Michael Fabbri, Italy",0,2,0,4,5
+Serie A,8997,2017-09-20T18:45:00+00:00,AC Milan,Spal,"Rosario Abisso, Italy",1,0,2,0,5
+Serie A,8998,2017-09-20T18:45:00+00:00,Atalanta,Crotone,"Marco Piccinini, Italy",3,0,5,1,5
+Serie A,8999,2017-09-20T18:45:00+00:00,Cagliari,Sassuolo,"Claudio Gavillucci, Italy",0,0,0,1,5
+Serie A,9000,2017-09-20T18:45:00+00:00,Genoa,Chievo,"Paolo Silvio Mazzoleni, Italy",0,0,1,1,5
+Serie A,9001,2017-09-20T18:45:00+00:00,Juventus,Fiorentina,"Daniele Doveri, Italy",0,0,1,0,5
+Serie A,9002,2017-09-20T18:45:00+00:00,Lazio,Napoli,"Antonio Damato, Italy",1,0,1,4,5
+Serie A,9003,2017-09-20T18:45:00+00:00,Udinese,Torino,"Gianluca Rocchi, Italy",0,2,2,3,5
+Serie A,9004,2017-09-20T18:45:00+00:00,Verona,Sampdoria,"Gianluca Manganiello, Italy",0,0,0,0,5
+Serie A,8996,2017-09-23T13:00:00+00:00,AS Roma,Udinese,"Davide Massa, Italy",3,0,3,1,6
+Serie A,8995,2017-09-23T16:00:00+00:00,Spal,Napoli,"Maurizio Mariani, Italy",1,1,2,3,6
+Serie A,8994,2017-09-23T18:45:00+00:00,Juventus,Torino,"Piero Giacomelli, Italy",2,0,4,0,6
+Serie A,8993,2017-09-24T10:30:00+00:00,Sampdoria,AC Milan,"Paolo Valeri, Italy",0,0,2,0,6
+Serie A,8989,2017-09-24T13:00:00+00:00,Cagliari,Chievo,"Gianluca Aureliano, Italy",0,0,0,2,6
+Serie A,8990,2017-09-24T13:00:00+00:00,Crotone,Benevento,"Daniele Orsato, Italy",1,0,2,0,6
+Serie A,8991,2017-09-24T13:00:00+00:00,Inter,Genoa,"Marco Guida, Italy",0,0,1,0,6
+Serie A,8992,2017-09-24T13:00:00+00:00,Verona,Lazio,"Massimiliano Irrati, Italy",0,2,0,3,6
+Serie A,8988,2017-09-24T16:00:00+00:00,Sassuolo,Bologna,"Paolo Tagliavento, Italy",0,0,0,1,6
+Serie A,8987,2017-09-24T18:45:00+00:00,Fiorentina,Atalanta,"Luca J. Pairetto, Italy",1,0,1,1,6
+Serie A,8986,2017-09-30T16:00:00+00:00,Udinese,Sampdoria,"Michael Fabbri, Italy",1,0,4,0,7
+Serie A,8985,2017-09-30T18:45:00+00:00,Genoa,Bologna,"Gianluca Rocchi, Italy",0,0,0,1,7
+Serie A,8984,2017-10-01T10:30:00+00:00,Napoli,Cagliari,"Rosario Abisso, Italy",2,0,3,0,7
+Serie A,8979,2017-10-01T13:00:00+00:00,Benevento,Inter,"Daniele Doveri, Italy",1,2,1,2,7
+Serie A,8980,2017-10-01T13:00:00+00:00,Chievo,Fiorentina,"Piero Giacomelli, Italy",1,1,2,1,7
+Serie A,8981,2017-10-01T13:00:00+00:00,Lazio,Sassuolo,"Fabio Maresca, Italy",1,1,6,1,7
+Serie A,8982,2017-10-01T13:00:00+00:00,Spal,Crotone,"Paolo Silvio Mazzoleni, Italy",1,0,1,1,7
+Serie A,8983,2017-10-01T13:00:00+00:00,Torino,Verona,"Claudio Gavillucci, Italy",2,0,2,2,7
+Serie A,8978,2017-10-01T16:00:00+00:00,AC Milan,AS Roma,"Luca Banti, Italy",0,0,0,2,7
+Serie A,8977,2017-10-01T18:45:00+00:00,Atalanta,Juventus,"Antonio Damato, Italy",1,2,2,2,7
+Serie A,8976,2017-10-14T16:00:00+00:00,Juventus,Lazio,"Paolo Silvio Mazzoleni, Italy",1,0,1,2,8
+Serie A,8975,2017-10-14T18:45:00+00:00,AS Roma,Napoli,"Gianluca Rocchi, Italy",0,1,0,1,8
+Serie A,8974,2017-10-15T10:30:00+00:00,Fiorentina,Udinese,"Massimiliano Irrati, Italy",1,0,2,1,8
+Serie A,8969,2017-10-15T13:00:00+00:00,Bologna,Spal,"Marco Guida, Italy",1,0,2,1,8
+Serie A,8970,2017-10-15T13:00:00+00:00,Cagliari,Genoa,"Davide Massa, Italy",0,2,2,3,8
+Serie A,8971,2017-10-15T13:00:00+00:00,Crotone,Torino,"Paolo Valeri, Italy",1,0,2,2,8
+Serie A,8972,2017-10-15T13:00:00+00:00,Sampdoria,Atalanta,"Maurizio Mariani, Italy",0,1,3,1,8
+Serie A,8973,2017-10-15T13:00:00+00:00,Sassuolo,Chievo,"Gianluca Manganiello, Italy",0,0,0,0,8
+Serie A,8968,2017-10-15T18:45:00+00:00,Inter,AC Milan,"Paolo Tagliavento, Italy",1,0,3,2,8
+Serie A,8967,2017-10-16T18:45:00+00:00,Verona,Benevento,"Marco Di Bello, Italy",0,0,1,0,8
+Serie A,8966,2017-10-21T16:00:00+00:00,Sampdoria,Crotone,"Gianpaolo Calvarese, Italy",3,0,5,0,9
+Serie A,8965,2017-10-21T18:45:00+00:00,Napoli,Inter,"Luca Banti, Italy",0,0,0,0,9
+Serie A,8964,2017-10-22T10:30:00+00:00,Chievo,Verona,"Rosario Abisso, Italy",2,1,3,2,9
+Serie A,8960,2017-10-22T13:00:00+00:00,Atalanta,Bologna,"Fabio Maresca, Italy",0,0,1,0,9
+Serie A,8961,2017-10-22T13:00:00+00:00,Benevento,Fiorentina,"Claudio Gavillucci, Italy",0,1,0,3,9
+Serie A,8962,2017-10-22T13:00:00+00:00,Spal,Sassuolo,"Michael Fabbri, Italy",0,1,0,1,9
+Serie A,8963,2017-10-22T13:00:00+00:00,Torino,AS Roma,"Antonio Damato, Italy",0,0,0,1,9
+Serie A,8959,2017-10-22T13:00:00+00:00,AC Milan,Genoa,"Piero Giacomelli, Italy",0,0,0,0,9
+Serie A,8958,2017-10-22T16:00:00+00:00,Udinese,Juventus,"Daniele Doveri, Italy",1,2,2,6,9
+Serie A,8957,2017-10-22T18:45:00+00:00,Lazio,Cagliari,"Luca J. Pairetto, Italy",2,0,3,0,9
+Serie A,8956,2017-10-24T18:45:00+00:00,Inter,Sampdoria,"Marco Guida, Italy",2,0,3,2,10
+Serie A,8955,2017-10-25T16:30:00+00:00,Atalanta,Verona,"Livio Marinelli, Italy",0,0,3,0,10
+Serie A,8947,2017-10-25T18:45:00+00:00,Bologna,Lazio,"Davide Massa, Italy",0,2,1,2,10
+Serie A,8948,2017-10-25T18:45:00+00:00,Cagliari,Benevento,"Massimiliano Irrati, Italy",1,0,2,1,10
+Serie A,8949,2017-10-25T18:45:00+00:00,Chievo,AC Milan,"Marco Di Bello, Italy",0,2,1,4,10
+Serie A,8950,2017-10-25T18:45:00+00:00,Fiorentina,Torino,"Maurizio Mariani, Italy",1,0,3,0,10
+Serie A,8951,2017-10-25T18:45:00+00:00,Genoa,Napoli,"Paolo Silvio Mazzoleni, Italy",1,2,2,3,10
+Serie A,8952,2017-10-25T18:45:00+00:00,Juventus,Spal,"Fabrizio Pasqua, Italy",2,1,4,1,10
+Serie A,8953,2017-10-25T18:45:00+00:00,AS Roma,Crotone,"Gianluca Manganiello, Italy",1,0,1,0,10
+Serie A,8954,2017-10-25T18:45:00+00:00,Sassuolo,Udinese,"Paolo Tagliavento, Italy",0,1,0,1,10
+Serie A,8946,2017-10-28T16:00:00+00:00,AC Milan,Juventus,"Paolo Valeri, Italy",0,1,0,2,11
+Serie A,8945,2017-10-28T18:45:00+00:00,AS Roma,Bologna,"Michael Fabbri, Italy",1,0,1,0,11
+Serie A,8944,2017-10-29T11:30:00+00:00,Benevento,Lazio,"Piero Giacomelli, Italy",0,3,1,5,11
+Serie A,8939,2017-10-29T14:00:00+00:00,Crotone,Fiorentina,"Fabio Maresca, Italy",2,1,2,1,11
+Serie A,8940,2017-10-29T14:00:00+00:00,Napoli,Sassuolo,"Luca J. Pairetto, Italy",2,1,3,1,11
+Serie A,8941,2017-10-29T14:00:00+00:00,Sampdoria,Chievo,"Daniele Doveri, Italy",3,1,4,1,11
+Serie A,8942,2017-10-29T14:00:00+00:00,Spal,Genoa,"Daniele Orsato, Italy",0,0,1,0,11
+Serie A,8943,2017-10-29T14:00:00+00:00,Udinese,Atalanta,"Gianluca Rocchi, Italy",1,1,2,1,11
+Serie A,8938,2017-10-29T19:45:00+00:00,Torino,Cagliari,"Gianpaolo Calvarese, Italy",1,1,2,1,11
+Serie A,8937,2017-10-30T19:45:00+00:00,Verona,Inter,"Claudio Gavillucci, Italy",0,1,1,2,11
+Serie A,8936,2017-11-04T17:00:00+00:00,Bologna,Crotone,"Fabrizio Pasqua, Italy",2,1,2,3,12
+Serie A,8935,2017-11-04T19:45:00+00:00,Genoa,Sampdoria,"Massimiliano Irrati, Italy",0,1,0,2,12
+Serie A,8934,2017-11-05T11:30:00+00:00,Inter,Torino,"Daniele Orsato, Italy",0,0,1,1,12
+Serie A,8930,2017-11-05T14:00:00+00:00,Cagliari,Verona,"Marco Guida, Italy",1,1,2,1,12
+Serie A,8931,2017-11-05T14:00:00+00:00,Chievo,Napoli,"Davide Massa, Italy",0,0,0,0,12
+Serie A,8932,2017-11-05T14:00:00+00:00,Fiorentina,AS Roma,"Marco Di Bello, Italy",2,2,2,4,12
+Serie A,8933,2017-11-05T14:00:00+00:00,Juventus,Benevento,"Rosario Abisso, Italy",0,1,2,1,12
+Serie A,8929,2017-11-05T17:00:00+00:00,Atalanta,Spal,"Daniele Chiffi, Italy",1,0,1,1,12
+Serie A,8928,2017-11-05T19:45:00+00:00,Sassuolo,AC Milan,"Antonio Damato, Italy",0,1,0,2,12
+Serie A,8837,2018-01-24T17:30:00+00:00,Lazio,Udinese,"Luca Banti, Italy",1,0,3,0,12
+Serie A,8927,2017-11-18T17:00:00+00:00,AS Roma,Lazio,"Gianluca Rocchi, Italy",0,0,2,1,13
+Serie A,8926,2017-11-18T19:45:00+00:00,Napoli,AC Milan,"Daniele Doveri, Italy",1,0,2,1,13
+Serie A,8925,2017-11-19T11:30:00+00:00,Crotone,Genoa,"Paolo Tagliavento, Italy",0,1,0,1,13
+Serie A,8920,2017-11-19T14:00:00+00:00,Benevento,Sassuolo,"Paolo Silvio Mazzoleni, Italy",0,0,1,2,13
+Serie A,8921,2017-11-19T14:00:00+00:00,Sampdoria,Juventus,"Marco Guida, Italy",0,0,3,2,13
+Serie A,8922,2017-11-19T14:00:00+00:00,Spal,Fiorentina,"Gianpaolo Calvarese, Italy",1,0,1,1,13
+Serie A,8923,2017-11-19T14:00:00+00:00,Torino,Chievo,"Luca Banti, Italy",1,1,1,1,13
+Serie A,8924,2017-11-19T14:00:00+00:00,Udinese,Cagliari,"Gianluca Manganiello, Italy",0,0,0,1,13
+Serie A,8919,2017-11-19T19:45:00+00:00,Inter,Atalanta,"Michael Fabbri, Italy",0,0,2,0,13
+Serie A,8918,2017-11-20T19:45:00+00:00,Verona,Bologna,"Maurizio Mariani, Italy",2,1,2,3,13
+Serie A,8917,2017-11-25T14:00:00+00:00,Bologna,Sampdoria,"Fabio Maresca, Italy",2,0,3,0,14
+Serie A,8915,2017-11-25T17:00:00+00:00,Chievo,Spal,"Ivano Pezzuto, Italy",0,1,2,1,14
+Serie A,8916,2017-11-25T17:00:00+00:00,Sassuolo,Verona,"Paolo Valeri, Italy",0,2,0,2,14
+Serie A,8914,2017-11-25T19:45:00+00:00,Cagliari,Inter,"Luca J. Pairetto, Italy",0,1,1,3,14
+Serie A,8911,2017-11-26T14:00:00+00:00,AC Milan,Torino,"Massimiliano Irrati, Italy",0,0,0,0,14
+Serie A,8912,2017-11-26T14:00:00+00:00,Genoa,AS Roma,"Piero Giacomelli, Italy",0,0,1,1,14
+Serie A,8913,2017-11-26T14:00:00+00:00,Udinese,Napoli,"Marco Di Bello, Italy",0,1,0,1,14
+Serie A,8910,2017-11-26T17:00:00+00:00,Lazio,Fiorentina,"Davide Massa, Italy",1,0,1,1,14
+Serie A,8909,2017-11-26T19:45:00+00:00,Juventus,Crotone,"Claudio Gavillucci, Italy",0,0,3,0,14
+Serie A,8908,2017-11-27T19:45:00+00:00,Atalanta,Benevento,"Fabrizio Pasqua, Italy",0,0,1,0,14
+Serie A,8907,2017-12-01T17:30:00+00:00,AS Roma,Spal,"Rosario Abisso, Italy",2,0,3,1,15
+Serie A,8906,2017-12-01T19:45:00+00:00,Napoli,Juventus,"Daniele Orsato, Italy",0,1,0,1,15
+Serie A,8905,2017-12-02T19:45:00+00:00,Torino,Atalanta,"Paolo Tagliavento, Italy",1,0,1,1,15
+Serie A,8904,2017-12-03T11:30:00+00:00,Benevento,AC Milan,"Maurizio Mariani, Italy",0,1,2,2,15
+Serie A,8901,2017-12-03T14:00:00+00:00,Bologna,Cagliari,"Federico La Penna, Italy",0,1,1,1,15
+Serie A,8902,2017-12-03T14:00:00+00:00,Fiorentina,Sassuolo,"Luca Banti, Italy",2,0,3,0,15
+Serie A,8903,2017-12-03T14:00:00+00:00,Inter,Chievo,"Gianpaolo Calvarese, Italy",2,0,5,0,15
+Serie A,8900,2017-12-03T19:45:00+00:00,Sampdoria,Lazio,"Paolo Silvio Mazzoleni, Italy",0,0,1,2,15
+Serie A,8899,2017-12-04T18:00:00+00:00,Crotone,Udinese,"Davide Massa, Italy",0,1,0,3,15
+Serie A,8898,2017-12-04T20:00:00+00:00,Verona,Genoa,"Antonio Damato, Italy",0,1,0,1,15
+Serie A,8897,2017-12-09T17:00:00+00:00,Cagliari,Sampdoria,"Fabrizio Pasqua, Italy",0,2,2,2,16
+Serie A,8896,2017-12-09T19:45:00+00:00,Juventus,Inter,"Paolo Valeri, Italy",0,0,0,0,16
+Serie A,8895,2017-12-10T11:30:00+00:00,Chievo,AS Roma,"Fabio Maresca, Italy",0,0,0,0,16
+Serie A,8892,2017-12-10T14:00:00+00:00,Napoli,Fiorentina,"Michael Fabbri, Italy",0,0,0,0,16
+Serie A,8893,2017-12-10T14:00:00+00:00,Spal,Verona,"Gianluca Rocchi, Italy",0,0,2,2,16
+Serie A,8894,2017-12-10T14:00:00+00:00,Udinese,Benevento,"Gianluca Aureliano, Italy",2,0,2,0,16
+Serie A,8891,2017-12-10T17:00:00+00:00,Sassuolo,Crotone,"Gianluca Manganiello, Italy",0,0,2,1,16
+Serie A,8890,2017-12-10T19:45:00+00:00,AC Milan,Bologna,"Marco Guida, Italy",1,1,2,1,16
+Serie A,8889,2017-12-11T20:00:00+00:00,Lazio,Torino,"Piero Giacomelli, Italy",0,0,1,3,16
+Serie A,8888,2017-12-12T18:00:00+00:00,Genoa,Atalanta,"Daniele Doveri, Italy",1,1,1,2,16
+Serie A,8887,2017-12-16T14:00:00+00:00,Inter,Udinese,"Maurizio Mariani, Italy",1,1,1,3,17
+Serie A,8886,2017-12-16T17:00:00+00:00,Torino,Napoli,"Paolo Silvio Mazzoleni, Italy",0,3,1,3,17
+Serie A,8885,2017-12-16T19:45:00+00:00,AS Roma,Cagliari,"Antonio Damato, Italy",0,0,1,0,17
+Serie A,8884,2017-12-17T11:30:00+00:00,Verona,AC Milan,"Daniele Orsato, Italy",1,0,3,0,17
+Serie A,8880,2017-12-17T14:00:00+00:00,Bologna,Juventus,"Luca Banti, Italy",0,2,0,3,17
+Serie A,8881,2017-12-17T14:00:00+00:00,Crotone,Chievo,"Luca J. Pairetto, Italy",1,0,1,0,17
+Serie A,8882,2017-12-17T14:00:00+00:00,Fiorentina,Genoa,"Gianpaolo Calvarese, Italy",0,0,0,0,17
+Serie A,8883,2017-12-17T14:00:00+00:00,Sampdoria,Sassuolo,"Claudio Gavillucci, Italy",0,0,0,1,17
+Serie A,8879,2017-12-17T17:00:00+00:00,Benevento,Spal,"Fabrizio Pasqua, Italy",0,0,1,2,17
+Serie A,8878,2017-12-17T19:45:00+00:00,Atalanta,Lazio,"Massimiliano Irrati, Italy",2,2,3,3,17
+Serie A,8877,2017-12-22T17:00:00+00:00,Chievo,Bologna,"Gianluca Manganiello, Italy",1,1,2,3,18
+Serie A,8876,2017-12-22T19:45:00+00:00,Cagliari,Fiorentina,"Marco Di Bello, Italy",0,0,0,1,18
+Serie A,8875,2017-12-23T11:30:00+00:00,Lazio,Crotone,"Gianpaolo Calvarese, Italy",0,0,4,0,18
+Serie A,8870,2017-12-23T14:00:00+00:00,Genoa,Benevento,"Rosario Abisso, Italy",0,0,1,0,18
+Serie A,8871,2017-12-23T14:00:00+00:00,Napoli,Sampdoria,"Davide Massa, Italy",3,2,3,2,18
+Serie A,8872,2017-12-23T14:00:00+00:00,Sassuolo,Inter,"Daniele Doveri, Italy",1,0,1,0,18
+Serie A,8873,2017-12-23T14:00:00+00:00,Spal,Torino,"Paolo Valeri, Italy",1,2,2,2,18
+Serie A,8874,2017-12-23T14:00:00+00:00,Udinese,Verona,"Fabio Maresca, Italy",2,0,4,0,18
+Serie A,8869,2017-12-23T17:00:00+00:00,AC Milan,Atalanta,"Michael Fabbri, Italy",0,1,0,2,18
+Serie A,8868,2017-12-23T19:45:00+00:00,Juventus,AS Roma,"Paolo Tagliavento, Italy",1,0,1,0,18
+Serie A,8867,2017-12-29T19:45:00+00:00,Crotone,Napoli,"Maurizio Mariani, Italy",0,1,0,1,19
+Serie A,8866,2017-12-30T11:30:00+00:00,Fiorentina,AC Milan,"Luca Banti, Italy",0,0,1,1,19
+Serie A,8860,2017-12-30T14:00:00+00:00,Atalanta,Cagliari,"Fabrizio Pasqua, Italy",0,2,1,2,19
+Serie A,8861,2017-12-30T14:00:00+00:00,Benevento,Chievo,"Francesco Fourneau, Italy",0,0,1,0,19
+Serie A,8862,2017-12-30T14:00:00+00:00,Bologna,Udinese,"Claudio Gavillucci, Italy",1,1,1,2,19
+Serie A,8863,2017-12-30T14:00:00+00:00,AS Roma,Sassuolo,"Daniele Orsato, Italy",1,0,1,1,19
+Serie A,8864,2017-12-30T14:00:00+00:00,Sampdoria,Spal,"Luca J. Pairetto, Italy",0,0,2,0,19
+Serie A,8865,2017-12-30T14:00:00+00:00,Torino,Genoa,"Massimiliano Irrati, Italy",0,0,0,0,19
+Serie A,8859,2017-12-30T17:00:00+00:00,Inter,Lazio,"Gianluca Rocchi, Italy",0,0,0,0,19
+Serie A,8858,2017-12-30T19:45:00+00:00,Verona,Juventus,"Paolo Silvio Mazzoleni, Italy",0,1,1,3,19
+Serie A,8857,2018-01-05T17:00:00+00:00,Chievo,Udinese,"Daniele Chiffi, Italy",1,1,1,1,20
+Serie A,8856,2018-01-05T19:45:00+00:00,Fiorentina,Inter,"Paolo Valeri, Italy",0,0,1,1,20
+Serie A,8855,2018-01-06T11:30:00+00:00,Torino,Bologna,"Antonio Damato, Italy",1,0,3,0,20
+Serie A,8850,2018-01-06T14:00:00+00:00,AC Milan,Crotone,"Fabio Maresca, Italy",0,0,1,0,20
+Serie A,8851,2018-01-06T14:00:00+00:00,Benevento,Sampdoria,"Gianluca Manganiello, Italy",0,1,3,2,20
+Serie A,8852,2018-01-06T14:00:00+00:00,Genoa,Sassuolo,"Piero Giacomelli, Italy",0,0,1,0,20
+Serie A,8853,2018-01-06T14:00:00+00:00,Napoli,Verona,"Rosario Abisso, Italy",0,0,2,0,20
+Serie A,8854,2018-01-06T14:00:00+00:00,Spal,Lazio,"Paolo Tagliavento, Italy",2,4,2,5,20
+Serie A,8849,2018-01-06T17:00:00+00:00,AS Roma,Atalanta,"Marco Guida, Italy",0,2,1,2,20
+Serie A,8848,2018-01-06T19:45:00+00:00,Cagliari,Juventus,"Gianpaolo Calvarese, Italy",0,0,0,1,20
+Serie A,8847,2018-01-21T11:30:00+00:00,Atalanta,Napoli,"Daniele Orsato, Italy",0,0,0,1,21
+Serie A,8841,2018-01-21T14:00:00+00:00,Bologna,Benevento,"Eugenio Abbattista, Italy",1,0,3,0,21
+Serie A,8842,2018-01-21T14:00:00+00:00,Lazio,Chievo,"Rosario Abisso, Italy",2,1,5,1,21
+Serie A,8843,2018-01-21T14:00:00+00:00,Sampdoria,Fiorentina,"Fabrizio Pasqua, Italy",1,0,3,1,21
+Serie A,8844,2018-01-21T14:00:00+00:00,Sassuolo,Torino,"Michael Fabbri, Italy",0,1,1,1,21
+Serie A,8845,2018-01-21T14:00:00+00:00,Udinese,Spal,"Daniele Doveri, Italy",1,0,1,1,21
+Serie A,8846,2018-01-21T14:00:00+00:00,Verona,Crotone,"Gianluca Rocchi, Italy",0,1,0,3,21
+Serie A,8840,2018-01-21T17:00:00+00:00,Cagliari,AC Milan,"Marco Guida, Italy",1,2,1,2,21
+Serie A,8839,2018-01-21T19:45:00+00:00,Inter,AS Roma,"Davide Massa, Italy",0,1,1,1,21
+Serie A,8838,2018-01-22T19:45:00+00:00,Juventus,Genoa,"Marco Di Bello, Italy",1,0,1,0,21
+Serie A,8835,2018-01-27T17:00:00+00:00,Sassuolo,Atalanta,"Paolo Valeri, Italy",0,1,0,3,22
+Serie A,8834,2018-01-27T19:45:00+00:00,Chievo,Juventus,"Fabio Maresca, Italy",0,0,0,2,22
+Serie A,8833,2018-01-28T11:30:00+00:00,Spal,Inter,"Piero Giacomelli, Italy",0,0,1,1,22
+Serie A,8828,2018-01-28T14:00:00+00:00,Crotone,Cagliari,"Paolo Tagliavento, Italy",1,1,1,1,22
+Serie A,8829,2018-01-28T14:00:00+00:00,Fiorentina,Verona,"Claudio Gavillucci, Italy",0,2,1,4,22
+Serie A,8830,2018-01-28T14:00:00+00:00,Genoa,Udinese,"Luca J. Pairetto, Italy",0,0,0,1,22
+Serie A,8831,2018-01-28T14:00:00+00:00,Napoli,Bologna,"Paolo Silvio Mazzoleni, Italy",2,1,3,1,22
+Serie A,8832,2018-01-28T14:00:00+00:00,Torino,Benevento,"Maurizio Mariani, Italy",3,0,3,0,22
+Serie A,8827,2018-01-28T17:00:00+00:00,AC Milan,Lazio,"Massimiliano Irrati, Italy",2,1,2,1,22
+Serie A,8826,2018-01-28T19:45:00+00:00,AS Roma,Sampdoria,"Luca Banti, Italy",0,0,0,1,22
+Serie A,8825,2018-02-03T17:00:00+00:00,Sampdoria,Torino,"Gianluca Rocchi, Italy",1,1,1,1,23
+Serie A,8824,2018-02-03T19:45:00+00:00,Inter,Crotone,"Daniele Orsato, Italy",1,0,1,1,23
+Serie A,8823,2018-02-04T11:30:00+00:00,Verona,AS Roma,"Michael Fabbri, Italy",0,1,0,1,23
+Serie A,8818,2018-02-04T14:00:00+00:00,Atalanta,Chievo,"Gianpaolo Calvarese, Italy",0,0,1,0,23
+Serie A,8819,2018-02-04T14:00:00+00:00,Bologna,Fiorentina,"Daniele Doveri, Italy",1,1,1,2,23
+Serie A,8820,2018-02-04T14:00:00+00:00,Cagliari,Spal,"Davide Massa, Italy",1,0,2,0,23
+Serie A,8821,2018-02-04T14:00:00+00:00,Juventus,Sassuolo,"Piero Giacomelli, Italy",4,0,7,0,23
+Serie A,8822,2018-02-04T14:00:00+00:00,Udinese,AC Milan,"Gianluca Manganiello, Italy",0,1,1,1,23
+Serie A,8817,2018-02-04T19:45:00+00:00,Benevento,Napoli,"Marco Di Bello, Italy",0,1,0,2,23
+Serie A,8816,2018-02-05T19:45:00+00:00,Lazio,Genoa,"Fabio Maresca, Italy",0,0,1,2,23
+Serie A,8815,2018-02-09T19:45:00+00:00,Fiorentina,Juventus,"Marco Guida, Italy",0,0,0,2,24
+Serie A,8814,2018-02-10T14:00:00+00:00,Spal,AC Milan,"Maurizio Mariani, Italy",0,1,0,4,24
+Serie A,8813,2018-02-10T17:00:00+00:00,Crotone,Atalanta,"Davide Massa, Italy",0,0,1,1,24
+Serie A,8812,2018-02-10T19:45:00+00:00,Napoli,Lazio,"Luca Banti, Italy",1,1,4,1,24
+Serie A,8811,2018-02-11T11:30:00+00:00,Sassuolo,Cagliari,"Paolo Silvio Mazzoleni, Italy",0,0,0,0,24
+Serie A,8807,2018-02-11T14:00:00+00:00,Chievo,Genoa,"Claudio Gavillucci, Italy",0,0,0,1,24
+Serie A,8808,2018-02-11T14:00:00+00:00,Inter,Bologna,"Paolo Valeri, Italy",1,1,2,1,24
+Serie A,8809,2018-02-11T14:00:00+00:00,Sampdoria,Verona,"Luca J. Pairetto, Italy",0,0,2,0,24
+Serie A,8810,2018-02-11T14:00:00+00:00,Torino,Udinese,"Rosario Abisso, Italy",1,0,2,0,24
+Serie A,8806,2018-02-11T19:45:00+00:00,AS Roma,Benevento,"Gianluca Manganiello, Italy",1,1,5,2,24
+Serie A,8805,2018-02-17T14:00:00+00:00,Udinese,AS Roma,"Marco Di Bello, Italy",0,0,0,2,25
+Serie A,8804,2018-02-17T17:00:00+00:00,Chievo,Cagliari,"Luigi Nasca, Italy",0,0,2,1,25
+Serie A,8803,2018-02-17T19:45:00+00:00,Genoa,Inter,"Michael Fabbri, Italy",1,0,2,0,25
+Serie A,8802,2018-02-18T11:30:00+00:00,Torino,Juventus,"Daniele Orsato, Italy",0,1,0,1,25
+Serie A,8799,2018-02-18T14:00:00+00:00,Benevento,Crotone,"Gianluca Rocchi, Italy",1,1,3,2,25
+Serie A,8800,2018-02-18T14:00:00+00:00,Bologna,Sassuolo,"Paolo Tagliavento, Italy",1,1,2,1,25
+Serie A,8801,2018-02-18T14:00:00+00:00,Napoli,Spal,"Claudio Gavillucci, Italy",1,0,1,0,25
+Serie A,8798,2018-02-18T17:00:00+00:00,Atalanta,Fiorentina,"Fabio Maresca, Italy",1,1,1,1,25
+Serie A,8797,2018-02-18T19:45:00+00:00,AC Milan,Sampdoria,"Daniele Doveri, Italy",1,0,1,0,25
+Serie A,8796,2018-02-19T19:45:00+00:00,Lazio,Verona,"Gianpaolo Calvarese, Italy",0,0,2,0,25
+Serie A,8795,2018-02-24T17:00:00+00:00,Bologna,Genoa,"Antonio Giua, Italy",0,0,2,0,26
+Serie A,8794,2018-02-24T19:45:00+00:00,Inter,Benevento,"Luca J. Pairetto, Italy",0,0,2,0,26
+Serie A,8793,2018-02-25T11:30:00+00:00,Crotone,Spal,"Daniele Orsato, Italy",0,1,2,3,26
+Serie A,8789,2018-02-25T14:00:00+00:00,Fiorentina,Chievo,"Rosario Abisso, Italy",1,0,1,0,26
+Serie A,8790,2018-02-25T14:00:00+00:00,Sampdoria,Udinese,"Antonio Damato, Italy",1,0,2,1,26
+Serie A,8791,2018-02-25T14:00:00+00:00,Sassuolo,Lazio,"Gianluca Manganiello, Italy",0,2,0,3,26
+Serie A,8792,2018-02-25T14:00:00+00:00,Verona,Torino,"Davide Massa, Italy",1,0,2,1,26
+Serie A,8788,2018-02-25T19:45:00+00:00,AS Roma,AC Milan,"Paolo Silvio Mazzoleni, Italy",0,0,0,2,26
+Serie A,8787,2018-02-26T19:45:00+00:00,Cagliari,Napoli,"Piero Giacomelli, Italy",0,2,0,5,26
+Serie A,8773,2018-03-14T17:00:00+00:00,Juventus,Atalanta,"Maurizio Mariani, Italy",1,0,2,0,26
+Serie A,8786,2018-03-03T14:00:00+00:00,Spal,Bologna,"Gianluca Rocchi, Italy",0,0,1,0,27
+Serie A,8785,2018-03-03T17:00:00+00:00,Lazio,Juventus,"Luca Banti, Italy",0,0,0,1,27
+Serie A,8784,2018-03-03T19:45:00+00:00,Napoli,AS Roma,"Davide Massa, Italy",1,2,2,4,27
+Serie A,8750,2018-04-03T16:30:00+00:00,Atalanta,Sampdoria,"Fabrizio Pasqua, Italy",0,1,1,2,27
+Serie A,8751,2018-04-03T16:30:00+00:00,Genoa,Cagliari,"Fabio Maresca, Italy",0,0,2,1,27
+Serie A,8752,2018-04-03T16:30:00+00:00,Udinese,Fiorentina,"Luca Banti, Italy",0,1,0,2,27
+Serie A,8749,2018-04-04T15:00:00+00:00,Benevento,Verona,"Daniele Doveri, Italy",1,0,3,0,27
+Serie A,8746,2018-04-04T16:30:00+00:00,AC Milan,Inter,"Marco Di Bello, Italy",0,0,0,0,27
+Serie A,8747,2018-04-04T16:30:00+00:00,Chievo,Sassuolo,"Paolo Tagliavento, Italy",0,0,1,1,27
+Serie A,8748,2018-04-04T16:30:00+00:00,Torino,Crotone,"Marco Guida, Italy",3,0,4,1,27
+Serie A,8783,2018-03-09T19:45:00+00:00,AS Roma,Torino,"Fabio Maresca, Italy",0,0,3,0,28
+Serie A,8782,2018-03-10T19:45:00+00:00,Verona,Chievo,"Antonio Damato, Italy",0,0,1,0,28
+Serie A,8781,2018-03-11T11:30:00+00:00,Fiorentina,Benevento,"Fabrizio Pasqua, Italy",1,0,1,0,28
+Serie A,8776,2018-03-11T14:00:00+00:00,Bologna,Atalanta,"Gianpaolo Calvarese, Italy",0,0,0,1,28
+Serie A,8777,2018-03-11T14:00:00+00:00,Cagliari,Lazio,"Marco Guida, Italy",1,1,2,2,28
+Serie A,8778,2018-03-11T14:00:00+00:00,Crotone,Sampdoria,"Paolo Silvio Mazzoleni, Italy",3,0,4,1,28
+Serie A,8779,2018-03-11T14:00:00+00:00,Juventus,Udinese,"Piero Giacomelli, Italy",1,0,2,0,28
+Serie A,8780,2018-03-11T14:00:00+00:00,Sassuolo,Spal,"Daniele Doveri, Italy",1,1,1,1,28
+Serie A,8775,2018-03-11T17:00:00+00:00,Genoa,AC Milan,"Michael Fabbri, Italy",0,0,0,1,28
+Serie A,8774,2018-03-11T19:45:00+00:00,Inter,Napoli,"Daniele Orsato, Italy",0,0,0,0,28
+Serie A,8772,2018-03-17T17:00:00+00:00,Udinese,Sassuolo,"Rosario Abisso, Italy",1,1,1,2,29
+Serie A,8771,2018-03-17T19:45:00+00:00,Spal,Juventus,"Davide Massa, Italy",0,0,0,0,29
+Serie A,8770,2018-03-18T11:30:00+00:00,Sampdoria,Inter,"Paolo Tagliavento, Italy",0,4,0,5,29
+Serie A,8765,2018-03-18T14:00:00+00:00,AC Milan,Chievo,"Maurizio Mariani, Italy",1,2,3,2,29
+Serie A,8766,2018-03-18T14:00:00+00:00,Benevento,Cagliari,"Gianluca Manganiello, Italy",0,0,1,2,29
+Serie A,8767,2018-03-18T14:00:00+00:00,Crotone,AS Roma,"Luca Banti, Italy",0,1,0,2,29
+Serie A,8768,2018-03-18T14:00:00+00:00,Torino,Fiorentina,"Claudio Gavillucci, Italy",0,0,1,2,29
+Serie A,8769,2018-03-18T14:00:00+00:00,Verona,Atalanta,"Marco Di Bello, Italy",0,2,0,5,29
+Serie A,8763,2018-03-18T19:45:00+00:00,Lazio,Bologna,"Antonio Damato, Italy",1,1,1,1,29
+Serie A,8764,2018-03-18T19:45:00+00:00,Napoli,Genoa,"Fabrizio Pasqua, Italy",0,0,1,0,29
+Serie A,8762,2018-03-31T10:30:00+00:00,Bologna,AS Roma,"Massimiliano Irrati, Italy",1,0,1,1,30
+Serie A,8756,2018-03-31T13:00:00+00:00,Atalanta,Udinese,"Luca J. Pairetto, Italy",0,0,2,0,30
+Serie A,8757,2018-03-31T13:00:00+00:00,Cagliari,Torino,"Federico La Penna, Italy",0,0,0,4,30
+Serie A,8758,2018-03-31T13:00:00+00:00,Fiorentina,Crotone,"Paolo Valeri, Italy",1,0,2,0,30
+Serie A,8759,2018-03-31T13:00:00+00:00,Genoa,Spal,"Piero Giacomelli, Italy",1,0,1,1,30
+Serie A,8760,2018-03-31T13:00:00+00:00,Inter,Verona,"Gianluca Rocchi, Italy",2,0,3,0,30
+Serie A,8761,2018-03-31T13:00:00+00:00,Lazio,Benevento,"Gianpaolo Calvarese, Italy",1,1,6,2,30
+Serie A,8754,2018-03-31T16:00:00+00:00,Chievo,Sampdoria,"Daniele Orsato, Italy",0,1,2,1,30
+Serie A,8755,2018-03-31T16:00:00+00:00,Sassuolo,Napoli,"Michael Fabbri, Italy",1,0,1,1,30
+Serie A,8753,2018-03-31T18:45:00+00:00,Juventus,AC Milan,"Paolo Silvio Mazzoleni, Italy",1,1,3,1,30
+Serie A,8745,2018-04-07T13:00:00+00:00,Benevento,Juventus,"Fabrizio Pasqua, Italy",1,2,2,4,31
+Serie A,8743,2018-04-07T16:00:00+00:00,AS Roma,Fiorentina,"Michael Fabbri, Italy",0,2,0,2,31
+Serie A,8744,2018-04-07T16:00:00+00:00,Spal,Atalanta,"Antonio Damato, Italy",1,0,1,1,31
+Serie A,8742,2018-04-07T18:45:00+00:00,Sampdoria,Genoa,"Davide Massa, Italy",0,0,0,0,31
+Serie A,8741,2018-04-08T10:30:00+00:00,Torino,Inter,"Paolo Tagliavento, Italy",1,0,1,0,31
+Serie A,8738,2018-04-08T13:00:00+00:00,Crotone,Bologna,"Gianpaolo Calvarese, Italy",1,0,1,0,31
+Serie A,8739,2018-04-08T13:00:00+00:00,Napoli,Chievo,"Gianluca Manganiello, Italy",0,0,2,1,31
+Serie A,8740,2018-04-08T13:00:00+00:00,Verona,Cagliari,"Paolo Valeri, Italy",1,0,1,0,31
+Serie A,8737,2018-04-08T16:00:00+00:00,Udinese,Lazio,"Gianluca Rocchi, Italy",1,2,1,2,31
+Serie A,8736,2018-04-08T18:45:00+00:00,AC Milan,Sassuolo,"Luca J. Pairetto, Italy",0,0,1,1,31
+Serie A,8735,2018-04-14T13:00:00+00:00,Cagliari,Udinese,"Piero Giacomelli, Italy",1,1,2,1,32
+Serie A,8733,2018-04-14T16:00:00+00:00,Chievo,Torino,"Marco Di Bello, Italy",0,0,0,0,32
+Serie A,8734,2018-04-14T16:00:00+00:00,Genoa,Crotone,"Massimiliano Irrati, Italy",1,0,1,0,32
+Serie A,8732,2018-04-14T18:45:00+00:00,Atalanta,Inter,"Daniele Doveri, Italy",0,0,0,0,32
+Serie A,8731,2018-04-15T10:30:00+00:00,Fiorentina,Spal,"Daniele Orsato, Italy",0,0,0,0,32
+Serie A,8728,2018-04-15T13:00:00+00:00,AC Milan,Napoli,"Luca Banti, Italy",0,0,0,0,32
+Serie A,8729,2018-04-15T13:00:00+00:00,Bologna,Verona,"Rosario Abisso, Italy",1,0,2,0,32
+Serie A,8730,2018-04-15T13:00:00+00:00,Sassuolo,Benevento,"Claudio Gavillucci, Italy",1,1,2,2,32
+Serie A,8727,2018-04-15T16:00:00+00:00,Juventus,Sampdoria,"Maurizio Mariani, Italy",1,0,3,0,32
+Serie A,8726,2018-04-15T18:45:00+00:00,Lazio,AS Roma,"Paolo Silvio Mazzoleni, Italy",0,0,0,0,32
+Serie A,8725,2018-04-17T18:45:00+00:00,Inter,Cagliari,"Fabrizio Pasqua, Italy",1,0,4,0,33
+Serie A,8724,2018-04-18T16:00:00+00:00,Benevento,Atalanta,"Davide Ghersini, Italy",0,1,0,3,33
+Serie A,8716,2018-04-18T18:45:00+00:00,Crotone,Juventus,"Michael Fabbri, Italy",0,1,1,1,33
+Serie A,8717,2018-04-18T18:45:00+00:00,Fiorentina,Lazio,"Antonio Damato, Italy",2,2,3,4,33
+Serie A,8718,2018-04-18T18:45:00+00:00,Napoli,Udinese,"Gianpaolo Calvarese, Italy",1,1,4,2,33
+Serie A,8719,2018-04-18T18:45:00+00:00,AS Roma,Genoa,"Luca J. Pairetto, Italy",1,0,2,1,33
+Serie A,8720,2018-04-18T18:45:00+00:00,Sampdoria,Bologna,"Gianluca Manganiello, Italy",0,0,1,0,33
+Serie A,8721,2018-04-18T18:45:00+00:00,Spal,Chievo,"Davide Massa, Italy",0,0,0,0,33
+Serie A,8722,2018-04-18T18:45:00+00:00,Torino,AC Milan,"Fabio Maresca, Italy",0,1,1,1,33
+Serie A,8723,2018-04-18T18:45:00+00:00,Verona,Sassuolo,"Marco Guida, Italy",0,1,0,1,33
+Serie A,8715,2018-04-21T13:00:00+00:00,Spal,AS Roma,"Paolo Tagliavento, Italy",0,1,0,3,34
+Serie A,8714,2018-04-21T16:00:00+00:00,Sassuolo,Fiorentina,"Massimiliano Irrati, Italy",1,0,1,0,34
+Serie A,8713,2018-04-21T18:45:00+00:00,AC Milan,Benevento,"Maurizio Mariani, Italy",0,1,0,1,34
+Serie A,8712,2018-04-22T10:30:00+00:00,Cagliari,Bologna,"Daniele Doveri, Italy",0,0,0,0,34
+Serie A,8708,2018-04-22T13:00:00+00:00,Atalanta,Torino,"Gianluca Aureliano, Italy",0,0,2,1,34
+Serie A,8709,2018-04-22T13:00:00+00:00,Chievo,Inter,"Paolo Valeri, Italy",0,0,1,2,34
+Serie A,8710,2018-04-22T13:00:00+00:00,Lazio,Sampdoria,"Daniele Orsato, Italy",2,0,4,0,34
+Serie A,8711,2018-04-22T13:00:00+00:00,Udinese,Crotone,"Marco Di Bello, Italy",1,1,1,2,34
+Serie A,8707,2018-04-22T18:45:00+00:00,Juventus,Napoli,"Gianluca Rocchi, Italy",0,0,0,1,34
+Serie A,8706,2018-04-23T18:45:00+00:00,Genoa,Verona,"Claudio Gavillucci, Italy",1,0,3,1,34
+Serie A,8705,2018-04-28T16:00:00+00:00,AS Roma,Chievo,"Gianpaolo Calvarese, Italy",2,0,4,1,35
+Serie A,8704,2018-04-28T18:45:00+00:00,Inter,Juventus,"Daniele Orsato, Italy",0,1,2,3,35
+Serie A,8703,2018-04-29T10:30:00+00:00,Crotone,Sassuolo,"Antonio Damato, Italy",3,1,4,1,35
+Serie A,8698,2018-04-29T13:00:00+00:00,Atalanta,Genoa,"Michael Fabbri, Italy",2,0,3,1,35
+Serie A,8699,2018-04-29T13:00:00+00:00,Benevento,Udinese,"Fabio Maresca, Italy",1,1,3,3,35
+Serie A,8700,2018-04-29T13:00:00+00:00,Bologna,AC Milan,"Piero Giacomelli, Italy",0,2,1,2,35
+Serie A,8701,2018-04-29T13:00:00+00:00,Sampdoria,Cagliari,"Rosario Abisso, Italy",3,0,4,1,35
+Serie A,8702,2018-04-29T13:00:00+00:00,Verona,Spal,"Luca Banti, Italy",1,1,1,3,35
+Serie A,8697,2018-04-29T16:00:00+00:00,Fiorentina,Napoli,"Paolo Silvio Mazzoleni, Italy",1,0,3,0,35
+Serie A,8696,2018-04-29T18:45:00+00:00,Torino,Lazio,"Massimiliano Irrati, Italy",0,0,0,1,35
+Serie A,8695,2018-05-05T16:00:00+00:00,AC Milan,Verona,"Fabrizio Pasqua, Italy",2,0,4,1,36
+Serie A,8694,2018-05-05T18:45:00+00:00,Juventus,Bologna,"Massimiliano Irrati, Italy",0,1,3,1,36
+Serie A,8693,2018-05-06T10:30:00+00:00,Udinese,Inter,"Paolo Silvio Mazzoleni, Italy",0,3,0,4,36
+Serie A,8688,2018-05-06T13:00:00+00:00,Chievo,Crotone,"Davide Massa, Italy",1,0,2,1,36
+Serie A,8689,2018-05-06T13:00:00+00:00,Genoa,Fiorentina,"Gianluca Manganiello, Italy",0,1,2,3,36
+Serie A,8690,2018-05-06T13:00:00+00:00,Lazio,Atalanta,"Luca Banti, Italy",1,1,1,1,36
+Serie A,8691,2018-05-06T13:00:00+00:00,Napoli,Torino,"Daniele Doveri, Italy",1,0,2,2,36
+Serie A,8692,2018-05-06T13:00:00+00:00,Spal,Benevento,"Marco Guida, Italy",1,0,2,0,36
+Serie A,8687,2018-05-06T16:00:00+00:00,Sassuolo,Sampdoria,"Federico La Penna, Italy",0,0,1,0,36
+Serie A,8686,2018-05-06T18:45:00+00:00,Cagliari,AS Roma,"Marco Di Bello, Italy",0,1,0,1,36
+Serie A,8685,2018-05-12T16:00:00+00:00,Benevento,Genoa,"Daniele Chiffi, Italy",0,0,1,0,37
+Serie A,8684,2018-05-12T18:45:00+00:00,Inter,Sassuolo,"Rosario Abisso, Italy",0,1,1,2,37
+Serie A,8679,2018-05-13T13:00:00+00:00,Bologna,Chievo,"Luca J. Pairetto, Italy",1,0,1,2,37
+Serie A,8680,2018-05-13T13:00:00+00:00,Crotone,Lazio,"Paolo Silvio Mazzoleni, Italy",1,1,2,2,37
+Serie A,8681,2018-05-13T13:00:00+00:00,Fiorentina,Cagliari,"Paolo Valeri, Italy",0,1,0,1,37
+Serie A,8682,2018-05-13T13:00:00+00:00,Torino,Spal,"Maurizio Mariani, Italy",0,1,2,1,37
+Serie A,8683,2018-05-13T13:00:00+00:00,Verona,Udinese,"Gianpaolo Calvarese, Italy",0,1,0,1,37
+Serie A,8678,2018-05-13T16:00:00+00:00,Atalanta,AC Milan,"Marco Guida, Italy",0,0,1,1,37
+Serie A,8676,2018-05-13T18:45:00+00:00,AS Roma,Juventus,"Paolo Tagliavento, Italy",0,0,0,0,37
+Serie A,8677,2018-05-13T18:45:00+00:00,Sampdoria,Napoli,"Claudio Gavillucci, Italy",0,0,0,2,37
+Serie A,8675,2018-05-19T13:00:00+00:00,Juventus,Verona,"Riccardo Pinzani, Italy",0,0,2,1,38
+Serie A,8674,2018-05-20T13:00:00+00:00,Genoa,Torino,"Illuzzi Lorenzo, Italy",0,1,1,2,38
+Serie A,8668,2018-05-20T16:00:00+00:00,AC Milan,Fiorentina,"Michael Fabbri, Italy",2,1,5,1,38
+Serie A,8669,2018-05-20T16:00:00+00:00,Cagliari,Atalanta,"Davide Massa, Italy",0,0,1,0,38
+Serie A,8670,2018-05-20T16:00:00+00:00,Chievo,Benevento,"Fabrizio Pasqua, Italy",0,0,1,0,38
+Serie A,8671,2018-05-20T16:00:00+00:00,Napoli,Crotone,"Luca Banti, Italy",2,0,2,1,38
+Serie A,8672,2018-05-20T16:00:00+00:00,Spal,Sampdoria,"Marco Di Bello, Italy",1,0,3,1,38
+Serie A,8673,2018-05-20T16:00:00+00:00,Udinese,Bologna,"Claudio Gavillucci, Italy",1,0,1,0,38
+Serie A,8666,2018-05-20T18:45:00+00:00,Lazio,Inter,"Gianluca Rocchi, Italy",2,1,2,3,38
+Serie A,8667,2018-05-20T18:45:00+00:00,Sassuolo,AS Roma,"Eugenio Abbattista, Italy",0,1,0,1,38
+Coppa Italia,28058,2017-07-29T16:00:00+00:00,Arezzo,Triestina,,0,1,0,1,1st Round
+Coppa Italia,28057,2017-07-30T14:00:00+00:00,Renate,Siracusa,,1,0,3,1,1st Round
+Coppa Italia,28056,2017-07-30T14:30:00+00:00,Trastevere,Reggiana,,0,1,1,2,1st Round
+Coppa Italia,28055,2017-07-30T15:00:00+00:00,Virtus Francavilla,Imolese,,1,0,3,1,1st Round
+Coppa Italia,28054,2017-07-30T16:00:00+00:00,Vicenza Virtus,PRO Piacenza,,2,1,4,1,1st Round
+Coppa Italia,28053,2017-07-30T16:30:00+00:00,Piacenza,Massese,,0,0,1,0,1st Round
+Coppa Italia,28042,2017-07-30T18:30:00+00:00,Cosenza,Alessandria,,0,0,2,3,1st Round
+Coppa Italia,28043,2017-07-30T18:30:00+00:00,Giana Erminio,Albinoleffe,,0,1,1,3,1st Round
+Coppa Italia,28044,2017-07-30T18:30:00+00:00,Gubbio,Monterosi,,0,0,1,0,1st Round
+Coppa Italia,28045,2017-07-30T18:30:00+00:00,Lecce,Ciliverghe,,1,0,3,0,1st Round
+Coppa Italia,28046,2017-07-30T18:30:00+00:00,Livorno,Feralpisalo,,0,0,0,0,1st Round
+Coppa Italia,28047,2017-07-30T18:30:00+00:00,Matera,Casertana,,1,0,2,0,1st Round
+Coppa Italia,28048,2017-07-30T18:30:00+00:00,Padova,Rende,,1,1,2,1,1st Round
+Coppa Italia,28049,2017-07-30T18:30:00+00:00,Pisa,Varese,,1,1,3,1,1st Round
+Coppa Italia,28050,2017-07-30T18:30:00+00:00,Pordenone,Matelica,,1,0,2,0,1st Round
+Coppa Italia,28051,2017-07-30T18:30:00+00:00,Sambenedettese,Lucchese,,0,0,2,0,1st Round
+Coppa Italia,28052,2017-07-30T18:30:00+00:00,Trapani,Paganese,,3,0,6,0,1st Round
+Coppa Italia,28041,2017-07-30T18:45:00+00:00,Juve Stabia,Bassano Virtus,,2,1,3,1,1st Round
+Coppa Italia,28039,2017-08-05T16:00:00+00:00,Ascoli,Juve Stabia,,0,0,3,2,2nd Round
+Coppa Italia,28040,2017-08-05T16:00:00+00:00,Spezia,Reggiana,,1,0,3,0,2nd Round
+Coppa Italia,28037,2017-08-05T18:30:00+00:00,Empoli,Renate,,0,0,2,2,2nd Round
+Coppa Italia,28038,2017-08-05T18:30:00+00:00,PRO Vercelli,Lecce,,0,1,1,2,2nd Round
+Coppa Italia,28035,2017-08-06T16:30:00+00:00,Novara,Piacenza,,0,1,1,2,2nd Round
+Coppa Italia,28036,2017-08-06T16:30:00+00:00,Venezia,Pordenone,,0,1,1,2,2nd Round
+Coppa Italia,28034,2017-08-06T18:00:00+00:00,Cittadella,Albinoleffe,,1,0,2,1,2nd Round
+Coppa Italia,28025,2017-08-06T18:30:00+00:00,Avellino,Matera,,1,0,1,0,2nd Round
+Coppa Italia,28026,2017-08-06T18:30:00+00:00,Brescia,Padova,,1,0,1,0,2nd Round
+Coppa Italia,28027,2017-08-06T18:30:00+00:00,Carpi,Livorno,,3,0,4,0,2nd Round
+Coppa Italia,28028,2017-08-06T18:30:00+00:00,Palermo,Virtus Francavilla,,2,0,5,0,2nd Round
+Coppa Italia,28029,2017-08-06T18:30:00+00:00,Pescara,Triestina,,2,2,5,3,2nd Round
+Coppa Italia,28030,2017-08-06T18:30:00+00:00,Pisa,Frosinone,,0,1,0,1,2nd Round
+Coppa Italia,28031,2017-08-06T18:30:00+00:00,Salernitana,Alessandria,,1,1,2,1,2nd Round
+Coppa Italia,28032,2017-08-06T18:30:00+00:00,Vicenza Virtus,Foggia,,0,1,1,3,2nd Round
+Coppa Italia,28033,2017-08-06T18:30:00+00:00,Virtus Entella,Cremonese,,0,1,0,1,2nd Round
+Coppa Italia,28022,2017-08-06T18:45:00+00:00,Cesena,Sambenedettese,,1,0,2,1,2nd Round
+Coppa Italia,28023,2017-08-06T18:45:00+00:00,Perugia,Gubbio,,0,0,2,1,2nd Round
+Coppa Italia,28024,2017-08-06T18:45:00+00:00,Ternana,Trapani,,0,0,0,1,2nd Round
+Coppa Italia,28021,2017-08-06T19:15:00+00:00,Bari,Parma,,1,1,2,1,2nd Round
+Coppa Italia,28020,2017-08-11T19:15:00+00:00,Torino,Trapani,,5,1,7,1,3rd Round
+Coppa Italia,28019,2017-08-12T18:00:00+00:00,Bologna,Cittadella,,0,3,0,3,3rd Round
+Coppa Italia,28014,2017-08-12T18:30:00+00:00,Benevento,Perugia,,0,1,0,4,3rd Round
+Coppa Italia,28015,2017-08-12T18:30:00+00:00,Brescia,Pescara,,1,1,1,3,3rd Round
+Coppa Italia,28016,2017-08-12T18:30:00+00:00,Carpi,Salernitana,,0,2,3,3,3rd Round
+Coppa Italia,28017,2017-08-12T18:30:00+00:00,Pordenone,Lecce,,0,1,3,2,3rd Round
+Coppa Italia,28018,2017-08-12T18:30:00+00:00,Spal,Renate,,1,0,1,0,3rd Round
+Coppa Italia,28009,2017-08-12T18:45:00+00:00,Chievo,Ascoli,,1,0,2,1,3rd Round
+Coppa Italia,28010,2017-08-12T18:45:00+00:00,Crotone,Piacenza,,1,0,2,1,3rd Round
+Coppa Italia,28011,2017-08-12T18:45:00+00:00,Sampdoria,Foggia,,1,0,3,0,3rd Round
+Coppa Italia,28012,2017-08-12T18:45:00+00:00,Sassuolo,Spezia,,2,0,2,0,3rd Round
+Coppa Italia,28013,2017-08-12T18:45:00+00:00,Udinese,Frosinone,,1,1,3,2,3rd Round
+Coppa Italia,28008,2017-08-12T19:00:00+00:00,Bari,Cremonese,,2,1,2,1,3rd Round
+Coppa Italia,28007,2017-08-12T19:15:00+00:00,Cagliari,Palermo,,1,0,1,1,3rd Round
+Coppa Italia,28006,2017-08-13T16:00:00+00:00,Genoa,Cesena,,0,1,2,1,3rd Round
+Coppa Italia,28005,2017-08-13T18:30:00+00:00,Verona,Avellino,,2,0,3,1,3rd Round
+Coppa Italia,28004,2017-11-28T14:00:00+00:00,Cagliari,Pordenone,"Fabio Piscopo, Italy",1,1,1,2,4th Round
+Coppa Italia,28003,2017-11-28T17:00:00+00:00,Spal,Cittadella,"Valerio Marini, Italy",0,1,0,2,4th Round
+Coppa Italia,28002,2017-11-28T20:00:00+00:00,Sampdoria,Pescara,"Francesco Fourneau, Italy",3,0,4,1,4th Round
+Coppa Italia,28001,2017-11-29T14:00:00+00:00,Sassuolo,Bari,"Luigi Pillitteri, Italy",1,0,2,1,4th Round
+Coppa Italia,28000,2017-11-29T17:00:00+00:00,Chievo,Verona,"Maurizio Mariani, Italy",1,1,1,1,4th Round
+Coppa Italia,27999,2017-11-29T20:00:00+00:00,Torino,Carpi,"Illuzzi Lorenzo, Italy",2,0,2,0,4th Round
+Coppa Italia,27998,2017-11-30T17:00:00+00:00,Udinese,Perugia,"Luigi Nasca, Italy",3,1,8,3,4th Round
+Coppa Italia,27997,2017-11-30T20:00:00+00:00,Genoa,Crotone,"Gianluca Manganiello, Italy",0,0,1,0,4th Round
+Coppa Italia,27996,2017-12-12T20:00:00+00:00,Inter,Pordenone,,0,0,0,0,8th Finals
+Coppa Italia,27995,2017-12-13T16:30:00+00:00,Fiorentina,Sampdoria,,1,1,3,2,8th Finals
+Coppa Italia,27994,2017-12-13T19:45:00+00:00,AC Milan,Verona,,2,0,3,0,8th Finals
+Coppa Italia,27993,2017-12-14T20:00:00+00:00,Lazio,Cittadella,,3,1,4,1,8th Finals
+Coppa Italia,27992,2017-12-19T20:00:00+00:00,Napoli,Udinese,,0,0,1,0,8th Finals
+Coppa Italia,27991,2017-12-20T14:00:00+00:00,Atalanta,Sassuolo,,2,0,2,1,8th Finals
+Coppa Italia,27990,2017-12-20T16:30:00+00:00,AS Roma,Torino,,0,1,1,2,8th Finals
+Coppa Italia,27989,2017-12-20T19:45:00+00:00,Juventus,Genoa,,1,0,2,0,8th Finals
+Coppa Italia,27988,2017-12-26T20:00:00+00:00,Lazio,Fiorentina,,1,0,1,0,Quarter-finals
+Coppa Italia,27987,2017-12-27T19:45:00+00:00,AC Milan,Inter,,0,0,1,0,Quarter-finals
+Coppa Italia,27986,2018-01-02T19:45:00+00:00,Napoli,Atalanta,,0,0,1,2,Quarter-finals
+Coppa Italia,27985,2018-01-03T19:45:00+00:00,Juventus,Torino,,1,0,2,0,Quarter-finals
+Coppa Italia,27984,2018-01-30T19:45:00+00:00,Atalanta,Juventus,,0,1,0,1,Semi-finals
+Coppa Italia,27983,2018-01-31T19:45:00+00:00,AC Milan,Lazio,,0,0,0,0,Semi-finals
+Coppa Italia,27982,2018-02-28T16:30:00+00:00,Juventus,Atalanta,,0,0,1,0,Semi-finals
+Coppa Italia,27981,2018-02-28T19:45:00+00:00,Lazio,AC Milan,,0,0,0,0,Semi-finals
+Coppa Italia,27980,2018-05-09T19:00:00+00:00,Juventus,AC Milan,,0,0,4,0,Final
+Primera Division,9887,2017-08-18T18:15:00+00:00,Leganes,Alaves,"Jose Luis Munuera Montero, Spain",1,0,1,0,1
+Primera Division,9886,2017-08-18T20:15:00+00:00,Valencia,Las Palmas,"Jesus Gil Manzano, Spain",1,0,1,0,1
+Primera Division,9885,2017-08-19T16:15:00+00:00,Celta Vigo,Real Sociedad,"Antonio Mateu, Spain",1,1,2,3,1
+Primera Division,9884,2017-08-19T18:15:00+00:00,Girona,Atletico Madrid,"Juan Martinez Munuera, Spain",2,0,2,2,1
+Primera Division,9883,2017-08-19T20:15:00+00:00,Sevilla,Espanyol,"Alejandro Hernandez, Spain",1,1,1,1,1
+Primera Division,9882,2017-08-20T16:15:00+00:00,Athletic Club,Getafe,"Mario Melero Lopez, Spain",0,0,0,0,1
+Primera Division,9881,2017-08-20T18:15:00+00:00,Barcelona,Real Betis,"Daniel Jesus Trujillo Suarez, Spain",2,0,2,0,1
+Primera Division,9880,2017-08-20T20:15:00+00:00,Deportivo La Coruna,Real Madrid,"Jose Luis Gonzalez Gonzalez, Spain",0,2,0,3,1
+Primera Division,9879,2017-08-21T18:15:00+00:00,Levante,Villarreal,"Alfonso Alvarez Izquierdo, Spain",0,0,1,0,1
+Primera Division,9878,2017-08-21T20:00:00+00:00,Malaga,Eibar,"David Medie Jimenez, Spain",0,0,0,1,1
+Primera Division,9877,2017-08-25T18:15:00+00:00,Real Sociedad,Villarreal,"Javier Estrada Fernandez, Spain",3,0,3,0,2
+Primera Division,9876,2017-08-25T20:00:00+00:00,Real Betis,Celta Vigo,"Ricardo De Burgos Bengoetxea, Spain",1,1,2,1,2
+Primera Division,9875,2017-08-26T16:15:00+00:00,Alaves,Barcelona,"Carlos Del Cerro Grande, Spain",0,0,0,2,2
+Primera Division,9873,2017-08-26T18:15:00+00:00,Girona,Malaga,"Santiago Jaime Latre, Spain",1,0,1,0,2
+Primera Division,9874,2017-08-26T18:15:00+00:00,Levante,Deportivo La Coruna,"Javier Alberola Rojas, Spain",1,2,2,2,2
+Primera Division,9872,2017-08-26T20:15:00+00:00,Las Palmas,Atletico Madrid,"Ignacio Iglesias Villanueva, Spain",0,2,1,5,2
+Primera Division,9870,2017-08-27T16:15:00+00:00,Eibar,Athletic Club,"Jose Maria Sanchez Martinez, Spain",0,1,0,1,2
+Primera Division,9871,2017-08-27T16:15:00+00:00,Espanyol,Leganes,"Pablo Gonzales Fuertes, Spain",0,1,0,1,2
+Primera Division,9869,2017-08-27T18:15:00+00:00,Getafe,Sevilla,"Alberto Undiano, Spain",0,0,0,1,2
+Primera Division,9868,2017-08-27T20:15:00+00:00,Real Madrid,Valencia,"David Fernandez Borbalan, Spain",1,1,2,2,2
+Primera Division,9867,2017-09-08T19:00:00+00:00,Leganes,Getafe,"Alfonso Alvarez Izquierdo, Spain",0,1,1,2,3
+Primera Division,9866,2017-09-09T11:00:00+00:00,Real Madrid,Levante,"Alejandro Hernandez, Spain",1,1,1,1,3
+Primera Division,9865,2017-09-09T14:15:00+00:00,Valencia,Atletico Madrid,"Jose Luis Gonzalez Gonzalez, Spain",0,0,0,0,3
+Primera Division,9864,2017-09-09T16:30:00+00:00,Sevilla,Eibar,"Antonio Mateu, Spain",0,0,3,0,3
+Primera Division,9863,2017-09-09T18:45:00+00:00,Barcelona,Espanyol,"Jesus Gil Manzano, Spain",2,0,5,0,3
+Primera Division,9862,2017-09-10T10:00:00+00:00,Deportivo La Coruna,Real Sociedad,"Jose Luis Munuera Montero, Spain",1,2,2,4,3
+Primera Division,9861,2017-09-10T14:15:00+00:00,Athletic Club,Girona,"Daniel Jesus Trujillo Suarez, Spain",1,0,2,0,3
+Primera Division,9860,2017-09-10T16:30:00+00:00,Celta Vigo,Alaves,"Mario Melero Lopez, Spain",1,0,1,0,3
+Primera Division,9859,2017-09-10T18:45:00+00:00,Villarreal,Real Betis,"David Medie Jimenez, Spain",1,1,3,1,3
+Primera Division,9858,2017-09-11T19:00:00+00:00,Malaga,Las Palmas,"Javier Estrada Fernandez, Spain",0,1,1,3,3
+Primera Division,9857,2017-09-15T19:00:00+00:00,Eibar,Leganes,"Juan Martinez Munuera, Spain",0,0,1,0,4
+Primera Division,9856,2017-09-16T11:00:00+00:00,Levante,Valencia,"Carlos Del Cerro Grande, Spain",1,1,1,1,4
+Primera Division,9855,2017-09-16T14:15:00+00:00,Getafe,Barcelona,"David Fernandez Borbalan, Spain",1,0,1,2,4
+Primera Division,9854,2017-09-16T16:30:00+00:00,Real Betis,Deportivo La Coruna,"Alberto Undiano, Spain",1,1,2,1,4
+Primera Division,9853,2017-09-16T18:45:00+00:00,Atletico Madrid,Malaga,"Jose Maria Sanchez Martinez, Spain",0,0,1,0,4
+Primera Division,9852,2017-09-17T10:00:00+00:00,Alaves,Villarreal,"Santiago Jaime Latre, Spain",0,1,0,3,4
+Primera Division,9851,2017-09-17T14:15:00+00:00,Girona,Sevilla,"Ricardo De Burgos Bengoetxea, Spain",0,0,0,1,4
+Primera Division,9850,2017-09-17T16:30:00+00:00,Las Palmas,Athletic Club,"Pablo Gonzales Fuertes, Spain",0,0,1,0,4
+Primera Division,9849,2017-09-17T18:45:00+00:00,Real Sociedad,Real Madrid,"Ignacio Iglesias Villanueva, Spain",1,2,1,3,4
+Primera Division,9848,2017-09-18T19:00:00+00:00,Espanyol,Celta Vigo,"Javier Alberola Rojas, Spain",2,0,2,1,4
+Primera Division,9847,2017-09-19T18:00:00+00:00,Valencia,Malaga,"Alfonso Alvarez Izquierdo, Spain",1,0,5,0,5
+Primera Division,9846,2017-09-19T20:00:00+00:00,Barcelona,Eibar,"Alejandro Hernandez, Spain",2,0,6,1,5
+Primera Division,9844,2017-09-20T18:00:00+00:00,Athletic Club,Atletico Madrid,"Javier Estrada Fernandez, Spain",0,0,1,2,5
+Primera Division,9845,2017-09-20T18:00:00+00:00,Leganes,Girona,"Mario Melero Lopez, Spain",0,0,0,0,5
+Primera Division,9843,2017-09-20T19:00:00+00:00,Deportivo La Coruna,Alaves,"David Medie Jimenez, Spain",1,0,1,0,5
+Primera Division,9841,2017-09-20T20:00:00+00:00,Real Madrid,Real Betis,"Antonio Mateu, Spain",0,0,0,1,5
+Primera Division,9842,2017-09-20T20:00:00+00:00,Sevilla,Las Palmas,"Jose Luis Gonzalez Gonzalez, Spain",0,0,1,0,5
+Primera Division,9840,2017-09-21T18:00:00+00:00,Villarreal,Espanyol,"Jose Luis Munuera Montero, Spain",0,0,0,0,5
+Primera Division,9839,2017-09-21T19:00:00+00:00,Celta Vigo,Getafe,"Daniel Jesus Trujillo Suarez, Spain",1,0,1,1,5
+Primera Division,9838,2017-09-21T20:00:00+00:00,Levante,Real Sociedad,"Jesus Gil Manzano, Spain",1,0,3,0,5
+Primera Division,9837,2017-09-23T11:00:00+00:00,Atletico Madrid,Sevilla,"Juan Martinez Munuera, Spain",0,0,2,0,6
+Primera Division,9836,2017-09-23T14:15:00+00:00,Alaves,Real Madrid,"Alberto Undiano, Spain",1,2,1,2,6
+Primera Division,9835,2017-09-23T16:30:00+00:00,Malaga,Athletic Club,"Carlos Del Cerro Grande, Spain",1,1,3,3,6
+Primera Division,9834,2017-09-23T18:45:00+00:00,Girona,Barcelona,"Jose Maria Sanchez Martinez, Spain",0,1,0,3,6
+Primera Division,9833,2017-09-24T10:00:00+00:00,Espanyol,Deportivo La Coruna,"Ricardo De Burgos Bengoetxea, Spain",2,0,4,1,6
+Primera Division,9832,2017-09-24T14:15:00+00:00,Getafe,Villarreal,"Ignacio Iglesias Villanueva, Spain",0,0,4,0,6
+Primera Division,9830,2017-09-24T16:30:00+00:00,Eibar,Celta Vigo,"David Fernandez Borbalan, Spain",0,3,0,4,6
+Primera Division,9831,2017-09-24T16:30:00+00:00,Las Palmas,Leganes,"Javier Alberola Rojas, Spain",0,0,0,2,6
+Primera Division,9829,2017-09-24T18:45:00+00:00,Real Sociedad,Valencia,"Santiago Jaime Latre, Spain",1,1,2,3,6
+Primera Division,9828,2017-09-25T19:00:00+00:00,Real Betis,Levante,"Pablo Gonzales Fuertes, Spain",0,0,4,0,6
+Primera Division,9827,2017-09-29T19:00:00+00:00,Celta Vigo,Girona,"Pablo Gonzales Fuertes, Spain",2,2,3,3,7
+Primera Division,9826,2017-09-30T11:00:00+00:00,Deportivo La Coruna,Getafe,"Javier Estrada Fernandez, Spain",0,0,2,1,7
+Primera Division,9825,2017-09-30T14:15:00+00:00,Sevilla,Malaga,"Daniel Jesus Trujillo Suarez, Spain",0,0,2,0,7
+Primera Division,9824,2017-09-30T16:30:00+00:00,Levante,Alaves,"David Fernandez Borbalan, Spain",0,1,0,2,7
+Primera Division,9823,2017-09-30T18:45:00+00:00,Leganes,Atletico Madrid,"Jesus Gil Manzano, Spain",0,0,0,0,7
+Primera Division,9822,2017-10-01T10:00:00+00:00,Real Sociedad,Real Betis,"Alfonso Alvarez Izquierdo, Spain",2,2,4,4,7
+Primera Division,9821,2017-10-01T14:15:00+00:00,Barcelona,Las Palmas,"Jose Luis Munuera Montero, Spain",0,0,3,0,7
+Primera Division,9819,2017-10-01T16:30:00+00:00,Valencia,Athletic Club,"Alejandro Hernandez, Spain",2,0,3,2,7
+Primera Division,9820,2017-10-01T16:30:00+00:00,Villarreal,Eibar,"Mario Melero Lopez, Spain",1,0,3,0,7
+Primera Division,9818,2017-10-01T18:45:00+00:00,Real Madrid,Espanyol,"Jose Luis Gonzalez Gonzalez, Spain",1,0,2,0,7
+Primera Division,9817,2017-10-13T19:00:00+00:00,Espanyol,Levante,"Alberto Undiano, Spain",0,0,0,0,8
+Primera Division,9816,2017-10-14T11:00:00+00:00,Athletic Club,Sevilla,"Ignacio Iglesias Villanueva, Spain",1,0,1,0,8
+Primera Division,9815,2017-10-14T14:15:00+00:00,Getafe,Real Madrid,"Juan Martinez Munuera, Spain",0,1,1,2,8
+Primera Division,9814,2017-10-14T16:30:00+00:00,Alaves,Real Sociedad,"Javier Alberola Rojas, Spain",0,0,0,2,8
+Primera Division,9813,2017-10-14T18:45:00+00:00,Atletico Madrid,Barcelona,"Antonio Mateu, Spain",1,0,1,1,8
+Primera Division,9812,2017-10-15T10:00:00+00:00,Eibar,Deportivo La Coruna,"Santiago Jaime Latre, Spain",0,0,0,0,8
+Primera Division,9811,2017-10-15T14:15:00+00:00,Girona,Villarreal,"Carlos Del Cerro Grande, Spain",1,2,1,2,8
+Primera Division,9810,2017-10-15T16:30:00+00:00,Malaga,Leganes,"Jose Luis Gonzalez Gonzalez, Spain",0,0,0,2,8
+Primera Division,9809,2017-10-15T18:45:00+00:00,Real Betis,Valencia,"Jose Maria Sanchez Martinez, Spain",0,2,3,6,8
+Primera Division,9808,2017-10-16T19:00:00+00:00,Las Palmas,Celta Vigo,"David Medie Jimenez, Spain",0,2,2,5,8
+Primera Division,9807,2017-10-21T11:00:00+00:00,Levante,Getafe,"Ricardo De Burgos Bengoetxea, Spain",0,0,1,1,9
+Primera Division,9806,2017-10-21T14:15:00+00:00,Real Betis,Alaves,"Daniel Jesus Trujillo Suarez, Spain",1,0,2,0,9
+Primera Division,9805,2017-10-21T16:30:00+00:00,Valencia,Sevilla,"Javier Estrada Fernandez, Spain",1,0,4,0,9
+Primera Division,9804,2017-10-21T18:45:00+00:00,Barcelona,Malaga,"Pablo Gonzales Fuertes, Spain",1,0,2,0,9
+Primera Division,9803,2017-10-22T10:00:00+00:00,Villarreal,Las Palmas,"David Fernandez Borbalan, Spain",0,0,4,0,9
+Primera Division,9802,2017-10-22T14:15:00+00:00,Celta Vigo,Atletico Madrid,"Jose Luis Munuera Montero, Spain",0,1,0,1,9
+Primera Division,9801,2017-10-22T16:30:00+00:00,Leganes,Athletic Club,"Antonio Mateu, Spain",0,0,1,0,9
+Primera Division,9800,2017-10-22T18:45:00+00:00,Real Madrid,Eibar,"Alfonso Alvarez Izquierdo, Spain",2,0,3,0,9
+Primera Division,9799,2017-10-23T18:00:00+00:00,Real Sociedad,Espanyol,"Mario Melero Lopez, Spain",0,1,1,1,9
+Primera Division,9798,2017-10-23T19:00:00+00:00,Deportivo La Coruna,Girona,"Jesus Gil Manzano, Spain",0,1,1,2,9
+Primera Division,9797,2017-10-28T11:00:00+00:00,Alaves,Valencia,"Jose Luis Gonzalez Gonzalez, Spain",0,1,1,2,10
+Primera Division,9796,2017-10-28T16:30:00+00:00,Atletico Madrid,Villarreal,"Alberto Undiano, Spain",0,0,1,1,10
+Primera Division,9795,2017-10-28T18:45:00+00:00,Athletic Club,Barcelona,"Juan Martinez Munuera, Spain",0,1,0,2,10
+Primera Division,9794,2017-10-28T20:30:00+00:00,Sevilla,Leganes,"David Medie Jimenez, Spain",1,0,2,1,10
+Primera Division,9793,2017-10-29T11:00:00+00:00,Getafe,Real Sociedad,"Jose Maria Sanchez Martinez, Spain",0,1,2,1,10
+Primera Division,9792,2017-10-29T15:15:00+00:00,Girona,Real Madrid,"Alejandro Hernandez, Spain",0,1,2,1,10
+Primera Division,9791,2017-10-29T17:30:00+00:00,Eibar,Levante,"Javier Alberola Rojas, Spain",0,2,2,2,10
+Primera Division,9790,2017-10-29T19:45:00+00:00,Malaga,Celta Vigo,"Santiago Jaime Latre, Spain",1,0,2,1,10
+Primera Division,9788,2017-10-30T20:00:00+00:00,Espanyol,Real Betis,"Ignacio Iglesias Villanueva, Spain",0,0,1,0,10
+Primera Division,9789,2017-10-30T20:00:00+00:00,Las Palmas,Deportivo La Coruna,"Carlos Del Cerro Grande, Spain",1,1,1,3,10
+Primera Division,9787,2017-11-03T20:00:00+00:00,Real Betis,Getafe,"Antonio Mateu, Spain",0,2,2,2,11
+Primera Division,9786,2017-11-04T12:00:00+00:00,Valencia,Leganes,"Ricardo De Burgos Bengoetxea, Spain",1,0,3,0,11
+Primera Division,9785,2017-11-04T15:15:00+00:00,Deportivo La Coruna,Atletico Madrid,"Alfonso Alvarez Izquierdo, Spain",0,0,0,1,11
+Primera Division,9784,2017-11-04T17:30:00+00:00,Alaves,Espanyol,"Pablo Gonzales Fuertes, Spain",1,0,1,0,11
+Primera Division,9783,2017-11-04T19:45:00+00:00,Barcelona,Sevilla,"Jose Luis Gonzalez Gonzalez, Spain",1,0,2,1,11
+Primera Division,9782,2017-11-05T11:00:00+00:00,Levante,Girona,"Jose Luis Munuera Montero, Spain",0,0,1,2,11
+Primera Division,9781,2017-11-05T15:15:00+00:00,Celta Vigo,Athletic Club,"Jesus Gil Manzano, Spain",3,1,3,1,11
+Primera Division,9779,2017-11-05T17:30:00+00:00,Real Sociedad,Eibar,"Daniel Jesus Trujillo Suarez, Spain",2,0,3,1,11
+Primera Division,9780,2017-11-05T17:30:00+00:00,Villarreal,Malaga,"Javier Estrada Fernandez, Spain",0,0,2,0,11
+Primera Division,9778,2017-11-05T19:45:00+00:00,Real Madrid,Las Palmas,"Jose Maria Sanchez Martinez, Spain",1,0,3,0,11
+Primera Division,9777,2017-11-17T20:00:00+00:00,Girona,Real Sociedad,"Ignacio Iglesias Villanueva, Spain",0,1,1,1,12
+Primera Division,9776,2017-11-18T12:00:00+00:00,Getafe,Alaves,"Santiago Jaime Latre, Spain",2,0,4,1,12
+Primera Division,9775,2017-11-18T15:15:00+00:00,Leganes,Barcelona,"Alberto Undiano, Spain",0,1,0,3,12
+Primera Division,9774,2017-11-18T17:30:00+00:00,Sevilla,Celta Vigo,"Carlos Del Cerro Grande, Spain",1,1,2,1,12
+Primera Division,9773,2017-11-18T19:45:00+00:00,Atletico Madrid,Real Madrid,"David Fernandez Borbalan, Spain",0,0,0,0,12
+Primera Division,9772,2017-11-19T11:00:00+00:00,Malaga,Deportivo La Coruna,"Juan Martinez Munuera, Spain",1,1,3,2,12
+Primera Division,9771,2017-11-19T15:15:00+00:00,Espanyol,Valencia,"Alejandro Hernandez, Spain",0,0,0,2,12
+Primera Division,9770,2017-11-19T17:30:00+00:00,Las Palmas,Levante,"Mario Melero Lopez, Spain",0,0,0,2,12
+Primera Division,9769,2017-11-19T19:45:00+00:00,Athletic Club,Villarreal,"David Medie Jimenez, Spain",0,1,1,1,12
+Primera Division,9768,2017-11-20T20:00:00+00:00,Eibar,Real Betis,"Jose Luis Gonzalez Gonzalez, Spain",2,0,5,0,12
+Primera Division,9767,2017-11-24T20:00:00+00:00,Celta Vigo,Leganes,"Alejandro Hernandez, Spain",1,0,1,0,13
+Primera Division,9766,2017-11-25T12:00:00+00:00,Alaves,Eibar,"Jose Luis Munuera Montero, Spain",0,1,1,2,13
+Primera Division,9765,2017-11-25T15:15:00+00:00,Real Madrid,Malaga,"Jesus Gil Manzano, Spain",2,1,3,2,13
+Primera Division,9764,2017-11-25T17:30:00+00:00,Real Betis,Girona,"Carlos Del Cerro Grande, Spain",0,1,2,2,13
+Primera Division,9763,2017-11-25T19:45:00+00:00,Levante,Atletico Madrid,"Daniel Jesus Trujillo Suarez, Spain",0,2,0,5,13
+Primera Division,9762,2017-11-26T11:00:00+00:00,Deportivo La Coruna,Athletic Club,"Jose Luis Gonzalez Gonzalez, Spain",1,1,2,2,13
+Primera Division,9761,2017-11-26T15:15:00+00:00,Real Sociedad,Las Palmas,"Pablo Gonzales Fuertes, Spain",1,1,2,2,13
+Primera Division,9760,2017-11-26T17:30:00+00:00,Villarreal,Sevilla,"Javier Alberola Rojas, Spain",1,0,2,3,13
+Primera Division,9759,2017-11-26T19:45:00+00:00,Valencia,Barcelona,"Ignacio Iglesias Villanueva, Spain",0,0,1,1,13
+Primera Division,9758,2017-11-27T20:00:00+00:00,Espanyol,Getafe,"Juan Martinez Munuera, Spain",0,0,1,0,13
+Primera Division,9757,2017-12-01T20:00:00+00:00,Malaga,Levante,"Ricardo De Burgos Bengoetxea, Spain",0,0,0,0,14
+Primera Division,9756,2017-12-02T12:00:00+00:00,Barcelona,Celta Vigo,"Mario Melero Lopez, Spain",1,1,2,2,14
+Primera Division,9755,2017-12-02T15:15:00+00:00,Atletico Madrid,Real Sociedad,"Santiago Jaime Latre, Spain",0,1,2,1,14
+Primera Division,9754,2017-12-02T17:30:00+00:00,Sevilla,Deportivo La Coruna,"Jose Maria Sanchez Martinez, Spain",1,0,2,0,14
+Primera Division,9753,2017-12-02T19:45:00+00:00,Athletic Club,Real Madrid,"Antonio Mateu, Spain",0,0,0,0,14
+Primera Division,9752,2017-12-03T11:00:00+00:00,Leganes,Villarreal,"David Fernandez Borbalan, Spain",0,0,3,1,14
+Primera Division,9751,2017-12-03T15:15:00+00:00,Getafe,Valencia,"David Medie Jimenez, Spain",0,0,1,0,14
+Primera Division,9750,2017-12-03T17:30:00+00:00,Eibar,Espanyol,"Alberto Undiano, Spain",2,0,3,1,14
+Primera Division,9749,2017-12-03T19:45:00+00:00,Las Palmas,Real Betis,"Javier Estrada Fernandez, Spain",1,0,1,0,14
+Primera Division,9748,2017-12-04T20:00:00+00:00,Girona,Alaves,"Javier Alberola Rojas, Spain",0,0,2,3,14
+Primera Division,9747,2017-12-08T20:00:00+00:00,Alaves,Las Palmas,"David Medie Jimenez, Spain",1,0,2,0,15
+Primera Division,9746,2017-12-09T12:00:00+00:00,Getafe,Eibar,"Javier Alberola Rojas, Spain",0,0,0,0,15
+Primera Division,9745,2017-12-09T15:15:00+00:00,Real Madrid,Sevilla,"Juan Martinez Munuera, Spain",5,0,5,0,15
+Primera Division,9744,2017-12-09T17:30:00+00:00,Deportivo La Coruna,Leganes,"Mario Melero Lopez, Spain",1,0,1,0,15
+Primera Division,9743,2017-12-09T19:45:00+00:00,Valencia,Celta Vigo,"Jose Luis Munuera Montero, Spain",1,0,2,1,15
+Primera Division,9742,2017-12-10T11:00:00+00:00,Real Sociedad,Malaga,"Carlos Del Cerro Grande, Spain",0,1,0,2,15
+Primera Division,9741,2017-12-10T15:15:00+00:00,Real Betis,Atletico Madrid,"Alejandro Hernandez, Spain",0,1,0,1,15
+Primera Division,9740,2017-12-10T17:30:00+00:00,Levante,Athletic Club,"Javier Estrada Fernandez, Spain",0,1,1,2,15
+Primera Division,9739,2017-12-10T19:45:00+00:00,Villarreal,Barcelona,"Ricardo De Burgos Bengoetxea, Spain",0,0,0,2,15
+Primera Division,9738,2017-12-11T20:00:00+00:00,Espanyol,Girona,"Jose Luis Gonzalez Gonzalez, Spain",0,1,0,1,15
+Primera Division,9737,2017-12-15T20:00:00+00:00,Sevilla,Levante,"Ignacio Iglesias Villanueva, Spain",0,0,0,0,16
+Primera Division,9736,2017-12-16T15:15:00+00:00,Athletic Club,Real Sociedad,"David Fernandez Borbalan, Spain",0,0,0,0,16
+Primera Division,9735,2017-12-16T17:30:00+00:00,Eibar,Valencia,"Pablo Gonzales Fuertes, Spain",0,0,2,1,16
+Primera Division,9734,2017-12-16T19:45:00+00:00,Atletico Madrid,Alaves,"Jesus Gil Manzano, Spain",0,0,1,0,16
+Primera Division,9733,2017-12-17T11:00:00+00:00,Girona,Getafe,"Alberto Undiano, Spain",1,0,1,0,16
+Primera Division,9732,2017-12-17T15:15:00+00:00,Celta Vigo,Villarreal,"Javier Estrada Fernandez, Spain",0,1,0,1,16
+Primera Division,9731,2017-12-17T17:30:00+00:00,Las Palmas,Espanyol,"Jose Maria Sanchez Martinez, Spain",0,2,2,2,16
+Primera Division,9730,2017-12-17T19:45:00+00:00,Barcelona,Deportivo La Coruna,"Antonio Mateu, Spain",2,0,4,0,16
+Primera Division,9729,2017-12-18T20:00:00+00:00,Malaga,Real Betis,"Javier Alberola Rojas, Spain",0,1,0,2,16
+Primera Division,9648,2018-02-21T17:45:00+00:00,Leganes,Real Madrid,"Jose Luis Gonzalez Gonzalez, Spain",1,2,1,3,16
+Primera Division,9728,2017-12-19T20:30:00+00:00,Levante,Leganes,"Santiago Jaime Latre, Spain",0,0,0,0,17
+Primera Division,9727,2017-12-20T18:30:00+00:00,Getafe,Las Palmas,"Ricardo De Burgos Bengoetxea, Spain",2,0,2,0,17
+Primera Division,9726,2017-12-20T20:30:00+00:00,Real Sociedad,Sevilla,"Alejandro Hernandez, Spain",1,1,3,1,17
+Primera Division,9725,2017-12-21T18:30:00+00:00,Eibar,Girona,"Ignacio Iglesias Villanueva, Spain",2,1,4,1,17
+Primera Division,9724,2017-12-21T20:30:00+00:00,Alaves,Malaga,"Alfonso Alvarez Izquierdo, Spain",0,0,1,0,17
+Primera Division,9723,2017-12-22T18:30:00+00:00,Real Betis,Athletic Club,"Juan Martinez Munuera, Spain",0,1,0,2,17
+Primera Division,9722,2017-12-22T20:30:00+00:00,Espanyol,Atletico Madrid,"Mario Melero Lopez, Spain",0,0,1,0,17
+Primera Division,9721,2017-12-23T12:00:00+00:00,Real Madrid,Barcelona,"Jose Maria Sanchez Martinez, Spain",0,0,0,3,17
+Primera Division,9720,2017-12-23T15:15:00+00:00,Valencia,Villarreal,"Daniel Jesus Trujillo Suarez, Spain",0,1,0,1,17
+Primera Division,9719,2017-12-23T17:30:00+00:00,Deportivo La Coruna,Celta Vigo,"Alberto Undiano, Spain",0,2,1,3,17
+Primera Division,9718,2018-01-06T12:00:00+00:00,Atletico Madrid,Getafe,"Jose Luis Munuera Montero, Spain",1,0,2,0,18
+Primera Division,9717,2018-01-06T15:15:00+00:00,Valencia,Girona,"David Fernandez Borbalan, Spain",1,1,2,1,18
+Primera Division,9716,2018-01-06T17:30:00+00:00,Las Palmas,Eibar,"Jose Luis Gonzalez Gonzalez, Spain",1,0,1,2,18
+Primera Division,9715,2018-01-06T19:45:00+00:00,Sevilla,Real Betis,"Jesus Gil Manzano, Spain",2,2,3,5,18
+Primera Division,9714,2018-01-07T11:00:00+00:00,Leganes,Real Sociedad,"Javier Estrada Fernandez, Spain",0,0,1,0,18
+Primera Division,9713,2018-01-07T15:15:00+00:00,Barcelona,Levante,"Carlos Del Cerro Grande, Spain",2,0,3,0,18
+Primera Division,9711,2018-01-07T17:30:00+00:00,Athletic Club,Alaves,"Pablo Gonzales Fuertes, Spain",1,0,2,0,18
+Primera Division,9712,2018-01-07T17:30:00+00:00,Villarreal,Deportivo La Coruna,"David Medie Jimenez, Spain",1,0,1,1,18
+Primera Division,9710,2018-01-07T19:45:00+00:00,Celta Vigo,Real Madrid,"Santiago Jaime Latre, Spain",1,2,2,2,18
+Primera Division,9709,2018-01-08T20:00:00+00:00,Malaga,Espanyol,"Antonio Mateu, Spain",0,1,0,1,18
+Primera Division,9708,2018-01-12T20:00:00+00:00,Getafe,Malaga,"Juan Martinez Munuera, Spain",0,0,1,0,19
+Primera Division,9707,2018-01-13T12:00:00+00:00,Girona,Las Palmas,"Mario Melero Lopez, Spain",1,0,6,0,19
+Primera Division,9706,2018-01-13T15:15:00+00:00,Real Madrid,Villarreal,"Alberto Undiano, Spain",0,0,0,1,19
+Primera Division,9705,2018-01-13T17:30:00+00:00,Eibar,Atletico Madrid,"Antonio Mateu, Spain",0,1,0,1,19
+Primera Division,9704,2018-01-13T19:45:00+00:00,Deportivo La Coruna,Valencia,"Javier Alberola Rojas, Spain",0,1,1,2,19
+Primera Division,9703,2018-01-14T11:00:00+00:00,Levante,Celta Vigo,"Alfonso Alvarez Izquierdo, Spain",0,1,0,1,19
+Primera Division,9702,2018-01-14T15:15:00+00:00,Alaves,Sevilla,"Jose Maria Sanchez Martinez, Spain",0,0,1,0,19
+Primera Division,9701,2018-01-14T17:30:00+00:00,Espanyol,Athletic Club,"Daniel Jesus Trujillo Suarez, Spain",1,1,1,1,19
+Primera Division,9700,2018-01-14T19:45:00+00:00,Real Sociedad,Barcelona,"Jose Luis Gonzalez Gonzalez, Spain",2,1,2,4,19
+Primera Division,9699,2018-01-15T20:00:00+00:00,Real Betis,Leganes,"Ignacio Iglesias Villanueva, Spain",2,1,3,2,19
+Primera Division,9698,2018-01-19T20:00:00+00:00,Getafe,Athletic Club,"Jesus Gil Manzano, Spain",1,1,2,2,20
+Primera Division,9697,2018-01-20T12:00:00+00:00,Espanyol,Sevilla,"Alberto Undiano, Spain",0,2,0,3,20
+Primera Division,9696,2018-01-20T15:15:00+00:00,Atletico Madrid,Girona,"Ricardo De Burgos Bengoetxea, Spain",1,0,1,1,20
+Primera Division,9695,2018-01-20T17:30:00+00:00,Villarreal,Levante,"Jose Luis Gonzalez Gonzalez, Spain",1,0,2,1,20
+Primera Division,9694,2018-01-20T19:45:00+00:00,Las Palmas,Valencia,"Jose Luis Munuera Montero, Spain",1,1,2,1,20
+Primera Division,9693,2018-01-21T11:00:00+00:00,Alaves,Leganes,"Daniel Jesus Trujillo Suarez, Spain",0,0,2,2,20
+Primera Division,9692,2018-01-21T15:15:00+00:00,Real Madrid,Deportivo La Coruna,"David Fernandez Borbalan, Spain",2,1,7,1,20
+Primera Division,9691,2018-01-21T17:30:00+00:00,Real Sociedad,Celta Vigo,"Antonio Mateu, Spain",1,1,1,2,20
+Primera Division,9690,2018-01-21T19:45:00+00:00,Real Betis,Barcelona,"Santiago Jaime Latre, Spain",0,0,0,5,20
+Primera Division,9689,2018-01-22T20:00:00+00:00,Eibar,Malaga,"David Medie Jimenez, Spain",0,1,1,1,20
+Primera Division,9688,2018-01-26T20:00:00+00:00,Athletic Club,Eibar,"Mario Melero Lopez, Spain",0,0,1,1,21
+Primera Division,9687,2018-01-27T12:00:00+00:00,Deportivo La Coruna,Levante,"Pablo Gonzales Fuertes, Spain",2,0,2,2,21
+Primera Division,9686,2018-01-27T15:15:00+00:00,Valencia,Real Madrid,"Javier Estrada Fernandez, Spain",0,2,1,4,21
+Primera Division,9685,2018-01-27T17:30:00+00:00,Malaga,Girona,"Alberto Undiano, Spain",0,0,0,0,21
+Primera Division,9684,2018-01-27T19:45:00+00:00,Villarreal,Real Sociedad,"Carlos Del Cerro Grande, Spain",4,1,4,2,21
+Primera Division,9683,2018-01-28T11:00:00+00:00,Leganes,Espanyol,"Juan Martinez Munuera, Spain",1,0,3,2,21
+Primera Division,9682,2018-01-28T15:15:00+00:00,Atletico Madrid,Las Palmas,"Alfonso Alvarez Izquierdo, Spain",0,0,3,0,21
+Primera Division,9681,2018-01-28T17:30:00+00:00,Sevilla,Getafe,"Javier Alberola Rojas, Spain",0,0,1,1,21
+Primera Division,9680,2018-01-28T19:45:00+00:00,Barcelona,Alaves,"Ignacio Iglesias Villanueva, Spain",0,1,2,1,21
+Primera Division,9679,2018-01-29T20:00:00+00:00,Celta Vigo,Real Betis,"Jose Maria Sanchez Martinez, Spain",1,0,3,2,21
+Primera Division,9678,2018-02-02T20:00:00+00:00,Real Sociedad,Deportivo La Coruna,"Alberto Undiano, Spain",1,0,5,0,22
+Primera Division,9677,2018-02-03T12:00:00+00:00,Eibar,Sevilla,"Daniel Jesus Trujillo Suarez, Spain",3,1,5,1,22
+Primera Division,9676,2018-02-03T15:15:00+00:00,Real Betis,Villarreal,"Javier Alberola Rojas, Spain",1,0,2,1,22
+Primera Division,9675,2018-02-03T17:30:00+00:00,Alaves,Celta Vigo,"Juan Martinez Munuera, Spain",2,0,2,1,22
+Primera Division,9674,2018-02-03T19:45:00+00:00,Levante,Real Madrid,"Mario Melero Lopez, Spain",1,1,2,2,22
+Primera Division,9673,2018-02-04T11:00:00+00:00,Getafe,Leganes,"Alfonso Alvarez Izquierdo, Spain",0,0,0,0,22
+Primera Division,9672,2018-02-04T15:15:00+00:00,Espanyol,Barcelona,"Jesus Gil Manzano, Spain",0,0,1,1,22
+Primera Division,9671,2018-02-04T17:30:00+00:00,Girona,Athletic Club,"Jose Luis Munuera Montero, Spain",1,0,2,0,22
+Primera Division,9670,2018-02-04T19:45:00+00:00,Atletico Madrid,Valencia,"Ignacio Iglesias Villanueva, Spain",0,0,1,0,22
+Primera Division,9669,2018-02-05T20:00:00+00:00,Las Palmas,Malaga,"Ricardo De Burgos Bengoetxea, Spain",0,0,1,0,22
+Primera Division,9668,2018-02-09T20:00:00+00:00,Athletic Club,Las Palmas,"Javier Estrada Fernandez, Spain",0,0,0,0,23
+Primera Division,9667,2018-02-10T12:00:00+00:00,Villarreal,Alaves,"Daniel Jesus Trujillo Suarez, Spain",0,1,1,2,23
+Primera Division,9666,2018-02-10T15:15:00+00:00,Malaga,Atletico Madrid,"Jose Maria Sanchez Martinez, Spain",0,1,0,1,23
+Primera Division,9665,2018-02-10T17:30:00+00:00,Leganes,Eibar,"Pablo Gonzales Fuertes, Spain",0,0,0,1,23
+Primera Division,9664,2018-02-10T19:45:00+00:00,Real Madrid,Real Sociedad,"Alejandro Hernandez, Spain",4,0,5,2,23
+Primera Division,9663,2018-02-11T11:00:00+00:00,Sevilla,Girona,"Santiago Jaime Latre, Spain",0,0,1,0,23
+Primera Division,9662,2018-02-11T15:15:00+00:00,Barcelona,Getafe,"David Fernandez Borbalan, Spain",0,0,0,0,23
+Primera Division,9661,2018-02-11T17:30:00+00:00,Celta Vigo,Espanyol,"Alexander Gonzalez Gonzalez, Spain",1,1,2,2,23
+Primera Division,9660,2018-02-11T19:45:00+00:00,Valencia,Levante,"David Medie Jimenez, Spain",1,1,3,1,23
+Primera Division,9659,2018-02-12T20:00:00+00:00,Deportivo La Coruna,Real Betis,"Carlos Del Cerro Grande, Spain",0,0,0,1,23
+Primera Division,9658,2018-02-16T20:00:00+00:00,Girona,Leganes,"Antonio Mateu, Spain",2,0,3,0,24
+Primera Division,9657,2018-02-17T12:00:00+00:00,Las Palmas,Sevilla,"Ignacio Iglesias Villanueva, Spain",0,1,1,2,24
+Primera Division,9656,2018-02-17T15:15:00+00:00,Eibar,Barcelona,"Alejandro Hernandez, Spain",0,1,0,2,24
+Primera Division,9655,2018-02-17T17:30:00+00:00,Alaves,Deportivo La Coruna,"Mario Melero Lopez, Spain",0,0,1,0,24
+Primera Division,9654,2018-02-17T19:45:00+00:00,Malaga,Valencia,"Daniel Jesus Trujillo Suarez, Spain",1,0,1,2,24
+Primera Division,9653,2018-02-18T11:00:00+00:00,Real Sociedad,Levante,"Santiago Jaime Latre, Spain",2,0,3,0,24
+Primera Division,9652,2018-02-18T15:15:00+00:00,Atletico Madrid,Athletic Club,"Jose Luis Gonzalez Gonzalez, Spain",0,0,2,0,24
+Primera Division,9651,2018-02-18T17:30:00+00:00,Espanyol,Villarreal,"Jose Luis Munuera Montero, Spain",0,1,1,1,24
+Primera Division,9650,2018-02-18T19:45:00+00:00,Real Betis,Real Madrid,"Jesus Gil Manzano, Spain",2,1,3,5,24
+Primera Division,9649,2018-02-19T20:00:00+00:00,Getafe,Celta Vigo,"Pablo Gonzales Fuertes, Spain",1,0,3,0,24
+Primera Division,9647,2018-02-23T20:00:00+00:00,Deportivo La Coruna,Espanyol,"David Fernandez Borbalan, Spain",0,0,0,0,25
+Primera Division,9646,2018-02-24T12:00:00+00:00,Celta Vigo,Eibar,"Carlos Del Cerro Grande, Spain",0,0,2,0,25
+Primera Division,9645,2018-02-24T15:15:00+00:00,Real Madrid,Alaves,"Javier Estrada Fernandez, Spain",1,0,4,0,25
+Primera Division,9644,2018-02-24T17:30:00+00:00,Leganes,Las Palmas,"Santiago Jaime Latre, Spain",0,0,0,0,25
+Primera Division,9643,2018-02-24T19:45:00+00:00,Barcelona,Girona,"Javier Alberola Rojas, Spain",4,1,6,1,25
+Primera Division,9642,2018-02-25T11:00:00+00:00,Villarreal,Getafe,"Jose Maria Sanchez Martinez, Spain",1,0,1,0,25
+Primera Division,9641,2018-02-25T15:15:00+00:00,Athletic Club,Malaga,"Alejandro Hernandez, Spain",2,1,2,1,25
+Primera Division,9640,2018-02-25T17:30:00+00:00,Valencia,Real Sociedad,"Pablo Gonzales Fuertes, Spain",1,0,2,1,25
+Primera Division,9639,2018-02-25T19:45:00+00:00,Sevilla,Atletico Madrid,"Juan Martinez Munuera, Spain",0,2,2,5,25
+Primera Division,9638,2018-02-26T20:00:00+00:00,Levante,Real Betis,"Ricardo De Burgos Bengoetxea, Spain",0,0,0,2,25
+Primera Division,9637,2018-02-27T19:00:00+00:00,Espanyol,Real Madrid,"Jose Maria Sanchez Martinez, Spain",0,0,1,0,26
+Primera Division,9636,2018-02-27T20:30:00+00:00,Girona,Celta Vigo,"Daniel Jesus Trujillo Suarez, Spain",1,0,1,0,26
+Primera Division,9633,2018-02-28T18:30:00+00:00,Athletic Club,Valencia,"Jesus Gil Manzano, Spain",0,1,1,1,26
+Primera Division,9634,2018-02-28T18:30:00+00:00,Getafe,Deportivo La Coruna,"Jose Luis Munuera Montero, Spain",2,0,3,0,26
+Primera Division,9635,2018-02-28T18:30:00+00:00,Malaga,Sevilla,"Carlos Del Cerro Grande, Spain",0,1,0,1,26
+Primera Division,9631,2018-02-28T20:30:00+00:00,Atletico Madrid,Leganes,"Javier Estrada Fernandez, Spain",2,0,4,0,26
+Primera Division,9632,2018-02-28T20:30:00+00:00,Eibar,Villarreal,"Mario Melero Lopez, Spain",1,0,1,0,26
+Primera Division,9630,2018-03-01T18:30:00+00:00,Real Betis,Real Sociedad,"Jose Luis Gonzalez Gonzalez, Spain",0,0,0,0,26
+Primera Division,9629,2018-03-01T20:00:00+00:00,Las Palmas,Barcelona,"Antonio Mateu, Spain",0,1,1,1,26
+Primera Division,9628,2018-03-01T20:30:00+00:00,Alaves,Levante,"David Fernandez Borbalan, Spain",0,0,1,0,26
+Primera Division,9627,2018-03-03T12:00:00+00:00,Villarreal,Girona,"Pablo Gonzales Fuertes, Spain",0,1,0,2,27
+Primera Division,9626,2018-03-03T15:15:00+00:00,Sevilla,Athletic Club,"Alberto Undiano, Spain",2,0,2,0,27
+Primera Division,9624,2018-03-03T17:30:00+00:00,Deportivo La Coruna,Eibar,"Santiago Jaime Latre, Spain",1,1,1,1,27
+Primera Division,9625,2018-03-03T17:30:00+00:00,Leganes,Malaga,"Ignacio Iglesias Villanueva, Spain",0,0,2,0,27
+Primera Division,9623,2018-03-03T19:45:00+00:00,Real Madrid,Getafe,"Mario Melero Lopez, Spain",2,0,3,1,27
+Primera Division,9622,2018-03-04T11:00:00+00:00,Levante,Espanyol,"Javier Alberola Rojas, Spain",0,0,1,1,27
+Primera Division,9621,2018-03-04T15:15:00+00:00,Barcelona,Atletico Madrid,"Jesus Gil Manzano, Spain",1,0,1,0,27
+Primera Division,9620,2018-03-04T17:30:00+00:00,Real Sociedad,Alaves,"Juan Martinez Munuera, Spain",2,1,2,1,27
+Primera Division,9619,2018-03-04T19:45:00+00:00,Valencia,Real Betis,"Alejandro Hernandez, Spain",1,0,2,0,27
+Primera Division,9618,2018-03-05T20:00:00+00:00,Celta Vigo,Las Palmas,"Ricardo De Burgos Bengoetxea, Spain",0,0,2,1,27
+Primera Division,9617,2018-03-09T20:00:00+00:00,Girona,Deportivo La Coruna,"Alberto Undiano, Spain",1,0,2,0,28
+Primera Division,9616,2018-03-10T12:00:00+00:00,Eibar,Real Madrid,"Jose Luis Munuera Montero, Spain",0,1,1,2,28
+Primera Division,9615,2018-03-10T15:15:00+00:00,Sevilla,Valencia,"Ricardo De Burgos Bengoetxea, Spain",0,1,0,2,28
+Primera Division,9614,2018-03-10T17:30:00+00:00,Getafe,Levante,"Daniel Jesus Trujillo Suarez, Spain",0,0,0,1,28
+Primera Division,9613,2018-03-10T19:45:00+00:00,Malaga,Barcelona,"Juan Martinez Munuera, Spain",0,2,0,2,28
+Primera Division,9612,2018-03-11T11:00:00+00:00,Espanyol,Real Sociedad,"Antonio Mateu, Spain",0,1,2,1,28
+Primera Division,9611,2018-03-11T15:15:00+00:00,Atletico Madrid,Celta Vigo,"Javier Alberola Rojas, Spain",1,0,3,0,28
+Primera Division,9610,2018-03-11T17:30:00+00:00,Las Palmas,Villarreal,"David Medie Jimenez, Spain",0,0,0,2,28
+Primera Division,9609,2018-03-11T19:45:00+00:00,Athletic Club,Leganes,"Jose Maria Sanchez Martinez, Spain",2,0,2,0,28
+Primera Division,9608,2018-03-12T20:00:00+00:00,Alaves,Real Betis,"Carlos Del Cerro Grande, Spain",0,2,1,3,28
+Primera Division,9607,2018-03-16T20:00:00+00:00,Levante,Eibar,"Ignacio Iglesias Villanueva, Spain",1,0,2,1,29
+Primera Division,9606,2018-03-17T12:00:00+00:00,Deportivo La Coruna,Las Palmas,"Juan Martinez Munuera, Spain",1,1,1,1,29
+Primera Division,9605,2018-03-17T15:15:00+00:00,Valencia,Alaves,"Jose Luis Munuera Montero, Spain",2,0,3,1,29
+Primera Division,9604,2018-03-17T17:30:00+00:00,Real Sociedad,Getafe,"Javier Estrada Fernandez, Spain",1,1,1,2,29
+Primera Division,9603,2018-03-17T19:45:00+00:00,Real Betis,Espanyol,"Ricardo De Burgos Bengoetxea, Spain",1,0,3,0,29
+Primera Division,9602,2018-03-18T11:00:00+00:00,Leganes,Sevilla,"Javier Alberola Rojas, Spain",1,0,2,1,29
+Primera Division,9601,2018-03-18T15:15:00+00:00,Barcelona,Athletic Club,"Santiago Jaime Latre, Spain",2,0,2,0,29
+Primera Division,9599,2018-03-18T17:30:00+00:00,Celta Vigo,Malaga,"Alberto Undiano, Spain",0,0,0,0,29
+Primera Division,9600,2018-03-18T17:30:00+00:00,Villarreal,Atletico Madrid,"David Fernandez Borbalan, Spain",0,1,2,1,29
+Primera Division,9598,2018-03-18T19:45:00+00:00,Real Madrid,Girona,"Jesus Gil Manzano, Spain",1,1,6,3,29
+Primera Division,9597,2018-03-31T11:00:00+00:00,Girona,Levante,"Ricardo De Burgos Bengoetxea, Spain",0,0,1,1,30
+Primera Division,9596,2018-03-31T14:15:00+00:00,Athletic Club,Celta Vigo,"Carlos Del Cerro Grande, Spain",0,0,1,1,30
+Primera Division,9595,2018-03-31T16:30:00+00:00,Las Palmas,Real Madrid,"Pablo Gonzales Fuertes, Spain",0,2,0,3,30
+Primera Division,9594,2018-03-31T18:45:00+00:00,Sevilla,Barcelona,"Jose Luis Gonzalez Gonzalez, Spain",1,0,2,2,30
+Primera Division,9593,2018-04-01T10:00:00+00:00,Espanyol,Alaves,"Ignacio Iglesias Villanueva, Spain",0,0,0,0,30
+Primera Division,9592,2018-04-01T14:15:00+00:00,Leganes,Valencia,"Mario Melero Lopez, Spain",0,0,0,1,30
+Primera Division,9590,2018-04-01T16:30:00+00:00,Eibar,Real Sociedad,"Jose Maria Sanchez Martinez, Spain",0,0,0,0,30
+Primera Division,9591,2018-04-01T16:30:00+00:00,Malaga,Villarreal,"Alfonso Alvarez Izquierdo, Spain",1,0,1,0,30
+Primera Division,9589,2018-04-01T18:45:00+00:00,Atletico Madrid,Deportivo La Coruna,"Daniel Jesus Trujillo Suarez, Spain",1,0,1,0,30
+Primera Division,9588,2018-04-02T19:00:00+00:00,Getafe,Real Betis,"Alberto Undiano, Spain",0,0,0,1,30
+Primera Division,9587,2018-04-06T19:00:00+00:00,Deportivo La Coruna,Malaga,"Antonio Mateu, Spain",1,1,3,2,31
+Primera Division,9586,2018-04-07T11:00:00+00:00,Alaves,Getafe,"Santiago Jaime Latre, Spain",0,0,2,0,31
+Primera Division,9585,2018-04-07T14:15:00+00:00,Celta Vigo,Sevilla,"Alfonso Alvarez Izquierdo, Spain",1,0,4,0,31
+Primera Division,9584,2018-04-07T16:30:00+00:00,Real Betis,Eibar,"David Medie Jimenez, Spain",1,0,2,0,31
+Primera Division,9583,2018-04-07T18:45:00+00:00,Barcelona,Leganes,"Ricardo De Burgos Bengoetxea, Spain",2,0,3,1,31
+Primera Division,9582,2018-04-08T10:00:00+00:00,Levante,Las Palmas,"David Fernandez Borbalan, Spain",1,0,2,1,31
+Primera Division,9581,2018-04-08T14:15:00+00:00,Real Madrid,Atletico Madrid,"Javier Estrada Fernandez, Spain",0,0,1,1,31
+Primera Division,9580,2018-04-08T16:30:00+00:00,Real Sociedad,Girona,"Jose Luis Munuera Montero, Spain",2,0,5,0,31
+Primera Division,9579,2018-04-08T18:45:00+00:00,Valencia,Espanyol,"Jesus Gil Manzano, Spain",1,0,1,0,31
+Primera Division,9578,2018-04-09T19:00:00+00:00,Villarreal,Athletic Club,"Ignacio Iglesias Villanueva, Spain",0,1,1,3,31
+Primera Division,9577,2018-04-13T19:00:00+00:00,Girona,Real Betis,"Santiago Jaime Latre, Spain",0,1,0,1,32
+Primera Division,9576,2018-04-14T11:00:00+00:00,Sevilla,Villarreal,"Pablo Gonzales Fuertes, Spain",0,1,2,2,32
+Primera Division,9575,2018-04-14T14:15:00+00:00,Barcelona,Valencia,"Carlos Del Cerro Grande, Spain",1,0,2,1,32
+Primera Division,9573,2018-04-14T16:30:00+00:00,Las Palmas,Real Sociedad,"Alfonso Alvarez Izquierdo, Spain",0,1,0,1,32
+Primera Division,9574,2018-04-14T16:30:00+00:00,Leganes,Celta Vigo,"Alejandro Hernandez, Spain",0,0,1,0,32
+Primera Division,9572,2018-04-14T18:45:00+00:00,Athletic Club,Deportivo La Coruna,"Jose Luis Gonzalez Gonzalez, Spain",0,2,2,3,32
+Primera Division,9571,2018-04-15T10:00:00+00:00,Eibar,Alaves,"Alberto Undiano, Spain",0,1,0,1,32
+Primera Division,9570,2018-04-15T14:15:00+00:00,Atletico Madrid,Levante,"Jesus Gil Manzano, Spain",1,0,3,0,32
+Primera Division,9569,2018-04-15T16:30:00+00:00,Getafe,Espanyol,"Mario Melero Lopez, Spain",0,0,1,0,32
+Primera Division,9568,2018-04-15T18:45:00+00:00,Malaga,Real Madrid,"Ricardo De Burgos Bengoetxea, Spain",0,1,1,2,32
+Primera Division,9567,2018-04-17T17:30:00+00:00,Deportivo La Coruna,Sevilla,"David Medie Jimenez, Spain",0,0,0,0,33
+Primera Division,9566,2018-04-17T19:00:00+00:00,Celta Vigo,Barcelona,"David Fernandez Borbalan, Spain",1,1,2,2,33
+Primera Division,9565,2018-04-17T19:30:00+00:00,Villarreal,Leganes,"Daniel Jesus Trujillo Suarez, Spain",1,0,2,1,33
+Primera Division,9563,2018-04-18T17:30:00+00:00,Espanyol,Eibar,"Alejandro Hernandez, Spain",0,1,0,1,33
+Primera Division,9564,2018-04-18T17:30:00+00:00,Valencia,Getafe,"Ricardo De Burgos Bengoetxea, Spain",0,1,1,2,33
+Primera Division,9562,2018-04-18T19:30:00+00:00,Real Madrid,Athletic Club,"Juan Martinez Munuera, Spain",0,1,1,1,33
+Primera Division,9560,2018-04-19T17:30:00+00:00,Alaves,Girona,"Pablo Gonzales Fuertes, Spain",0,0,1,2,33
+Primera Division,9561,2018-04-19T17:30:00+00:00,Real Sociedad,Atletico Madrid,"Javier Alberola Rojas, Spain",1,0,3,0,33
+Primera Division,9558,2018-04-19T19:30:00+00:00,Real Betis,Las Palmas,"Jose Maria Sanchez Martinez, Spain",0,0,1,0,33
+Primera Division,9559,2018-04-19T19:30:00+00:00,Levante,Malaga,"Santiago Jaime Latre, Spain",0,0,1,0,33
+Primera Division,9557,2018-04-20T19:00:00+00:00,Leganes,Deportivo La Coruna,"Alfonso Alvarez Izquierdo, Spain",0,0,0,0,34
+Primera Division,9556,2018-04-21T11:00:00+00:00,Eibar,Getafe,"Ignacio Iglesias Villanueva, Spain",0,1,0,1,34
+Primera Division,9555,2018-04-21T14:15:00+00:00,Celta Vigo,Valencia,"Alberto Undiano, Spain",0,0,1,1,34
+Primera Division,9554,2018-04-22T10:00:00+00:00,Girona,Espanyol,"Javier Alberola Rojas, Spain",0,1,0,2,34
+Primera Division,9553,2018-04-22T14:15:00+00:00,Malaga,Real Sociedad,"Javier Estrada Fernandez, Spain",2,0,2,0,34
+Primera Division,9552,2018-04-22T16:30:00+00:00,Las Palmas,Alaves,"Mario Melero Lopez, Spain",0,0,0,4,34
+Primera Division,9551,2018-04-22T18:45:00+00:00,Atletico Madrid,Real Betis,"Juan Martinez Munuera, Spain",0,0,0,0,34
+Primera Division,9550,2018-04-23T19:00:00+00:00,Athletic Club,Levante,"Jose Luis Munuera Montero, Spain",1,2,1,3,34
+Primera Division,9529,2018-05-09T18:00:00+00:00,Barcelona,Villarreal,"Jose Maria Sanchez Martinez, Spain",3,0,5,1,34
+Primera Division,9528,2018-05-09T19:30:00+00:00,Sevilla,Real Madrid,"Antonio Mateu, Spain",2,0,3,2,34
+Primera Division,9549,2018-04-27T19:00:00+00:00,Levante,Sevilla,"Jose Luis Gonzalez Gonzalez, Spain",1,1,2,1,35
+Primera Division,9548,2018-04-28T11:00:00+00:00,Espanyol,Las Palmas,"Pablo Gonzales Fuertes, Spain",0,1,1,1,35
+Primera Division,9547,2018-04-28T14:15:00+00:00,Real Sociedad,Athletic Club,"Jose Maria Sanchez Martinez, Spain",2,0,3,1,35
+Primera Division,9546,2018-04-28T16:30:00+00:00,Real Madrid,Leganes,"Ignacio Iglesias Villanueva, Spain",2,0,2,1,35
+Primera Division,9545,2018-04-28T18:45:00+00:00,Villarreal,Celta Vigo,"Javier Alberola Rojas, Spain",3,1,4,1,35
+Primera Division,9544,2018-04-29T10:00:00+00:00,Getafe,Girona,"Alejandro Hernandez, Spain",1,1,1,1,35
+Primera Division,9543,2018-04-29T14:15:00+00:00,Alaves,Atletico Madrid,"David Fernandez Borbalan, Spain",0,0,0,1,35
+Primera Division,9542,2018-04-29T16:30:00+00:00,Valencia,Eibar,"Santiago Jaime Latre, Spain",0,0,0,0,35
+Primera Division,9541,2018-04-29T18:45:00+00:00,Deportivo La Coruna,Barcelona,"Ricardo De Burgos Bengoetxea, Spain",1,2,2,4,35
+Primera Division,9540,2018-04-30T19:00:00+00:00,Real Betis,Malaga,"Carlos Del Cerro Grande, Spain",1,1,2,1,35
+Primera Division,9539,2018-05-04T19:00:00+00:00,Sevilla,Real Sociedad,"Santiago Jaime Latre, Spain",0,0,1,0,36
+Primera Division,9538,2018-05-05T11:00:00+00:00,Girona,Eibar,"Daniel Jesus Trujillo Suarez, Spain",0,2,1,4,36
+Primera Division,9537,2018-05-05T14:15:00+00:00,Athletic Club,Real Betis,"Javier Alberola Rojas, Spain",0,0,2,0,36
+Primera Division,9536,2018-05-05T16:30:00+00:00,Celta Vigo,Deportivo La Coruna,"Carlos Del Cerro Grande, Spain",1,0,1,1,36
+Primera Division,9535,2018-05-05T18:45:00+00:00,Villarreal,Valencia,"Jesus Gil Manzano, Spain",0,0,1,0,36
+Primera Division,9534,2018-05-06T10:00:00+00:00,Malaga,Alaves,"Jose Luis Gonzalez Gonzalez, Spain",0,1,0,3,36
+Primera Division,9533,2018-05-06T14:15:00+00:00,Atletico Madrid,Espanyol,"Jose Luis Munuera Montero, Spain",0,0,0,2,36
+Primera Division,9532,2018-05-06T16:30:00+00:00,Las Palmas,Getafe,"Alberto Undiano, Spain",0,0,0,1,36
+Primera Division,9531,2018-05-06T18:45:00+00:00,Barcelona,Real Madrid,"Alejandro Hernandez, Spain",1,1,2,2,36
+Primera Division,9530,2018-05-07T19:00:00+00:00,Leganes,Levante,"Jose Maria Sanchez Martinez, Spain",0,0,0,3,36
+Primera Division,9527,2018-05-12T14:15:00+00:00,Real Sociedad,Leganes,"David Medie Jimenez, Spain",2,1,3,2,37
+Primera Division,9521,2018-05-12T16:30:00+00:00,Alaves,Athletic Club,"Javier Estrada Fernandez, Spain",1,0,3,1,37
+Primera Division,9522,2018-05-12T16:30:00+00:00,Real Betis,Sevilla,"Alfonso Alvarez Izquierdo, Spain",1,0,2,2,37
+Primera Division,9523,2018-05-12T16:30:00+00:00,Deportivo La Coruna,Villarreal,"Alejandro Hernandez, Spain",0,3,2,4,37
+Primera Division,9524,2018-05-12T16:30:00+00:00,Eibar,Las Palmas,"Antonio Mateu, Spain",1,0,1,0,37
+Primera Division,9525,2018-05-12T16:30:00+00:00,Getafe,Atletico Madrid,"Javier Alberola Rojas, Spain",0,1,0,1,37
+Primera Division,9526,2018-05-12T16:30:00+00:00,Girona,Valencia,"Ignacio Iglesias Villanueva, Spain",0,0,0,1,37
+Primera Division,9520,2018-05-12T18:45:00+00:00,Real Madrid,Celta Vigo,"Pablo Gonzales Fuertes, Spain",3,0,6,0,37
+Primera Division,9519,2018-05-13T14:15:00+00:00,Espanyol,Malaga,"Juan Martinez Munuera, Spain",3,1,4,1,37
+Primera Division,9518,2018-05-13T18:45:00+00:00,Levante,Barcelona,"Mario Melero Lopez, Spain",2,1,5,4,37
+Primera Division,9517,2018-05-19T11:00:00+00:00,Celta Vigo,Levante,"Ricardo De Burgos Bengoetxea, Spain",2,1,4,2,38
+Primera Division,9516,2018-05-19T14:15:00+00:00,Leganes,Real Betis,"Jesus Gil Manzano, Spain",1,1,3,2,38
+Primera Division,9513,2018-05-19T16:30:00+00:00,Las Palmas,Girona,"Santiago Jaime Latre, Spain",1,2,1,2,38
+Primera Division,9514,2018-05-19T16:30:00+00:00,Malaga,Getafe,"Daniel Jesus Trujillo Suarez, Spain",0,0,0,1,38
+Primera Division,9515,2018-05-19T16:30:00+00:00,Sevilla,Alaves,"Carlos Del Cerro Grande, Spain",1,0,1,0,38
+Primera Division,9512,2018-05-19T18:45:00+00:00,Villarreal,Real Madrid,"Jose Maria Sanchez Martinez, Spain",0,2,2,2,38
+Primera Division,9511,2018-05-20T10:00:00+00:00,Valencia,Deportivo La Coruna,"David Medie Jimenez, Spain",1,0,2,1,38
+Primera Division,9510,2018-05-20T14:15:00+00:00,Athletic Club,Espanyol,"David Fernandez Borbalan, Spain",0,1,0,1,38
+Primera Division,9509,2018-05-20T16:30:00+00:00,Atletico Madrid,Eibar,"Alfonso Alvarez Izquierdo, Spain",1,1,2,2,38
+Primera Division,9508,2018-05-20T18:45:00+00:00,Barcelona,Real Sociedad,"Jose Luis Munuera Montero, Spain",0,0,1,0,38
+Primeira Liga,15703,2017-08-06T17:00:00+00:00,Aves,Sporting CP,"Tiago Martins, Portugal",0,1,0,2,1
+Primeira Liga,15702,2017-08-06T19:15:00+00:00,Vitoria Setubal,Moreirense,"Goncalo Martins, Portugal",1,0,1,1,1
+Primeira Liga,15701,2017-08-07T16:00:00+00:00,Portimonense,Boavista,"Nuno Miguel Serrano Almeida, Portugal",0,1,2,1,1
+Primeira Liga,15700,2017-08-07T18:00:00+00:00,Feirense,Tondela,"Bruno Miguel Duarte Paixao, Portugal",0,1,1,1,1
+Primeira Liga,15699,2017-08-07T20:00:00+00:00,Rio Ave,Belenenses,"Fabio Jose Costa Verissimo, Portugal",1,0,1,0,1
+Primeira Liga,15698,2017-08-08T15:00:00+00:00,Maritimo,Pacos Ferreira,"Manuel Oliveira, Portugal",0,0,1,0,1
+Primeira Liga,15697,2017-08-09T18:00:00+00:00,FC Porto,Estoril,"Hugo Miguel, Portugal",1,0,4,0,1
+Primeira Liga,15696,2017-08-09T20:00:00+00:00,Benfica,SC Braga,"Carlos Xistra, Portugal",2,1,3,1,1
+Primeira Liga,15695,2017-08-10T20:00:00+00:00,Guimaraes,Chaves,"Luis Miguel Branco Godinho, Portugal",2,0,3,2,1
+Primeira Liga,15694,2017-08-11T19:30:00+00:00,Sporting CP,Vitoria Setubal,"Bruno Miguel Duarte Paixao, Portugal",0,0,1,0,2
+Primeira Liga,15693,2017-08-12T15:00:00+00:00,Moreirense,Feirense,"Nuno Miguel Serrano Almeida, Portugal",0,0,0,0,2
+Primeira Liga,15692,2017-08-12T17:15:00+00:00,Belenenses,Maritimo,"Joao Pedro Pinheiro, Portugal",0,0,1,0,2
+Primeira Liga,15691,2017-08-12T19:30:00+00:00,Boavista,Rio Ave,"Luis Miguel Rodrigues Ferreira, Portugal",0,1,1,2,2
+Primeira Liga,15690,2017-08-13T15:00:00+00:00,Pacos Ferreira,Aves,"Rui Oliveira, Portugal",0,2,2,2,2
+Primeira Liga,15689,2017-08-13T17:00:00+00:00,SC Braga,Portimonense,"Joao Carlos Santos Capela, Portugal",1,1,2,1,2
+Primeira Liga,15688,2017-08-13T19:15:00+00:00,Tondela,FC Porto,"Fabio Jose Costa Verissimo, Portugal",0,1,0,1,2
+Primeira Liga,15687,2017-08-14T18:00:00+00:00,Estoril,Guimaraes,"Carlos Xistra, Portugal",1,0,3,0,2
+Primeira Liga,15686,2017-08-14T20:00:00+00:00,Chaves,Benfica,"Jorge de Sousa, Portugal",0,0,0,1,2
+Primeira Liga,15685,2017-08-18T19:30:00+00:00,Rio Ave,Portimonense,"Joao Pedro Pinheiro, Portugal",0,0,2,0,3
+Primeira Liga,15684,2017-08-19T15:00:00+00:00,Tondela,Estoril,"Antonio Nobre, Portugal",0,2,2,3,3
+Primeira Liga,15683,2017-08-19T17:15:00+00:00,Guimaraes,Sporting CP,"Hugo Miguel, Portugal",0,3,0,5,3
+Primeira Liga,15682,2017-08-19T19:30:00+00:00,Benfica,Belenenses,"Rui Manuel Gomes Costa, Portugal",3,0,5,0,3
+Primeira Liga,15681,2017-08-20T15:00:00+00:00,Vitoria Setubal,Chaves,"Manuel Mota da Silva, Portugal",0,0,1,1,3
+Primeira Liga,15680,2017-08-20T17:00:00+00:00,FC Porto,Moreirense,"Manuel Oliveira, Portugal",2,0,3,0,3
+Primeira Liga,15679,2017-08-20T19:00:00+00:00,Aves,SC Braga,"Fabio Jose Costa Verissimo, Portugal",0,0,0,2,3
+Primeira Liga,15678,2017-08-20T19:15:00+00:00,Maritimo,Boavista,"Luis Miguel Branco Godinho, Portugal",0,0,1,0,3
+Primeira Liga,15677,2017-08-21T19:00:00+00:00,Feirense,Pacos Ferreira,"Carlos Xistra, Portugal",1,1,2,1,3
+Primeira Liga,15676,2017-08-25T19:30:00+00:00,Belenenses,Vitoria Setubal,"Manuel Oliveira, Portugal",1,0,1,1,4
+Primeira Liga,15674,2017-08-26T15:00:00+00:00,Moreirense,Tondela,"Bruno Alexandre Da Silva Esteves, Portugal",0,1,0,3,4
+Primeira Liga,15675,2017-08-26T15:00:00+00:00,Pacos Ferreira,Guimaraes,"Nuno Miguel Serrano Almeida, Portugal",0,0,0,0,4
+Primeira Liga,15673,2017-08-26T17:15:00+00:00,Chaves,Feirense,"Luis Miguel Rodrigues Ferreira, Portugal",0,1,0,2,4
+Primeira Liga,15672,2017-08-26T19:30:00+00:00,Rio Ave,Benfica,"Hugo Miguel, Portugal",0,0,1,1,4
+Primeira Liga,15671,2017-08-27T15:00:00+00:00,Boavista,Aves,"Joao Carlos Santos Capela, Portugal",0,0,1,0,4
+Primeira Liga,15670,2017-08-27T17:00:00+00:00,Sporting CP,Estoril,"Luis Miguel Branco Godinho, Portugal",2,0,2,1,4
+Primeira Liga,15669,2017-08-27T19:15:00+00:00,SC Braga,FC Porto,"Carlos Xistra, Portugal",0,1,0,1,4
+Primeira Liga,15668,2017-08-28T19:00:00+00:00,Portimonense,Maritimo,"Vitor Ferreira, Portugal",0,0,1,2,4
+Primeira Liga,15667,2017-09-08T18:00:00+00:00,Feirense,Sporting CP,"Artur Soares Dias, Portugal",0,0,2,3,5
+Primeira Liga,15666,2017-09-08T20:00:00+00:00,Benfica,Portimonense,"Goncalo Martins, Portugal",0,0,2,1,5
+Primeira Liga,15665,2017-09-09T15:00:00+00:00,Tondela,Pacos Ferreira,"Manuel Mota da Silva, Portugal",1,0,2,2,5
+Primeira Liga,15664,2017-09-09T17:15:00+00:00,Maritimo,Rio Ave,"Bruno Alexandre Da Silva Esteves, Portugal",0,0,1,0,5
+Primeira Liga,15663,2017-09-09T19:30:00+00:00,FC Porto,Chaves,"Rui Oliveira, Portugal",0,0,3,0,5
+Primeira Liga,15662,2017-09-10T15:00:00+00:00,Vitoria Setubal,SC Braga,"Luis Miguel Rodrigues Ferreira, Portugal",2,0,2,0,5
+Primeira Liga,15661,2017-09-10T17:00:00+00:00,Guimaraes,Boavista,"Jorge de Sousa, Portugal",0,0,1,0,5
+Primeira Liga,15660,2017-09-10T19:15:00+00:00,Estoril,Moreirense,"Joao Carlos Santos Capela, Portugal",0,1,0,2,5
+Primeira Liga,15659,2017-09-11T19:00:00+00:00,Aves,Belenenses,"Joao Pedro Pinheiro, Portugal",1,1,2,1,5
+Primeira Liga,15658,2017-09-15T19:30:00+00:00,Pacos Ferreira,Vitoria Setubal,"Vitor Ferreira, Portugal",0,0,1,0,6
+Primeira Liga,15657,2017-09-16T15:00:00+00:00,Maritimo,Aves,"Carlos Xistra, Portugal",2,0,2,1,6
+Primeira Liga,15656,2017-09-16T17:15:00+00:00,Boavista,Benfica,"Artur Soares Dias, Portugal",0,1,2,1,6
+Primeira Liga,15655,2017-09-16T19:30:00+00:00,Sporting CP,Tondela,"Jorge Manuel Oliveira,",1,0,2,0,6
+Primeira Liga,15654,2017-09-17T15:00:00+00:00,Belenenses,Estoril,"Nuno Miguel Serrano Almeida, Portugal",0,0,2,1,6
+Primeira Liga,15653,2017-09-17T17:00:00+00:00,Rio Ave,FC Porto,"Jorge de Sousa, Portugal",0,0,1,2,6
+Primeira Liga,15652,2017-09-17T19:15:00+00:00,SC Braga,Guimaraes,"Rui Manuel Gomes Costa, Portugal",2,1,2,1,6
+Primeira Liga,15651,2017-09-18T18:00:00+00:00,Portimonense,Feirense,"Bruno Miguel Duarte Paixao, Portugal",2,1,2,1,6
+Primeira Liga,15650,2017-09-18T20:00:00+00:00,Chaves,Moreirense,"Joao Pedro Pinheiro, Portugal",1,0,3,0,6
+Primeira Liga,15649,2017-09-22T19:30:00+00:00,FC Porto,Portimonense,"Luis Miguel Rodrigues Ferreira, Portugal",3,1,5,2,7
+Primeira Liga,15648,2017-09-23T15:00:00+00:00,Estoril,Chaves,"Artur Soares Dias, Portugal",0,1,0,2,7
+Primeira Liga,15647,2017-09-23T17:15:00+00:00,Moreirense,Sporting CP,"Luis Miguel Branco Godinho, Portugal",1,0,1,1,7
+Primeira Liga,15646,2017-09-23T19:30:00+00:00,Benfica,Pacos Ferreira,"Carlos Xistra, Portugal",1,0,2,0,7
+Primeira Liga,15644,2017-09-24T15:00:00+00:00,Feirense,Belenenses,"Bruno Alexandre Da Silva Esteves, Portugal",0,3,1,4,7
+Primeira Liga,15645,2017-09-24T15:00:00+00:00,Guimaraes,Maritimo,"Fabio Jose Costa Verissimo, Portugal",1,1,2,1,7
+Primeira Liga,15643,2017-09-24T17:00:00+00:00,Tondela,SC Braga,"Tiago Martins, Portugal",1,1,1,2,7
+Primeira Liga,15642,2017-09-24T19:15:00+00:00,Aves,Rio Ave,"Antonio Nobre, Portugal",0,0,0,0,7
+Primeira Liga,15641,2017-09-25T19:00:00+00:00,Vitoria Setubal,Boavista,"Nuno Miguel Serrano Almeida, Portugal",0,0,1,1,7
+Primeira Liga,15640,2017-09-29T19:30:00+00:00,Chaves,Tondela,"Bruno Miguel Duarte Paixao, Portugal",1,1,1,1,8
+Primeira Liga,15638,2017-09-30T15:00:00+00:00,Pacos Ferreira,Moreirense,"Goncalo Martins, Portugal",2,1,3,2,8
+Primeira Liga,15639,2017-09-30T15:00:00+00:00,Portimonense,Aves,"Tiago Martins, Portugal",1,1,2,2,8
+Primeira Liga,15637,2017-09-30T17:15:00+00:00,Boavista,Feirense,"Manuel Mota da Silva, Portugal",1,0,1,0,8
+Primeira Liga,15636,2017-09-30T19:30:00+00:00,Rio Ave,Vitoria Setubal,"Rui Manuel Gomes Costa, Portugal",0,0,2,1,8
+Primeira Liga,15635,2017-10-01T16:15:00+00:00,SC Braga,Estoril,"Helder Malheiro, Portugal",2,0,6,0,8
+Primeira Liga,15634,2017-10-01T18:15:00+00:00,Sporting CP,FC Porto,"Carlos Xistra, Portugal",0,0,0,0,8
+Primeira Liga,15632,2017-10-01T20:30:00+00:00,Belenenses,Guimaraes,"Vasco Santos, Portugal",1,0,1,0,8
+Primeira Liga,15633,2017-10-01T20:30:00+00:00,Maritimo,Benfica,"Jorge de Sousa, Portugal",0,1,1,1,8
+Primeira Liga,15631,2017-10-20T19:30:00+00:00,Estoril,Boavista,"Tiago Martins, Portugal",0,2,0,3,9
+Primeira Liga,15630,2017-10-21T15:00:00+00:00,Feirense,Rio Ave,"Rui Oliveira, Portugal",1,0,1,0,9
+Primeira Liga,15629,2017-10-21T17:15:00+00:00,Vitoria Setubal,Maritimo,"Vasco Santos, Portugal",0,1,3,1,9
+Primeira Liga,15628,2017-10-21T19:30:00+00:00,FC Porto,Pacos Ferreira,"Manuel Oliveira, Portugal",4,1,6,1,9
+Primeira Liga,15627,2017-10-22T15:00:00+00:00,Tondela,Belenenses,"Goncalo Martins, Portugal",0,0,2,0,9
+Primeira Liga,15626,2017-10-22T17:00:00+00:00,Aves,Benfica,"Nuno Miguel Serrano Almeida, Portugal",0,1,1,3,9
+Primeira Liga,15625,2017-10-22T19:15:00+00:00,Sporting CP,Chaves,"Rui Manuel Gomes Costa, Portugal",3,0,5,1,9
+Primeira Liga,15624,2017-10-23T18:00:00+00:00,Moreirense,SC Braga,"Jorge de Sousa, Portugal",0,0,0,1,9
+Primeira Liga,15623,2017-10-23T20:00:00+00:00,Guimaraes,Portimonense,"Helder Malheiro, Portugal",1,3,3,3,9
+Primeira Liga,15622,2017-10-27T18:00:00+00:00,Benfica,Feirense,"Luis Miguel Branco Godinho, Portugal",1,0,1,0,10
+Primeira Liga,15621,2017-10-27T20:00:00+00:00,Rio Ave,Sporting CP,"Jorge de Sousa, Portugal",0,0,0,1,10
+Primeira Liga,15620,2017-10-28T15:00:00+00:00,Maritimo,Tondela,"Helder Malheiro, Portugal",1,0,2,0,10
+Primeira Liga,15619,2017-10-28T17:15:00+00:00,Belenenses,Moreirense,"Joao Pedro Pinheiro, Portugal",1,0,3,0,10
+Primeira Liga,15618,2017-10-28T19:30:00+00:00,Boavista,FC Porto,"Hugo Miguel, Portugal",0,0,0,3,10
+Primeira Liga,15617,2017-10-29T16:00:00+00:00,SC Braga,Chaves,"Bruno Alexandre Da Silva Esteves, Portugal",0,0,1,0,10
+Primeira Liga,15616,2017-10-29T18:00:00+00:00,Pacos Ferreira,Estoril,"Fabio Jose Costa Verissimo, Portugal",1,0,1,0,10
+Primeira Liga,15615,2017-10-29T20:15:00+00:00,Aves,Guimaraes,"Luis Miguel Rodrigues Ferreira, Portugal",1,2,1,3,10
+Primeira Liga,15614,2017-10-30T20:00:00+00:00,Portimonense,Vitoria Setubal,"Antonio Nobre, Portugal",3,1,5,2,10
+Primeira Liga,15613,2017-11-03T20:30:00+00:00,Vitoria Setubal,Aves,"Manuel Mota da Silva, Portugal",0,0,0,1,11
+Primeira Liga,15611,2017-11-04T16:00:00+00:00,Moreirense,Portimonense,"Bruno Alexandre Da Silva Esteves, Portugal",1,1,1,1,11
+Primeira Liga,15612,2017-11-04T16:00:00+00:00,Tondela,Boavista,"Joao Pedro Pinheiro, Portugal",0,0,3,2,11
+Primeira Liga,15610,2017-11-04T18:15:00+00:00,Estoril,Rio Ave,"Vitor Ferreira, Portugal",0,1,0,2,11
+Primeira Liga,15609,2017-11-04T20:30:00+00:00,FC Porto,Belenenses,"Fabio Jose Costa Verissimo, Portugal",1,0,2,0,11
+Primeira Liga,15607,2017-11-05T16:00:00+00:00,Chaves,Pacos Ferreira,"Vasco Santos, Portugal",1,1,4,2,11
+Primeira Liga,15608,2017-11-05T16:00:00+00:00,Feirense,Maritimo,"Hugo Miguel, Portugal",0,1,0,1,11
+Primeira Liga,15606,2017-11-05T18:00:00+00:00,Guimaraes,Benfica,"Artur Soares Dias, Portugal",0,1,1,3,11
+Primeira Liga,15605,2017-11-05T20:15:00+00:00,Sporting CP,SC Braga,"Carlos Xistra, Portugal",0,0,2,2,11
+Primeira Liga,15604,2017-11-24T20:30:00+00:00,Belenenses,Chaves,"Joao Carlos Santos Capela, Portugal",0,1,0,1,12
+Primeira Liga,15603,2017-11-25T16:00:00+00:00,Portimonense,Tondela,"Manuel Mota da Silva, Portugal",1,0,2,0,12
+Primeira Liga,15602,2017-11-25T18:15:00+00:00,Boavista,Moreirense,"Fabio Jose Costa Verissimo, Portugal",1,0,1,0,12
+Primeira Liga,15601,2017-11-25T20:30:00+00:00,Aves,FC Porto,"Rui Manuel Gomes Costa, Portugal",0,1,1,1,12
+Primeira Liga,15600,2017-11-26T16:00:00+00:00,Maritimo,Estoril,"Rui Oliveira, Portugal",0,0,0,0,12
+Primeira Liga,15599,2017-11-26T18:00:00+00:00,Pacos Ferreira,Sporting CP,"Tiago Martins, Portugal",0,1,1,2,12
+Primeira Liga,15598,2017-11-26T20:15:00+00:00,Benfica,Vitoria Setubal,"Luis Miguel Branco Godinho, Portugal",2,0,6,0,12
+Primeira Liga,15597,2017-11-27T19:00:00+00:00,SC Braga,Feirense,"Vasco Santos, Portugal",3,1,3,1,12
+Primeira Liga,15596,2017-11-27T21:00:00+00:00,Rio Ave,Guimaraes,"Manuel Oliveira, Portugal",0,1,0,1,12
+Primeira Liga,15595,2017-12-01T18:15:00+00:00,Sporting CP,Belenenses,"Nuno Miguel Serrano Almeida, Portugal",1,0,1,0,13
+Primeira Liga,15594,2017-12-01T20:30:00+00:00,FC Porto,Benfica,"Jorge de Sousa, Portugal",0,0,0,0,13
+Primeira Liga,15593,2017-12-02T16:00:00+00:00,Moreirense,Maritimo,"Tiago Martins, Portugal",1,1,1,1,13
+Primeira Liga,15592,2017-12-02T18:15:00+00:00,Tondela,Rio Ave,"Bruno Alexandre Da Silva Esteves, Portugal",0,1,1,3,13
+Primeira Liga,15591,2017-12-02T20:30:00+00:00,Chaves,Boavista,"Manuel Mota da Silva, Portugal",0,0,0,0,13
+Primeira Liga,15590,2017-12-03T16:00:00+00:00,Feirense,Aves,"Jorge Manuel Oliveira,",0,0,0,1,13
+Primeira Liga,15589,2017-12-03T18:00:00+00:00,SC Braga,Pacos Ferreira,"Rui Oliveira, Portugal",0,0,3,0,13
+Primeira Liga,15588,2017-12-03T20:15:00+00:00,Vitoria Setubal,Guimaraes,"Vasco Santos, Portugal",0,1,1,2,13
+Primeira Liga,15587,2017-12-04T20:00:00+00:00,Estoril,Portimonense,"Bruno Miguel Duarte Paixao, Portugal",0,0,0,0,13
+Primeira Liga,15586,2017-12-08T20:30:00+00:00,Rio Ave,Moreirense,"Luis Miguel Rodrigues Ferreira, Portugal",0,0,2,1,14
+Primeira Liga,15585,2017-12-09T16:00:00+00:00,Aves,Tondela,"Goncalo Martins, Portugal",0,0,0,1,14
+Primeira Liga,15584,2017-12-09T18:15:00+00:00,Benfica,Estoril,"Joao Pedro Pinheiro, Portugal",2,1,3,1,14
+Primeira Liga,15583,2017-12-09T20:30:00+00:00,Boavista,Sporting CP,"Luis Miguel Branco Godinho, Portugal",0,1,1,3,14
+Primeira Liga,15582,2017-12-10T16:00:00+00:00,Portimonense,Chaves,"Fabio Jose Costa Verissimo, Portugal",0,0,0,1,14
+Primeira Liga,15581,2017-12-10T18:00:00+00:00,Belenenses,Pacos Ferreira,"Helder Malheiro, Portugal",0,1,1,1,14
+Primeira Liga,15580,2017-12-10T20:15:00+00:00,Vitoria Setubal,FC Porto,"Tiago Martins, Portugal",0,3,0,5,14
+Primeira Liga,15579,2017-12-11T19:00:00+00:00,Guimaraes,Feirense,"Joao Carlos Santos Capela, Portugal",0,0,1,0,14
+Primeira Liga,15578,2017-12-11T21:00:00+00:00,Maritimo,SC Braga,"Rui Manuel Gomes Costa, Portugal",0,0,1,0,14
+Primeira Liga,15577,2017-12-15T20:30:00+00:00,Pacos Ferreira,Boavista,"Vasco Santos, Portugal",1,0,1,2,15
+Primeira Liga,15576,2017-12-16T18:15:00+00:00,Estoril,Aves,"Vitor Ferreira, Portugal",1,1,3,2,15
+Primeira Liga,15575,2017-12-16T20:30:00+00:00,SC Braga,Belenenses,"Hugo Miguel, Portugal",1,0,4,0,15
+Primeira Liga,15573,2017-12-17T16:00:00+00:00,Chaves,Rio Ave,"Bruno Miguel Duarte Paixao, Portugal",0,1,1,1,15
+Primeira Liga,15574,2017-12-17T16:00:00+00:00,Feirense,Vitoria Setubal,"Joao Pedro Pinheiro, Portugal",1,0,1,0,15
+Primeira Liga,15572,2017-12-17T18:00:00+00:00,Sporting CP,Portimonense,"Joao Carlos Santos Capela, Portugal",1,0,2,0,15
+Primeira Liga,15571,2017-12-17T20:15:00+00:00,Tondela,Benfica,"Tiago Martins, Portugal",0,3,1,5,15
+Primeira Liga,15570,2017-12-18T19:00:00+00:00,Moreirense,Guimaraes,"Nuno Miguel Serrano Almeida, Portugal",2,0,2,1,15
+Primeira Liga,15569,2017-12-18T21:00:00+00:00,FC Porto,Maritimo,"Manuel Mota da Silva, Portugal",2,1,3,1,15
+Primeira Liga,15568,2017-12-23T18:15:00+00:00,Guimaraes,Tondela,"Antonio Nobre, Portugal",0,0,0,1,16
+Primeira Liga,15565,2018-01-03T18:15:00+00:00,Aves,Moreirense,"Bruno Alexandre Da Silva Esteves, Portugal",0,2,1,2,16
+Primeira Liga,15566,2018-01-03T18:15:00+00:00,Boavista,SC Braga,"Jorge de Sousa, Portugal",0,1,1,3,16
+Primeira Liga,15567,2018-01-03T18:15:00+00:00,Maritimo,Chaves,"Manuel Oliveira, Portugal",0,1,1,2,16
+Primeira Liga,15563,2018-01-03T20:15:00+00:00,Feirense,FC Porto,"Fabio Jose Costa Verissimo, Portugal",1,1,1,2,16
+Primeira Liga,15564,2018-01-03T20:15:00+00:00,Rio Ave,Pacos Ferreira,"Luis Miguel Branco Godinho, Portugal",1,0,4,2,16
+Primeira Liga,15562,2018-01-03T21:30:00+00:00,Benfica,Sporting CP,"Hugo Miguel, Portugal",0,1,1,1,16
+Primeira Liga,15561,2018-01-04T18:15:00+00:00,Vitoria Setubal,Estoril,"Helder Malheiro, Portugal",0,0,2,2,16
+Primeira Liga,15560,2018-01-04T20:15:00+00:00,Portimonense,Belenenses,"Artur Soares Dias, Portugal",0,0,0,0,16
+Primeira Liga,15559,2018-01-06T20:30:00+00:00,SC Braga,Rio Ave,"Vasco Santos, Portugal",1,1,2,1,17
+Primeira Liga,15558,2018-01-07T11:45:00+00:00,Chaves,Aves,"Joao Carlos Santos Capela, Portugal",0,1,1,1,17
+Primeira Liga,15557,2018-01-07T16:00:00+00:00,Moreirense,Benfica,"Manuel Mota da Silva, Portugal",0,1,0,2,17
+Primeira Liga,15556,2018-01-07T18:00:00+00:00,Sporting CP,Maritimo,"Carlos Xistra, Portugal",1,0,5,0,17
+Primeira Liga,15555,2018-01-07T20:15:00+00:00,FC Porto,Guimaraes,"Artur Soares Dias, Portugal",0,1,4,2,17
+Primeira Liga,15554,2018-01-08T19:00:00+00:00,Pacos Ferreira,Portimonense,"Luis Miguel Rodrigues Ferreira, Portugal",0,0,1,1,17
+Primeira Liga,15553,2018-01-08T21:00:00+00:00,Estoril,Feirense,"Nuno Miguel Serrano Almeida, Portugal",0,1,0,2,17
+Primeira Liga,15552,2018-01-09T19:00:00+00:00,Tondela,Vitoria Setubal,"Rui Oliveira, Portugal",1,1,1,1,17
+Primeira Liga,15551,2018-01-09T21:00:00+00:00,Belenenses,Boavista,"Goncalo Martins, Portugal",1,0,1,1,17
+Primeira Liga,15550,2018-01-12T20:30:00+00:00,Chaves,Guimaraes,"Tiago Martins, Portugal",3,3,4,3,18
+Primeira Liga,15549,2018-01-13T18:15:00+00:00,Pacos Ferreira,Maritimo,"Manuel Mota da Silva, Portugal",0,0,0,0,18
+Primeira Liga,15548,2018-01-13T20:30:00+00:00,SC Braga,Benfica,"Artur Soares Dias, Portugal",0,1,1,3,18
+Primeira Liga,15546,2018-01-14T16:00:00+00:00,Boavista,Portimonense,"Rui Oliveira, Portugal",2,0,2,0,18
+Primeira Liga,15547,2018-01-14T16:00:00+00:00,Tondela,Feirense,"Hugo Miguel, Portugal",0,0,3,1,18
+Primeira Liga,15545,2018-01-14T18:00:00+00:00,Belenenses,Rio Ave,"Vitor Ferreira, Portugal",0,1,1,2,18
+Primeira Liga,15544,2018-01-14T20:15:00+00:00,Sporting CP,Aves,"Joao Pedro Pinheiro, Portugal",1,0,3,0,18
+Primeira Liga,15543,2018-01-15T19:00:00+00:00,Moreirense,Vitoria Setubal,"Rui Manuel Gomes Costa, Portugal",1,2,2,2,18
+Primeira Liga,15497,2018-02-21T18:00:00+00:00,Estoril,FC Porto,"Vasco Santos, Portugal",1,0,1,3,18
+Primeira Liga,15542,2018-01-19T19:00:00+00:00,Vitoria Setubal,Sporting CP,"Fabio Jose Costa Verissimo, Portugal",0,1,1,1,19
+Primeira Liga,15541,2018-01-19T21:00:00+00:00,FC Porto,Tondela,"Luis Miguel Branco Godinho, Portugal",1,0,1,0,19
+Primeira Liga,15540,2018-01-20T16:00:00+00:00,Maritimo,Belenenses,"Luis Miguel Rodrigues Ferreira, Portugal",0,0,0,0,19
+Primeira Liga,15539,2018-01-20T18:15:00+00:00,Benfica,Chaves,"Bruno Alexandre Da Silva Esteves, Portugal",2,0,3,0,19
+Primeira Liga,15538,2018-01-20T20:30:00+00:00,Portimonense,SC Braga,"Manuel Oliveira, Portugal",0,2,1,2,19
+Primeira Liga,15536,2018-01-21T16:00:00+00:00,Aves,Pacos Ferreira,"Hugo Miguel, Portugal",0,1,0,2,19
+Primeira Liga,15537,2018-01-21T16:00:00+00:00,Feirense,Moreirense,"Tiago Martins, Portugal",1,0,1,0,19
+Primeira Liga,15535,2018-01-21T18:00:00+00:00,Rio Ave,Boavista,"Helder Malheiro, Portugal",1,0,2,0,19
+Primeira Liga,15534,2018-01-21T20:15:00+00:00,Guimaraes,Estoril,"Jorge de Sousa, Portugal",1,1,3,1,19
+Primeira Liga,15532,2018-01-29T19:00:00+00:00,Pacos Ferreira,Feirense,"Goncalo Martins, Portugal",1,1,2,1,20
+Primeira Liga,15533,2018-01-29T19:00:00+00:00,Portimonense,Rio Ave,"Hugo Miguel, Portugal",3,0,4,1,20
+Primeira Liga,15531,2018-01-29T21:00:00+00:00,Belenenses,Benfica,"Bruno Miguel Duarte Paixao, Portugal",0,0,1,1,20
+Primeira Liga,15529,2018-01-30T19:00:00+00:00,Estoril,Tondela,"Joao Pedro Pinheiro, Portugal",2,0,3,0,20
+Primeira Liga,15530,2018-01-30T19:00:00+00:00,SC Braga,Aves,"Nuno Miguel Serrano Almeida, Portugal",1,0,2,0,20
+Primeira Liga,15528,2018-01-30T21:00:00+00:00,Moreirense,FC Porto,"Luis Miguel Rodrigues Ferreira, Portugal",0,0,0,0,20
+Primeira Liga,15526,2018-01-31T19:00:00+00:00,Boavista,Maritimo,"Bruno Alexandre Da Silva Esteves, Portugal",1,1,2,1,20
+Primeira Liga,15527,2018-01-31T19:00:00+00:00,Chaves,Vitoria Setubal,"Antonio Nobre, Portugal",1,1,2,2,20
+Primeira Liga,15525,2018-01-31T21:00:00+00:00,Sporting CP,Guimaraes,"Luis Miguel Branco Godinho, Portugal",0,0,1,0,20
+Primeira Liga,15524,2018-02-03T18:15:00+00:00,Benfica,Rio Ave,"Manuel Oliveira, Portugal",0,1,5,1,21
+Primeira Liga,15523,2018-02-03T20:30:00+00:00,FC Porto,SC Braga,"Hugo Miguel, Portugal",2,1,3,1,21
+Primeira Liga,15521,2018-02-04T16:00:00+00:00,Feirense,Chaves,"Rui Manuel Gomes Costa, Portugal",1,1,1,2,21
+Primeira Liga,15522,2018-02-04T16:00:00+00:00,Tondela,Moreirense,"Helder Malheiro, Portugal",1,1,1,2,21
+Primeira Liga,15520,2018-02-04T18:00:00+00:00,Estoril,Sporting CP,"Manuel Mota da Silva, Portugal",2,0,2,0,21
+Primeira Liga,15519,2018-02-04T20:15:00+00:00,Guimaraes,Pacos Ferreira,"Rui Oliveira, Portugal",2,1,3,2,21
+Primeira Liga,15518,2018-02-05T19:00:00+00:00,Maritimo,Portimonense,"Jorge de Sousa, Portugal",0,3,0,3,21
+Primeira Liga,15517,2018-02-05T21:00:00+00:00,Vitoria Setubal,Belenenses,"Carlos Xistra, Portugal",1,0,3,0,21
+Primeira Liga,15516,2018-02-06T20:00:00+00:00,Aves,Boavista,"Fabio Jose Costa Verissimo, Portugal",2,0,3,0,21
+Primeira Liga,15515,2018-02-09T20:30:00+00:00,Pacos Ferreira,Tondela,"Rui Manuel Gomes Costa, Portugal",0,2,0,2,22
+Primeira Liga,15514,2018-02-10T16:00:00+00:00,Rio Ave,Maritimo,"Luis Miguel Branco Godinho, Portugal",2,0,3,0,22
+Primeira Liga,15513,2018-02-10T18:15:00+00:00,SC Braga,Vitoria Setubal,"Jorge de Sousa, Portugal",1,0,3,1,22
+Primeira Liga,15512,2018-02-10T20:30:00+00:00,Portimonense,Benfica,"Carlos Xistra, Portugal",0,1,1,3,22
+Primeira Liga,15510,2018-02-11T16:00:00+00:00,Belenenses,Aves,"Tiago Martins, Portugal",1,4,2,5,22
+Primeira Liga,15511,2018-02-11T16:00:00+00:00,Chaves,FC Porto,"Artur Soares Dias, Portugal",0,2,0,4,22
+Primeira Liga,15509,2018-02-11T18:00:00+00:00,Sporting CP,Feirense,"Luis Miguel Rodrigues Ferreira, Portugal",0,0,2,0,22
+Primeira Liga,15508,2018-02-11T20:15:00+00:00,Boavista,Guimaraes,"Nuno Miguel Serrano Almeida, Portugal",0,0,1,0,22
+Primeira Liga,15507,2018-02-12T20:00:00+00:00,Moreirense,Estoril,"Bruno Alexandre Da Silva Esteves, Portugal",1,0,1,2,22
+Primeira Liga,15506,2018-02-16T20:30:00+00:00,Feirense,Portimonense,"Vitor Ferreira, Portugal",1,1,1,3,23
+Primeira Liga,15505,2018-02-17T16:00:00+00:00,Aves,Maritimo,"Joao Pedro Pinheiro, Portugal",0,0,0,0,23
+Primeira Liga,15504,2018-02-17T18:15:00+00:00,Benfica,Boavista,"Tiago Martins, Portugal",2,0,4,0,23
+Primeira Liga,15503,2018-02-17T20:30:00+00:00,Estoril,Belenenses,"Fabio Jose Costa Verissimo, Portugal",0,1,0,2,23
+Primeira Liga,15501,2018-02-18T16:00:00+00:00,Moreirense,Chaves,"Nuno Miguel Serrano Almeida, Portugal",0,0,0,1,23
+Primeira Liga,15502,2018-02-18T16:00:00+00:00,Vitoria Setubal,Pacos Ferreira,"Artur Soares Dias, Portugal",0,0,1,0,23
+Primeira Liga,15500,2018-02-18T18:00:00+00:00,FC Porto,Rio Ave,"Carlos Xistra, Portugal",3,0,5,0,23
+Primeira Liga,15499,2018-02-18T20:15:00+00:00,Guimaraes,SC Braga,"Bruno Miguel Duarte Paixao, Portugal",0,3,0,5,23
+Primeira Liga,15498,2018-02-19T20:00:00+00:00,Tondela,Sporting CP,"Joao Carlos dos Santos Capela, Portugal",1,1,1,2,23
+Primeira Liga,15496,2018-02-23T20:30:00+00:00,Rio Ave,Aves,"Manuel Mota da Silva, Portugal",0,0,0,0,24
+Primeira Liga,15495,2018-02-24T16:00:00+00:00,Belenenses,Feirense,"Antonio Nobre, Portugal",0,0,1,0,24
+Primeira Liga,15494,2018-02-24T18:15:00+00:00,Maritimo,Guimaraes,"Rui Manuel Gomes Costa, Portugal",3,1,3,2,24
+Primeira Liga,15493,2018-02-24T20:30:00+00:00,Pacos Ferreira,Benfica,"Fabio Jose Costa Verissimo, Portugal",1,0,1,3,24
+Primeira Liga,15492,2018-02-25T16:00:00+00:00,Chaves,Estoril,"Rui Oliveira, Portugal",1,0,2,0,24
+Primeira Liga,15491,2018-02-25T18:00:00+00:00,Boavista,Vitoria Setubal,"Luis Miguel Branco Godinho, Portugal",2,0,4,0,24
+Primeira Liga,15490,2018-02-25T20:15:00+00:00,Portimonense,FC Porto,"Jorge de Sousa, Portugal",0,3,1,5,24
+Primeira Liga,15489,2018-02-26T19:00:00+00:00,SC Braga,Tondela,"Artur Soares Dias, Portugal",0,0,1,0,24
+Primeira Liga,15488,2018-02-26T21:00:00+00:00,Sporting CP,Moreirense,"Tiago Martins, Portugal",0,0,1,0,24
+Primeira Liga,15487,2018-03-02T20:30:00+00:00,FC Porto,Sporting CP,"Artur Soares Dias, Portugal",1,1,2,1,25
+Primeira Liga,15486,2018-03-03T16:00:00+00:00,Feirense,Boavista,"Joao Pedro Pinheiro, Portugal",1,0,3,0,25
+Primeira Liga,15485,2018-03-03T18:15:00+00:00,Benfica,Maritimo,"Helder Malheiro, Portugal",4,0,5,0,25
+Primeira Liga,15484,2018-03-03T20:30:00+00:00,Estoril,SC Braga,"Luis Miguel Branco Godinho, Portugal",0,3,0,6,25
+Primeira Liga,15483,2018-03-04T11:45:00+00:00,Tondela,Chaves,"Carlos Xistra, Portugal",1,0,2,0,25
+Primeira Liga,15482,2018-03-04T16:00:00+00:00,Moreirense,Pacos Ferreira,"Vasco Santos, Portugal",1,0,2,0,25
+Primeira Liga,15481,2018-03-04T18:00:00+00:00,Vitoria Setubal,Rio Ave,"Hugo Miguel, Portugal",0,0,1,0,25
+Primeira Liga,15480,2018-03-04T20:15:00+00:00,Guimaraes,Belenenses,"Jorge de Sousa, Portugal",0,0,0,0,25
+Primeira Liga,15479,2018-03-05T20:00:00+00:00,Aves,Portimonense,"Bruno Miguel Duarte Paixao, Portugal",1,0,3,0,25
+Primeira Liga,15478,2018-03-09T20:30:00+00:00,SC Braga,Moreirense,"Manuel Oliveira, Portugal",1,0,3,0,26
+Primeira Liga,15477,2018-03-10T16:00:00+00:00,Rio Ave,Feirense,"Vasco Santos, Portugal",0,1,2,1,26
+Primeira Liga,15476,2018-03-10T18:15:00+00:00,Benfica,Aves,"Rui Manuel Gomes Costa, Portugal",0,0,2,0,26
+Primeira Liga,15475,2018-03-10T20:30:00+00:00,Boavista,Estoril,"Vitor Ferreira, Portugal",0,0,1,0,26
+Primeira Liga,15474,2018-03-11T11:45:00+00:00,Portimonense,Guimaraes,"Luis Miguel Branco Godinho, Portugal",1,1,2,1,26
+Primeira Liga,15473,2018-03-11T16:00:00+00:00,Maritimo,Vitoria Setubal,"Manuel Mota da Silva, Portugal",3,0,4,2,26
+Primeira Liga,15472,2018-03-11T18:00:00+00:00,Belenenses,Tondela,"Nuno Miguel Serrano Almeida, Portugal",0,0,0,0,26
+Primeira Liga,15471,2018-03-11T20:15:00+00:00,Pacos Ferreira,FC Porto,"Bruno Miguel Duarte Paixao, Portugal",1,0,1,0,26
+Primeira Liga,15470,2018-03-12T19:00:00+00:00,Chaves,Sporting CP,"Hugo Miguel, Portugal",0,0,1,2,26
+Primeira Liga,15469,2018-03-16T20:30:00+00:00,Vitoria Setubal,Portimonense,"Luis Miguel Rodrigues Ferreira, Portugal",1,1,1,1,27
+Primeira Liga,15467,2018-03-17T16:00:00+00:00,Estoril,Pacos Ferreira,"Hugo Miguel, Portugal",1,0,1,1,27
+Primeira Liga,15468,2018-03-17T16:00:00+00:00,Tondela,Maritimo,"Jorge de Sousa, Portugal",1,1,1,2,27
+Primeira Liga,15466,2018-03-17T18:15:00+00:00,Feirense,Benfica,"Manuel Mota da Silva, Portugal",0,0,0,2,27
+Primeira Liga,15465,2018-03-17T20:30:00+00:00,FC Porto,Boavista,"Jorge Manuel Oliveira,",1,0,2,0,27
+Primeira Liga,15463,2018-03-18T16:00:00+00:00,Guimaraes,Aves,"Joao Pedro Pinheiro, Portugal",1,1,2,1,27
+Primeira Liga,15464,2018-03-18T16:00:00+00:00,Moreirense,Belenenses,"Fabio Jose Costa Verissimo, Portugal",1,0,2,1,27
+Primeira Liga,15462,2018-03-18T18:00:00+00:00,Chaves,SC Braga,"Bruno Miguel Duarte Paixao, Portugal",0,2,1,4,27
+Primeira Liga,15461,2018-03-18T20:15:00+00:00,Sporting CP,Rio Ave,"Rui Manuel Gomes Costa, Portugal",1,0,2,0,27
+Primeira Liga,15460,2018-03-29T20:00:00+00:00,Aves,Vitoria Setubal,"Tiago Martins, Portugal",1,0,1,4,28
+Primeira Liga,15459,2018-03-30T15:00:00+00:00,Maritimo,Feirense,"Manuel Oliveira, Portugal",0,0,4,1,28
+Primeira Liga,15458,2018-03-30T17:15:00+00:00,Rio Ave,Estoril,"Nuno Miguel Serrano Almeida, Portugal",2,0,2,0,28
+Primeira Liga,15457,2018-03-30T19:30:00+00:00,Boavista,Tondela,"Bruno Alexandre Da Silva Esteves, Portugal",1,1,1,1,28
+Primeira Liga,15455,2018-03-31T15:00:00+00:00,Pacos Ferreira,Chaves,"Helder Malheiro, Portugal",1,0,2,0,28
+Primeira Liga,15456,2018-03-31T15:00:00+00:00,Portimonense,Moreirense,"Manuel Mota da Silva, Portugal",0,2,4,3,28
+Primeira Liga,15454,2018-03-31T17:15:00+00:00,Benfica,Guimaraes,"Carlos Xistra, Portugal",1,0,2,0,28
+Primeira Liga,15453,2018-03-31T19:30:00+00:00,SC Braga,Sporting CP,"Luis Miguel Branco Godinho, Portugal",0,0,1,0,28
+Primeira Liga,15452,2018-04-02T19:00:00+00:00,Belenenses,FC Porto,"Hugo Miguel, Portugal",1,0,2,0,28
+Primeira Liga,15451,2018-04-06T19:30:00+00:00,Guimaraes,Rio Ave,"Jorge de Sousa, Portugal",3,0,3,0,29
+Primeira Liga,15449,2018-04-07T15:00:00+00:00,Estoril,Maritimo,"Luis Miguel Rodrigues Ferreira, Portugal",1,0,1,1,29
+Primeira Liga,15450,2018-04-07T15:00:00+00:00,Tondela,Portimonense,"Fabio Jose Costa Verissimo, Portugal",2,1,2,2,29
+Primeira Liga,15448,2018-04-07T17:15:00+00:00,Feirense,SC Braga,"Joao Carlos Santos Capela, Portugal",0,1,2,2,29
+Primeira Liga,15447,2018-04-07T19:30:00+00:00,Vitoria Setubal,Benfica,"Luis Miguel Branco Godinho, Portugal",1,1,1,2,29
+Primeira Liga,15446,2018-04-08T15:00:00+00:00,Chaves,Belenenses,"Antonio Nobre, Portugal",0,0,1,1,29
+Primeira Liga,15445,2018-04-08T17:00:00+00:00,FC Porto,Aves,"Nuno Miguel Serrano Almeida, Portugal",2,0,2,0,29
+Primeira Liga,15444,2018-04-08T19:15:00+00:00,Sporting CP,Pacos Ferreira,"Bruno Alexandre Da Silva Esteves, Portugal",1,0,2,0,29
+Primeira Liga,15443,2018-04-09T19:00:00+00:00,Moreirense,Boavista,"Artur Soares Dias, Portugal",0,0,1,0,29
+Primeira Liga,15442,2018-04-13T19:30:00+00:00,Pacos Ferreira,SC Braga,"Fabio Jose Costa Verissimo, Portugal",0,2,1,5,30
+Primeira Liga,15440,2018-04-14T15:00:00+00:00,Aves,Feirense,"Carlos Xistra, Portugal",1,0,1,0,30
+Primeira Liga,15441,2018-04-14T15:00:00+00:00,Portimonense,Estoril,"Helder Malheiro, Portugal",0,1,0,1,30
+Primeira Liga,15439,2018-04-14T17:15:00+00:00,Boavista,Chaves,"Manuel Mota da Silva, Portugal",2,1,3,3,30
+Primeira Liga,15438,2018-04-14T19:30:00+00:00,Guimaraes,Vitoria Setubal,"Rui Manuel Gomes Costa, Portugal",1,1,1,1,30
+Primeira Liga,15437,2018-04-15T15:00:00+00:00,Maritimo,Moreirense,"Vitor Ferreira, Portugal",0,0,1,1,30
+Primeira Liga,15436,2018-04-15T17:00:00+00:00,Benfica,FC Porto,"Artur Soares Dias, Portugal",0,0,0,1,30
+Primeira Liga,15435,2018-04-15T19:15:00+00:00,Belenenses,Sporting CP,"Bruno Miguel Duarte Paixao, Portugal",1,3,3,4,30
+Primeira Liga,15434,2018-04-16T19:00:00+00:00,Rio Ave,Tondela,"Goncalo Martins, Portugal",1,0,1,1,30
+Primeira Liga,15433,2018-04-20T19:30:00+00:00,SC Braga,Maritimo,"Nuno Miguel Serrano Almeida, Portugal",0,0,2,0,31
+Primeira Liga,15432,2018-04-21T15:00:00+00:00,Pacos Ferreira,Belenenses,"Manuel Mota da Silva, Portugal",1,0,1,1,31
+Primeira Liga,15431,2018-04-21T17:15:00+00:00,Feirense,Guimaraes,"Luis Miguel Rodrigues Ferreira, Portugal",1,1,2,1,31
+Primeira Liga,15430,2018-04-21T19:30:00+00:00,Estoril,Benfica,"Hugo Miguel, Portugal",0,1,1,2,31
+Primeira Liga,15428,2018-04-22T15:00:00+00:00,Chaves,Portimonense,"Bruno Alexandre Da Silva Esteves, Portugal",0,0,2,1,31
+Primeira Liga,15429,2018-04-22T15:00:00+00:00,Tondela,Aves,"Luis Miguel Branco Godinho, Portugal",0,0,3,0,31
+Primeira Liga,15427,2018-04-22T17:00:00+00:00,Moreirense,Rio Ave,"Carlos Xistra, Portugal",1,1,2,1,31
+Primeira Liga,15426,2018-04-22T19:15:00+00:00,Sporting CP,Boavista,"Fabio Jose Costa Verissimo, Portugal",1,0,1,0,31
+Primeira Liga,15425,2018-04-23T19:00:00+00:00,FC Porto,Vitoria Setubal,"Joao Pedro Pinheiro, Portugal",4,1,5,1,31
+Primeira Liga,15424,2018-04-27T19:30:00+00:00,Guimaraes,Moreirense,"Rui Oliveira, Portugal",0,0,1,0,32
+Primeira Liga,15423,2018-04-28T15:00:00+00:00,Vitoria Setubal,Feirense,"Jorge de Sousa, Portugal",0,0,0,2,32
+Primeira Liga,15422,2018-04-28T17:15:00+00:00,Benfica,Tondela,"Nuno Miguel Serrano Almeida, Portugal",1,2,2,3,32
+Primeira Liga,15421,2018-04-28T19:30:00+00:00,Portimonense,Sporting CP,"Manuel Oliveira, Portugal",1,1,1,2,32
+Primeira Liga,15419,2018-04-29T15:00:00+00:00,Boavista,Pacos Ferreira,"Rui Manuel Gomes Costa, Portugal",0,0,1,0,32
+Primeira Liga,15420,2018-04-29T15:00:00+00:00,Rio Ave,Chaves,"Hugo Miguel, Portugal",0,0,2,1,32
+Primeira Liga,15418,2018-04-29T17:00:00+00:00,Maritimo,FC Porto,"Carlos Xistra, Portugal",0,0,0,1,32
+Primeira Liga,15417,2018-04-29T19:15:00+00:00,Belenenses,SC Braga,"Tiago Martins, Portugal",0,0,0,1,32
+Primeira Liga,15416,2018-04-30T19:00:00+00:00,Aves,Estoril,"Artur Soares Dias, Portugal",0,0,1,0,32
+Primeira Liga,15415,2018-05-04T19:30:00+00:00,SC Braga,Boavista,"Bruno Alexandre Da Silva Esteves, Portugal",0,1,1,1,33
+Primeira Liga,15414,2018-05-05T15:00:00+00:00,Belenenses,Portimonense,"Luis Miguel Rodrigues Ferreira, Portugal",1,2,3,2,33
+Primeira Liga,15413,2018-05-05T17:15:00+00:00,Tondela,Guimaraes,"Helder Malheiro, Portugal",1,2,1,4,33
+Primeira Liga,15412,2018-05-05T19:30:00+00:00,Sporting CP,Benfica,"Carlos Xistra, Portugal",0,0,0,0,33
+Primeira Liga,15410,2018-05-06T15:00:00+00:00,Estoril,Vitoria Setubal,"Tiago Martins, Portugal",1,0,2,1,33
+Primeira Liga,15411,2018-05-06T15:00:00+00:00,Moreirense,Aves,"Jorge de Sousa, Portugal",0,1,0,3,33
+Primeira Liga,15409,2018-05-06T17:00:00+00:00,Chaves,Maritimo,"Artur Soares Dias, Portugal",2,1,4,1,33
+Primeira Liga,15408,2018-05-06T19:15:00+00:00,FC Porto,Feirense,"Luis Miguel Branco Godinho, Portugal",1,0,2,1,33
+Primeira Liga,15407,2018-05-07T19:00:00+00:00,Pacos Ferreira,Rio Ave,"Joao Pedro Pinheiro, Portugal",0,0,0,0,33
+Primeira Liga,15406,2018-05-11T19:30:00+00:00,Aves,Chaves,"Luis Miguel Rodrigues Ferreira, Portugal",2,1,2,3,34
+Primeira Liga,15405,2018-05-12T15:00:00+00:00,Guimaraes,FC Porto,"Joao Carlos Santos Capela, Portugal",0,0,0,1,34
+Primeira Liga,15404,2018-05-12T19:00:00+00:00,Boavista,Belenenses,"Rui Oliveira, Portugal",1,0,1,0,34
+Primeira Liga,15398,2018-05-13T17:00:00+00:00,Benfica,Moreirense,"Fabio Jose Costa Verissimo, Portugal",0,0,1,0,34
+Primeira Liga,15399,2018-05-13T17:00:00+00:00,Feirense,Estoril,"Artur Soares Dias, Portugal",0,0,0,0,34
+Primeira Liga,15400,2018-05-13T17:00:00+00:00,Maritimo,Sporting CP,"Jorge de Sousa, Portugal",1,1,2,1,34
+Primeira Liga,15401,2018-05-13T17:00:00+00:00,Portimonense,Pacos Ferreira,"Tiago Martins, Portugal",1,0,3,1,34
+Primeira Liga,15402,2018-05-13T17:00:00+00:00,Rio Ave,SC Braga,"Rui Manuel Gomes Costa, Portugal",1,0,1,0,34
+Primeira Liga,15403,2018-05-13T17:00:00+00:00,Vitoria Setubal,Tondela,"Luis Miguel Branco Godinho, Portugal",1,0,1,0,34
+Taça de Portugal,212703,2017-09-02T11:00:00+00:00,Vitória Horta,Amora,,0,0,0,3,1st Round
+Taça de Portugal,212704,2017-09-03T15:00:00+00:00,Praiense,Vale Formoso,,0,0,4,1,1st Round
+Taça de Portugal,212705,2017-09-03T16:00:00+00:00,Sacavenense,1º Dezembro,,0,0,2,0,1st Round
+Taça de Portugal,212706,2017-09-03T16:00:00+00:00,Torreense,Loures,,0,0,2,1,1st Round
+Taça de Portugal,212707,2017-09-03T16:00:00+00:00,Vilafranquense,Mafra,,0,0,1,2,1st Round
+Taça de Portugal,212708,2017-09-03T16:00:00+00:00,Pêro Pinheiro,Coruchense,,0,0,5,2,1st Round
+Taça de Portugal,212709,2017-09-03T16:00:00+00:00,Mosteirense,Eléctrico,,0,0,0,3,1st Round
+Taça de Portugal,212710,2017-09-03T16:00:00+00:00,Lourinhanense,Caldas,,0,0,0,2,1st Round
+Taça de Portugal,212711,2017-09-03T16:00:00+00:00,Sertanense,Marinhense,,0,0,0,2,1st Round
+Taça de Portugal,212712,2017-09-03T16:00:00+00:00,Condeixa,Pombal,,0,0,3,0,1st Round
+Taça de Portugal,212713,2017-09-03T16:00:00+00:00,AD Nogueirense,Gafanha,,0,0,0,1,1st Round
+Taça de Portugal,212714,2017-09-03T16:00:00+00:00,Benfica Castelo Branco,Leiria e Marrazes,,0,0,5,1,1st Round
+Taça de Portugal,212715,2017-09-03T16:00:00+00:00,União de Leiria,Sourense,,0,0,3,0,1st Round
+Taça de Portugal,212716,2017-09-03T16:00:00+00:00,Alcains,Águias do Moradal,,0,0,1,2,1st Round
+Taça de Portugal,212717,2017-09-03T16:00:00+00:00,Alta Lisboa,Flamengos,,0,0,4,0,1st Round
+Taça de Portugal,212718,2017-09-03T16:00:00+00:00,Almodôvar,Quarteirense,,0,0,5,2,1st Round
+Taça de Portugal,212719,2017-09-03T16:00:00+00:00,Lusitano GC Évora,Vasco da Gama,,0,0,3,1,1st Round
+Taça de Portugal,212720,2017-09-03T16:00:00+00:00,Olhanense,Almancilense,,0,0,3,1,1st Round
+Taça de Portugal,212721,2017-09-03T16:00:00+00:00,Lusitano FCV,AD Fornos Algodres,,0,0,4,1,1st Round
+Taça de Portugal,212722,2017-09-03T16:00:00+00:00,Oriental Lisboa,Lusitano VRSA,,0,0,1,2,1st Round
+Taça de Portugal,212723,2017-09-03T16:00:00+00:00,Armacenenses,Moncarapachense,,0,0,0,1,1st Round
+Taça de Portugal,212724,2017-09-03T16:00:00+00:00,Ferreiras,Moura,,0,0,2,5,1st Round
+Taça de Portugal,212725,2017-09-03T16:00:00+00:00,Farense,Estrela Vendas Novas,,0,0,7,1,1st Round
+Taça de Portugal,212726,2017-09-03T16:00:00+00:00,Casa Pia,Pinhalnovense,,0,0,2,0,1st Round
+Taça de Portugal,212727,2017-09-03T16:00:00+00:00,Charneca Caparica,Operário,,0,0,0,2,1st Round
+Taça de Portugal,212728,2017-09-03T16:00:00+00:00,Olímpico do Montijo,Lusitânia,,0,0,3,0,1st Round
+Taça de Portugal,212729,2017-09-03T16:00:00+00:00,Alcanenense,Oleiros,,0,0,0,0,1st Round
+Taça de Portugal,212730,2017-09-03T16:00:00+00:00,Fátima,Mação,,0,0,4,0,1st Round
+Taça de Portugal,212731,2017-09-03T16:00:00+00:00,Sendim,Oliveirense,,0,0,0,5,1st Round
+Taça de Portugal,212732,2017-09-03T16:00:00+00:00,Trofense,Arões,,0,0,1,0,1st Round
+Taça de Portugal,212733,2017-09-03T16:00:00+00:00,Felgueiras 1932,Machico,,0,0,4,0,1st Round
+Taça de Portugal,212734,2017-09-03T16:00:00+00:00,Câmara de Lobos,Freamunde,,0,0,0,2,1st Round
+Taça de Portugal,212735,2017-09-03T16:00:00+00:00,Fafe,Amarante,,0,0,0,1,1st Round
+Taça de Portugal,212736,2017-09-03T16:00:00+00:00,Vizela,Mondinense,,0,0,3,0,1st Round
+Taça de Portugal,212737,2017-09-03T16:00:00+00:00,Pedras Rubras,Camacha,,0,0,3,1,1st Round
+Taça de Portugal,212738,2017-09-03T16:00:00+00:00,Maria da Fonte,Mirandela,,0,0,1,1,1st Round
+Taça de Portugal,212739,2017-09-03T16:00:00+00:00,Merelinense,Cerveira,,0,0,3,1,1st Round
+Taça de Portugal,212740,2017-09-03T16:00:00+00:00,Esposende,Torcatense,,0,0,1,2,1st Round
+Taça de Portugal,212741,2017-09-03T16:00:00+00:00,Águia FC Vimioso,Monção,,0,0,1,0,1st Round
+Taça de Portugal,212742,2017-09-03T16:00:00+00:00,Vilaverdense,Bragança,,0,0,2,0,1st Round
+Taça de Portugal,212743,2017-09-03T16:00:00+00:00,Atlético Arcos,Minas de Argozelo,,0,0,3,5,1st Round
+Taça de Portugal,212744,2017-09-03T16:00:00+00:00,AR São Martinho,Vila Real,,0,0,2,1,1st Round
+Taça de Portugal,212745,2017-09-03T16:00:00+00:00,Cinfães,Salgueiros,,0,0,2,2,1st Round
+Taça de Portugal,212746,2017-09-03T16:00:00+00:00,Anadia,Águeda,,0,0,1,0,1st Round
+Taça de Portugal,212747,2017-09-03T16:00:00+00:00,Sanjoanense,Sabugal,,0,0,3,2,1st Round
+Taça de Portugal,212748,2017-09-03T16:00:00+00:00,Recreativo Canaviais,Guadalupe,,0,0,1,4,1st Round
+Taça de Portugal,212749,2017-09-03T16:00:00+00:00,Ginásio Figueirense,Mortágua,,0,0,1,5,1st Round
+Taça de Portugal,212750,2017-09-03T16:00:00+00:00,Tocha,Esmoriz,,0,0,1,2,1st Round
+Taça de Portugal,212751,2017-09-03T16:00:00+00:00,Ferreira de Aves,Cesarense,,0,0,0,1,1st Round
+Taça de Portugal,212752,2017-09-03T16:00:00+00:00,Espinho,Aliança de Gandra,,0,0,0,0,1st Round
+Taça de Portugal,212753,2017-09-03T16:00:00+00:00,Sousense,Paredes,,0,0,2,0,1st Round
+Taça de Portugal,212754,2017-09-03T16:00:00+00:00,Resende,Lamego,,0,0,1,0,1st Round
+Taça de Portugal,212755,2017-09-03T16:00:00+00:00,Canelas 2010,União Lamas,,0,0,3,2,1st Round
+Taça de Portugal,212756,2017-09-03T16:00:00+00:00,Coimbrões,Rio Tinto,,0,0,1,0,1st Round
+Taça de Portugal,212757,2017-09-03T16:00:00+00:00,Régua,Gondomar,,0,0,1,3,1st Round
+Taça de Portugal,212758,2017-09-03T16:00:00+00:00,Pedras Salgadas,Montalegre,,0,0,2,0,1st Round
+Taça de Portugal,212759,2017-09-03T16:00:00+00:00,Atlético Riachense,União Idanhense,,0,0,0,2,1st Round
+Taça de Portugal,212760,2017-09-03T16:00:00+00:00,Crato,Sintrense,,0,0,1,2,1st Round
+Taça de Portugal,212761,2017-09-03T16:00:00+00:00,Louletano,Castrense,,0,0,1,1,1st Round
+Taça de Portugal,212762,2017-09-03T17:00:00+00:00,Rabo Peixe,Ideal,,0,0,0,3,1st Round
+Taça de Portugal,212657,2017-09-23T14:00:00+00:00,Gondomar,Santa Clara,,0,0,0,1,2nd Round
+Taça de Portugal,212658,2017-09-23T14:00:00+00:00,Mirandela,Academica,,0,0,1,2,2nd Round
+Taça de Portugal,212659,2017-09-23T18:00:00+00:00,Ideal,Almodôvar,,0,0,1,0,2nd Round
+Taça de Portugal,212660,2017-09-24T10:00:00+00:00,Minas de Argozelo,Cova De Piedade,,0,0,0,4,2nd Round
+Taça de Portugal,212661,2017-09-24T14:00:00+00:00,Vilafranquense,Penafiel,,0,0,1,0,2nd Round
+Taça de Portugal,212662,2017-09-24T14:00:00+00:00,Condeixa,Nacional,,0,0,1,3,2nd Round
+Taça de Portugal,212663,2017-09-24T14:00:00+00:00,Coimbrões,Famalicao,,0,0,1,3,2nd Round
+Taça de Portugal,212664,2017-09-24T14:00:00+00:00,Vila Real,Oliveirense,,0,0,1,0,2nd Round
+Taça de Portugal,212665,2017-09-24T14:00:00+00:00,Amarante,Varzim,,0,0,1,0,2nd Round
+Taça de Portugal,212666,2017-09-24T14:00:00+00:00,Vizela,SC Covilha,,0,0,2,1,2nd Round
+Taça de Portugal,212667,2017-09-24T14:00:00+00:00,Lusitano FCV,Academico Viseu,,0,0,0,1,2nd Round
+Taça de Portugal,212668,2017-09-24T14:00:00+00:00,Moura,GIL Vicente,,0,0,1,0,2nd Round
+Taça de Portugal,212669,2017-09-24T14:00:00+00:00,Merelinense,Real,,0,0,3,1,2nd Round
+Taça de Portugal,212670,2017-09-24T14:00:00+00:00,Sourense,Leixoes,,0,0,0,2,2nd Round
+Taça de Portugal,212671,2017-09-24T14:00:00+00:00,Sertanense,U. Madeira,,0,0,0,2,2nd Round
+Taça de Portugal,212672,2017-09-24T14:00:00+00:00,Sacavenense,Arouca,,0,0,0,1,2nd Round
+Taça de Portugal,212673,2017-09-24T14:00:00+00:00,Águia FC Vimioso,Vasco da Gama,,0,0,2,3,2nd Round
+Taça de Portugal,212674,2017-09-24T14:00:00+00:00,Caldas,Olímpico do Montijo,,0,0,1,0,2nd Round
+Taça de Portugal,212675,2017-09-24T14:00:00+00:00,Pedras Rubras,Anadia,,0,0,0,4,2nd Round
+Taça de Portugal,212676,2017-09-24T14:00:00+00:00,União Idanhense,AR São Martinho,,0,0,0,4,2nd Round
+Taça de Portugal,212677,2017-09-24T14:00:00+00:00,Torcatense,Lusitano VRSA,,0,0,2,0,2nd Round
+Taça de Portugal,212678,2017-09-24T14:00:00+00:00,Felgueiras 1932,Pedras Salgadas,,0,0,2,1,2nd Round
+Taça de Portugal,212679,2017-09-24T14:00:00+00:00,Cesarense,Águias do Moradal,,0,0,3,2,2nd Round
+Taça de Portugal,212680,2017-09-24T14:00:00+00:00,Espinho,Moncarapachense,,0,0,1,0,2nd Round
+Taça de Portugal,212681,2017-09-24T14:00:00+00:00,Benfica Castelo Branco,União de Leiria,,0,0,0,2,2nd Round
+Taça de Portugal,212682,2017-09-24T14:00:00+00:00,Trofense,Sintrense,,0,0,0,1,2nd Round
+Taça de Portugal,212683,2017-09-24T14:00:00+00:00,Freamunde,Maria da Fonte,,0,0,4,2,2nd Round
+Taça de Portugal,212684,2017-09-24T14:00:00+00:00,Guadalupe,Operário,,0,0,2,3,2nd Round
+Taça de Portugal,212685,2017-09-24T14:00:00+00:00,Sanjoanense,Crato,,0,0,3,0,2nd Round
+Taça de Portugal,212686,2017-09-24T14:00:00+00:00,Canelas 2010,Resende,,0,0,3,0,2nd Round
+Taça de Portugal,212687,2017-09-24T14:00:00+00:00,Pinhalnovense,Leiria e Marrazes,,0,0,4,0,2nd Round
+Taça de Portugal,212688,2017-09-24T14:00:00+00:00,Fátima,Eléctrico,,0,0,4,2,2nd Round
+Taça de Portugal,212689,2017-09-24T14:00:00+00:00,Casa Pia,Recreativo Canaviais,,0,0,5,0,2nd Round
+Taça de Portugal,212690,2017-09-24T14:00:00+00:00,Mortágua,Torreense,,0,0,0,2,2nd Round
+Taça de Portugal,212691,2017-09-24T14:00:00+00:00,Lusitano GC Évora,Pêro Pinheiro,,0,0,4,1,2nd Round
+Taça de Portugal,212692,2017-09-24T14:00:00+00:00,Oleiros,Sousense,,0,0,3,0,2nd Round
+Taça de Portugal,212693,2017-09-24T14:00:00+00:00,Lourinhanense,Gafanha,,0,0,2,3,2nd Round
+Taça de Portugal,212694,2017-09-24T14:00:00+00:00,Olhanense,Lamego,,0,0,4,1,2nd Round
+Taça de Portugal,212695,2017-09-24T14:00:00+00:00,Amora,Farense,,0,0,2,3,2nd Round
+Taça de Portugal,212696,2017-09-24T14:00:00+00:00,Alta Lisboa,Salgueiros,,0,0,3,2,2nd Round
+Taça de Portugal,212697,2017-09-24T14:00:00+00:00,Coruchense,Mondinense,,0,0,5,2,2nd Round
+Taça de Portugal,212698,2017-09-24T14:00:00+00:00,Oliveirense,Mafra,,0,0,2,1,2nd Round
+Taça de Portugal,212699,2017-09-24T14:00:00+00:00,Bragança,Alcains,,0,0,1,1,2nd Round
+Taça de Portugal,212700,2017-09-24T14:00:00+00:00,Praiense,Louletano,,0,0,2,0,2nd Round
+Taça de Portugal,212701,2017-09-24T14:00:00+00:00,Marinhense,Oriental Lisboa,,0,0,0,1,2nd Round
+Taça de Portugal,212702,2017-09-24T14:00:00+00:00,Esmoriz,Vilaverdense,,0,0,0,1,2nd Round
+Taça de Portugal,212625,2017-10-12T19:15:00+00:00,Oleiros,Sporting CP,,0,0,2,4,3rd Round
+Taça de Portugal,212626,2017-10-13T19:15:00+00:00,Lusitano GC Évora,FC Porto,,0,0,0,6,3rd Round
+Taça de Portugal,212627,2017-10-14T14:00:00+00:00,Vasco da Gama,Guimaraes,,0,0,1,6,3rd Round
+Taça de Portugal,212628,2017-10-14T14:00:00+00:00,Torcatense,Maritimo,,0,0,0,1,3rd Round
+Taça de Portugal,212629,2017-10-14T15:00:00+00:00,Cova De Piedade,Anadia,,0,0,1,1,3rd Round
+Taça de Portugal,212630,2017-10-14T17:00:00+00:00,Academico Viseu,Feirense,,0,0,0,0,3rd Round
+Taça de Portugal,212631,2017-10-14T17:00:00+00:00,AR São Martinho,SC Braga,,0,0,2,3,3rd Round
+Taça de Portugal,212632,2017-10-14T18:00:00+00:00,Olhanense,Benfica,,0,0,0,1,3rd Round
+Taça de Portugal,212633,2017-10-15T11:00:00+00:00,Operário,Felgueiras 1932,,0,0,2,4,3rd Round
+Taça de Portugal,212634,2017-10-15T14:00:00+00:00,Vilaverdense,Boavista,,0,0,1,0,3rd Round
+Taça de Portugal,212635,2017-10-15T14:00:00+00:00,Moura,Portimonense,,0,0,0,0,3rd Round
+Taça de Portugal,212636,2017-10-15T14:00:00+00:00,Farense,Estoril,,0,0,1,0,3rd Round
+Taça de Portugal,212637,2017-10-15T14:00:00+00:00,Vila Real,Aves,,0,0,0,1,3rd Round
+Taça de Portugal,212638,2017-10-15T14:00:00+00:00,Santa Clara,Belenenses,,0,0,2,1,3rd Round
+Taça de Portugal,212639,2017-10-15T14:00:00+00:00,Canelas 2010,Moreirense,,0,0,1,3,3rd Round
+Taça de Portugal,212640,2017-10-15T14:00:00+00:00,Fátima,Chaves,,0,0,0,3,3rd Round
+Taça de Portugal,212641,2017-10-15T14:00:00+00:00,Leixoes,Tondela,,0,0,3,2,3rd Round
+Taça de Portugal,212642,2017-10-15T14:00:00+00:00,Pinhalnovense,Vitoria Setubal,,0,0,1,2,3rd Round
+Taça de Portugal,212643,2017-10-15T14:00:00+00:00,Sanjoanense,Rio Ave,,0,0,0,4,3rd Round
+Taça de Portugal,212644,2017-10-15T14:00:00+00:00,U. Madeira,Oriental Lisboa,,0,0,3,2,3rd Round
+Taça de Portugal,212645,2017-10-15T14:00:00+00:00,Vilafranquense,Casa Pia,,0,0,2,1,3rd Round
+Taça de Portugal,212646,2017-10-15T14:00:00+00:00,Alta Lisboa,Famalicao,,0,0,0,2,3rd Round
+Taça de Portugal,212647,2017-10-15T14:00:00+00:00,Praiense,Alcains,,0,0,4,1,3rd Round
+Taça de Portugal,212648,2017-10-15T14:00:00+00:00,Gafanha,Freamunde,,0,0,0,0,3rd Round
+Taça de Portugal,212649,2017-10-15T14:00:00+00:00,Arouca,Coruchense,,0,0,3,0,3rd Round
+Taça de Portugal,212650,2017-10-15T14:00:00+00:00,Oliveirense,Torreense,,0,0,0,0,3rd Round
+Taça de Portugal,212651,2017-10-15T14:00:00+00:00,União de Leiria,Espinho,,0,0,2,0,3rd Round
+Taça de Portugal,212652,2017-10-15T14:00:00+00:00,Cesarense,Caldas,,0,0,1,2,3rd Round
+Taça de Portugal,212653,2017-10-15T14:00:00+00:00,Vizela,Sintrense,,0,0,3,1,3rd Round
+Taça de Portugal,212654,2017-10-15T14:00:00+00:00,Nacional,Merelinense,,0,0,4,2,3rd Round
+Taça de Portugal,212655,2017-10-15T14:00:00+00:00,Amarante,Ideal,,0,0,1,1,3rd Round
+Taça de Portugal,212656,2017-10-15T18:00:00+00:00,Academica,Pacos Ferreira,,0,0,2,1,3rd Round
+Taça de Portugal,212609,2017-11-16T20:30:00+00:00,Sporting CP,Famalicao,,0,0,2,0,4th Round
+Taça de Portugal,212610,2017-11-17T20:30:00+00:00,FC Porto,Portimonense,,1,1,3,2,4th Round
+Taça de Portugal,212611,2017-11-18T18:15:00+00:00,Benfica,Vitoria Setubal,,1,0,2,0,4th Round
+Taça de Portugal,212612,2017-11-18T20:30:00+00:00,Rio Ave,SC Braga,,1,0,1,0,4th Round
+Taça de Portugal,212613,2017-11-19T14:30:00+00:00,Oliveirense,Maritimo,,1,1,2,3,4th Round
+Taça de Portugal,212614,2017-11-19T15:00:00+00:00,União de Leiria,Aves,,0,1,0,3,4th Round
+Taça de Portugal,212615,2017-11-19T15:00:00+00:00,Academica,Nacional,,0,0,1,0,4th Round
+Taça de Portugal,212616,2017-11-19T15:00:00+00:00,U. Madeira,Freamunde,,2,2,4,2,4th Round
+Taça de Portugal,212617,2017-11-19T15:00:00+00:00,Vizela,Vilaverdense,,1,1,2,2,4th Round
+Taça de Portugal,212618,2017-11-19T15:00:00+00:00,Caldas,Arouca,,1,0,1,1,4th Round
+Taça de Portugal,212619,2017-11-19T15:00:00+00:00,Farense,Leixoes,,1,1,2,1,4th Round
+Taça de Portugal,212620,2017-11-19T15:00:00+00:00,Moreirense,Felgueiras 1932,,3,0,5,2,4th Round
+Taça de Portugal,212621,2017-11-19T16:00:00+00:00,Santa Clara,Chaves,,2,0,2,0,4th Round
+Taça de Portugal,212622,2017-11-19T16:00:00+00:00,Ideal,Cova De Piedade,,0,4,1,4,4th Round
+Taça de Portugal,212623,2017-11-19T16:00:00+00:00,Praiense,Vilafranquense,,1,1,3,2,4th Round
+Taça de Portugal,212624,2017-11-19T20:15:00+00:00,Guimaraes,Feirense,,1,0,2,1,4th Round
+Taça de Portugal,212601,2017-12-06T16:00:00+00:00,Maritimo,Cova De Piedade,,0,0,0,0,8th Finals
+Taça de Portugal,212602,2017-12-13T15:00:00+00:00,U. Madeira,Aves,,0,3,1,5,8th Finals
+Taça de Portugal,212603,2017-12-13T15:00:00+00:00,Moreirense,Santa Clara,,1,1,2,2,8th Finals
+Taça de Portugal,212604,2017-12-13T15:30:00+00:00,Praiense,Farense,,0,1,0,1,8th Finals
+Taça de Portugal,212605,2017-12-13T19:00:00+00:00,Sporting CP,Vilaverdense,,1,0,4,0,8th Finals
+Taça de Portugal,212606,2017-12-13T21:00:00+00:00,Rio Ave,Benfica,,0,1,3,2,8th Finals
+Taça de Portugal,212607,2017-12-14T20:15:00+00:00,FC Porto,Guimaraes,,1,0,4,0,8th Finals
+Taça de Portugal,212608,2017-12-30T15:00:00+00:00,Caldas,Academica,,1,0,1,1,8th Finals
+Taça de Portugal,212597,2018-01-10T18:00:00+00:00,Caldas,Farense,,0,0,3,2,Quarter-finals
+Taça de Portugal,212598,2018-01-10T19:00:00+00:00,Rio Ave,Aves,,1,0,4,4,Quarter-finals
+Taça de Portugal,212599,2018-01-10T20:30:00+00:00,Cova De Piedade,Sporting CP,,0,0,1,2,Quarter-finals
+Taça de Portugal,212600,2018-01-11T20:30:00+00:00,Moreirense,FC Porto,,0,2,1,2,Quarter-finals
+Taça de Portugal,212593,2018-02-07T20:15:00+00:00,FC Porto,Sporting CP,,0,0,1,0,Semi-finals
+Taça de Portugal,212595,2018-02-28T20:15:00+00:00,Aves,Caldas,,1,0,1,0,Semi-finals
+Taça de Portugal,212596,2018-04-18T17:30:00+00:00,Caldas,Aves,,0,0,1,2,Semi-finals
+Taça de Portugal,212594,2018-04-18T19:30:00+00:00,Sporting CP,FC Porto,,0,0,1,0,Semi-finals
+Taça de Portugal,212592,2018-05-20T16:15:00+00:00,Aves,Sporting CP,,1,0,2,1,Final
+Premier League,11911,2017-08-11T18:45:00+00:00,Arsenal,Leicester,"Mike Dean, England",2,2,4,3,1
+Premier League,11910,2017-08-12T11:30:00+00:00,Watford,Liverpool,"Anthony Taylor, England",2,1,3,3,1
+Premier League,11905,2017-08-12T14:00:00+00:00,Chelsea,Burnley,"Craig Pawson, England",0,3,2,3,1
+Premier League,11906,2017-08-12T14:00:00+00:00,Crystal Palace,Huddersfield,"Jonathan Moss, England",0,2,0,3,1
+Premier League,11907,2017-08-12T14:00:00+00:00,Everton,Stoke City,"Neil Swarbrick, England",1,0,1,0,1
+Premier League,11908,2017-08-12T14:00:00+00:00,Southampton,Swansea,"Mike Jones, England",0,0,0,0,1
+Premier League,11909,2017-08-12T14:00:00+00:00,West Brom,Bournemouth,"Robert Madley, England",1,0,1,0,1
+Premier League,11904,2017-08-12T16:30:00+00:00,Brighton,Manchester City,"Michael Oliver, England",0,0,0,2,1
+Premier League,11903,2017-08-13T12:30:00+00:00,Newcastle,Tottenham,"Andre Marriner, England",0,0,0,2,1
+Premier League,11902,2017-08-13T15:00:00+00:00,Manchester United,West Ham,"Martin Atkinson, England",1,0,4,0,1
+Premier League,11901,2017-08-19T11:30:00+00:00,Swansea,Manchester United,"Jonathan Moss, England",0,1,0,4,2
+Premier League,11896,2017-08-19T14:00:00+00:00,Bournemouth,Watford,"Roger East, England",0,0,0,2,2
+Premier League,11897,2017-08-19T14:00:00+00:00,Burnley,West Brom,"Martin Atkinson, England",0,0,0,1,2
+Premier League,11898,2017-08-19T14:00:00+00:00,Leicester,Brighton,"Lee Probert, England",1,0,2,0,2
+Premier League,11899,2017-08-19T14:00:00+00:00,Liverpool,Crystal Palace,"Kevin Friend, England",0,0,1,0,2
+Premier League,11900,2017-08-19T14:00:00+00:00,Southampton,West Ham,"Lee Mason, England",2,1,3,2,2
+Premier League,11895,2017-08-19T16:30:00+00:00,Stoke City,Arsenal,"Andre Marriner, England",0,0,1,0,2
+Premier League,11894,2017-08-20T12:30:00+00:00,Huddersfield,Newcastle,"Craig Pawson, England",0,0,1,0,2
+Premier League,11893,2017-08-20T15:00:00+00:00,Tottenham,Chelsea,"Anthony Taylor, England",0,1,1,2,2
+Premier League,11892,2017-08-21T19:00:00+00:00,Manchester City,Everton,"Robert Madley, England",0,1,1,1,2
+Premier League,11891,2017-08-26T11:30:00+00:00,Bournemouth,Manchester City,"Mike Dean, England",1,1,1,2,3
+Premier League,11887,2017-08-26T14:00:00+00:00,Crystal Palace,Swansea,"Andre Marriner, England",0,1,0,2,3
+Premier League,11888,2017-08-26T14:00:00+00:00,Huddersfield,Southampton,"Stuart Attwell, England",0,0,0,0,3
+Premier League,11889,2017-08-26T14:00:00+00:00,Newcastle,West Ham,"Neil Swarbrick, England",1,0,3,0,3
+Premier League,11890,2017-08-26T14:00:00+00:00,Watford,Brighton,"Graham Scott, England",0,0,0,0,3
+Premier League,11886,2017-08-26T16:30:00+00:00,Manchester United,Leicester,"Michael Oliver, England",0,0,2,0,3
+Premier League,11884,2017-08-27T12:30:00+00:00,Chelsea,Everton,"Jonathan Moss, England",2,0,2,0,3
+Premier League,11885,2017-08-27T12:30:00+00:00,West Brom,Stoke City,"Anthony Taylor, England",0,0,1,1,3
+Premier League,11882,2017-08-27T15:00:00+00:00,Liverpool,Arsenal,"Craig Pawson, England",2,0,4,0,3
+Premier League,11883,2017-08-27T15:00:00+00:00,Tottenham,Burnley,"Lee Mason, England",0,0,1,1,3
+Premier League,11881,2017-09-09T11:30:00+00:00,Manchester City,Liverpool,"Jonathan Moss, England",2,0,5,0,4
+Premier League,11876,2017-09-09T14:00:00+00:00,Arsenal,Bournemouth,"Anthony Taylor, England",2,0,3,0,4
+Premier League,11877,2017-09-09T14:00:00+00:00,Brighton,West Brom,"Chris Kavanagh, England",1,0,3,1,4
+Premier League,11878,2017-09-09T14:00:00+00:00,Everton,Tottenham,"Graham Scott, England",0,2,0,3,4
+Premier League,11879,2017-09-09T14:00:00+00:00,Leicester,Chelsea,"Lee Mason, England",0,1,1,2,4
+Premier League,11880,2017-09-09T14:00:00+00:00,Southampton,Watford,"Lee Probert, England",0,1,0,2,4
+Premier League,11875,2017-09-09T16:30:00+00:00,Stoke City,Manchester United,"Neil Swarbrick, England",1,1,2,2,4
+Premier League,11874,2017-09-10T12:30:00+00:00,Burnley,Crystal Palace,"Michael Oliver, England",1,0,1,0,4
+Premier League,11873,2017-09-10T15:00:00+00:00,Swansea,Newcastle,"Mike Jones, England",0,0,0,1,4
+Premier League,11872,2017-09-11T19:00:00+00:00,West Ham,Huddersfield,"Kevin Friend, England",0,0,2,0,4
+Premier League,11871,2017-09-15T19:00:00+00:00,Bournemouth,Brighton,"Craig Pawson, England",0,0,2,1,5
+Premier League,11870,2017-09-16T11:30:00+00:00,Crystal Palace,Southampton,"Robert Madley, England",0,1,0,1,5
+Premier League,11865,2017-09-16T14:00:00+00:00,Huddersfield,Leicester,"Jonathan Moss, England",0,0,1,1,5
+Premier League,11866,2017-09-16T14:00:00+00:00,Liverpool,Burnley,"Roger East, England",1,1,1,1,5
+Premier League,11867,2017-09-16T14:00:00+00:00,Newcastle,Stoke City,"Stuart Attwell, England",1,0,2,1,5
+Premier League,11868,2017-09-16T14:00:00+00:00,Watford,Manchester City,"Anthony Taylor, England",0,3,0,6,5
+Premier League,11869,2017-09-16T14:00:00+00:00,West Brom,West Ham,"Paul Tierney, England",0,0,0,0,5
+Premier League,11864,2017-09-16T16:30:00+00:00,Tottenham,Swansea,"Mike Dean, England",0,0,0,0,5
+Premier League,11863,2017-09-17T12:30:00+00:00,Chelsea,Arsenal,"Michael Oliver, England",0,0,0,0,5
+Premier League,11862,2017-09-17T15:00:00+00:00,Manchester United,Everton,"Andre Marriner, England",1,0,4,0,5
+Premier League,11861,2017-09-23T11:30:00+00:00,West Ham,Tottenham,"Michael Oliver, England",0,2,2,3,6
+Premier League,11855,2017-09-23T14:00:00+00:00,Burnley,Huddersfield,"Chris Kavanagh, England",0,0,0,0,6
+Premier League,11856,2017-09-23T14:00:00+00:00,Everton,Bournemouth,"Martin Atkinson, England",0,0,2,1,6
+Premier League,11857,2017-09-23T14:00:00+00:00,Manchester City,Crystal Palace,"Neil Swarbrick, England",1,0,5,0,6
+Premier League,11858,2017-09-23T14:00:00+00:00,Southampton,Manchester United,"Craig Pawson, England",0,1,0,1,6
+Premier League,11859,2017-09-23T14:00:00+00:00,Stoke City,Chelsea,"Mike Dean, England",0,2,0,4,6
+Premier League,11860,2017-09-23T14:00:00+00:00,Swansea,Watford,"Lee Mason, England",0,1,1,2,6
+Premier League,11854,2017-09-23T16:30:00+00:00,Leicester,Liverpool,"Anthony Taylor, England",1,2,2,3,6
+Premier League,11853,2017-09-24T15:00:00+00:00,Brighton,Newcastle,"Andre Marriner, England",0,0,1,0,6
+Premier League,11852,2017-09-25T19:00:00+00:00,Arsenal,West Brom,"Robert Madley, England",1,0,2,0,6
+Premier League,11851,2017-09-30T11:30:00+00:00,Huddersfield,Tottenham,"Neil Swarbrick, England",0,3,0,4,7
+Premier League,11846,2017-09-30T14:00:00+00:00,Bournemouth,Leicester,"Graham Scott, England",0,0,0,0,7
+Premier League,11847,2017-09-30T14:00:00+00:00,Manchester United,Crystal Palace,"Mike Dean, England",2,0,4,0,7
+Premier League,11848,2017-09-30T14:00:00+00:00,Stoke City,Southampton,"Mike Jones, England",1,0,2,1,7
+Premier League,11849,2017-09-30T14:00:00+00:00,West Brom,Watford,"Michael Oliver, England",2,1,2,2,7
+Premier League,11850,2017-09-30T14:00:00+00:00,West Ham,Swansea,"Roger East, England",0,0,1,0,7
+Premier League,11845,2017-09-30T16:30:00+00:00,Chelsea,Manchester City,"Martin Atkinson, England",0,0,0,1,7
+Premier League,11844,2017-10-01T11:00:00+00:00,Arsenal,Brighton,"Kevin Friend, England",1,0,2,0,7
+Premier League,11843,2017-10-01T13:15:00+00:00,Everton,Burnley,"Jonathan Moss, England",0,1,0,1,7
+Premier League,11842,2017-10-01T15:30:00+00:00,Newcastle,Liverpool,"Craig Pawson, England",1,1,1,1,7
+Premier League,11841,2017-10-14T11:30:00+00:00,Liverpool,Manchester United,"Martin Atkinson, England",0,0,0,0,8
+Premier League,11836,2017-10-14T14:00:00+00:00,Burnley,West Ham,"Stuart Attwell, England",0,1,1,1,8
+Premier League,11837,2017-10-14T14:00:00+00:00,Crystal Palace,Chelsea,"Andre Marriner, England",2,1,2,1,8
+Premier League,11838,2017-10-14T14:00:00+00:00,Manchester City,Stoke City,"Craig Pawson, England",3,1,7,2,8
+Premier League,11839,2017-10-14T14:00:00+00:00,Swansea,Huddersfield,"Paul Tierney, England",1,0,2,0,8
+Premier League,11840,2017-10-14T14:00:00+00:00,Tottenham,Bournemouth,"Robert Madley, England",0,0,1,0,8
+Premier League,11835,2017-10-14T16:30:00+00:00,Watford,Arsenal,"Neil Swarbrick, England",0,1,2,1,8
+Premier League,11834,2017-10-15T12:30:00+00:00,Brighton,Everton,"Michael Oliver, England",0,0,1,1,8
+Premier League,11833,2017-10-15T15:00:00+00:00,Southampton,Newcastle,"Kevin Friend, England",0,1,2,2,8
+Premier League,11832,2017-10-16T19:00:00+00:00,Leicester,West Brom,"Mike Dean, England",0,0,1,1,8
+Premier League,11831,2017-10-20T19:00:00+00:00,West Ham,Brighton,"Martin Atkinson, England",0,2,0,3,9
+Premier League,11830,2017-10-21T11:30:00+00:00,Chelsea,Watford,"Jonathan Moss, England",1,1,4,2,9
+Premier League,11825,2017-10-21T14:00:00+00:00,Huddersfield,Manchester United,"Lee Mason, England",2,0,2,1,9
+Premier League,11826,2017-10-21T14:00:00+00:00,Manchester City,Burnley,"Roger East, England",1,0,3,0,9
+Premier League,11827,2017-10-21T14:00:00+00:00,Newcastle,Crystal Palace,"Stuart Attwell, England",0,0,1,0,9
+Premier League,11828,2017-10-21T14:00:00+00:00,Stoke City,Bournemouth,"Lee Probert, England",0,2,1,2,9
+Premier League,11829,2017-10-21T14:00:00+00:00,Swansea,Leicester,"Michael Oliver, England",0,1,1,2,9
+Premier League,11824,2017-10-21T16:30:00+00:00,Southampton,West Brom,"Graham Scott, England",0,0,1,0,9
+Premier League,11823,2017-10-22T12:30:00+00:00,Everton,Arsenal,"Craig Pawson, England",1,1,2,5,9
+Premier League,11822,2017-10-22T15:00:00+00:00,Tottenham,Liverpool,"Andre Marriner, England",3,1,4,1,9
+Premier League,11821,2017-10-28T11:30:00+00:00,Manchester United,Tottenham,"Jonathan Moss, England",0,0,1,0,10
+Premier League,11816,2017-10-28T14:00:00+00:00,Arsenal,Swansea,"Lee Mason, England",0,1,2,1,10
+Premier League,11817,2017-10-28T14:00:00+00:00,Crystal Palace,West Ham,"Robert Madley, England",0,2,2,2,10
+Premier League,11818,2017-10-28T14:00:00+00:00,Liverpool,Huddersfield,"Kevin Friend, England",0,0,3,0,10
+Premier League,11819,2017-10-28T14:00:00+00:00,Watford,Stoke City,"Michael Oliver, England",0,1,0,1,10
+Premier League,11820,2017-10-28T14:00:00+00:00,West Brom,Manchester City,"Mike Jones, England",1,2,2,3,10
+Premier League,11815,2017-10-28T16:30:00+00:00,Bournemouth,Chelsea,"Craig Pawson, England",0,0,0,1,10
+Premier League,11814,2017-10-29T13:30:00+00:00,Brighton,Southampton,"Neil Swarbrick, England",0,1,1,1,10
+Premier League,11813,2017-10-29T16:00:00+00:00,Leicester,Everton,"Andre Marriner, England",2,0,2,0,10
+Premier League,11812,2017-10-30T20:00:00+00:00,Burnley,Newcastle,"Mike Dean, England",0,0,1,0,10
+Premier League,11811,2017-11-04T12:30:00+00:00,Stoke City,Leicester,"Robert Madley, England",1,1,2,2,11
+Premier League,11807,2017-11-04T15:00:00+00:00,Huddersfield,West Brom,"Roger East, England",1,0,1,0,11
+Premier League,11808,2017-11-04T15:00:00+00:00,Newcastle,Bournemouth,"Paul Tierney, England",0,0,0,1,11
+Premier League,11809,2017-11-04T15:00:00+00:00,Southampton,Burnley,"Lee Probert, England",0,0,0,1,11
+Premier League,11810,2017-11-04T15:00:00+00:00,Swansea,Brighton,"Mike Dean, England",0,1,0,1,11
+Premier League,11806,2017-11-04T17:30:00+00:00,West Ham,Liverpool,"Neil Swarbrick, England",0,2,1,4,11
+Premier League,11805,2017-11-05T12:00:00+00:00,Tottenham,Crystal Palace,"Kevin Friend, England",0,0,1,0,11
+Premier League,11804,2017-11-05T14:15:00+00:00,Manchester City,Arsenal,"Michael Oliver, England",1,0,3,1,11
+Premier League,11802,2017-11-05T16:30:00+00:00,Chelsea,Manchester United,"Anthony Taylor, England",0,0,1,0,11
+Premier League,11803,2017-11-05T16:30:00+00:00,Everton,Watford,"Graham Scott, England",0,0,3,2,11
+Premier League,11801,2017-11-18T12:30:00+00:00,Arsenal,Tottenham,"Mike Dean, England",2,0,2,0,12
+Premier League,11795,2017-11-18T15:00:00+00:00,Bournemouth,Huddersfield,"Lee Probert, England",2,0,4,0,12
+Premier League,11796,2017-11-18T15:00:00+00:00,Burnley,Swansea,"Martin Atkinson, England",2,0,2,0,12
+Premier League,11797,2017-11-18T15:00:00+00:00,Crystal Palace,Everton,"Anthony Taylor, England",2,2,2,2,12
+Premier League,11798,2017-11-18T15:00:00+00:00,Leicester,Manchester City,"Graham Scott, England",0,1,0,2,12
+Premier League,11799,2017-11-18T15:00:00+00:00,Liverpool,Southampton,"Mike Jones, England",2,0,3,0,12
+Premier League,11800,2017-11-18T15:00:00+00:00,West Brom,Chelsea,"Jonathan Moss, England",0,3,0,4,12
+Premier League,11794,2017-11-18T17:30:00+00:00,Manchester United,Newcastle,"Craig Pawson, England",2,1,4,1,12
+Premier League,11793,2017-11-19T16:00:00+00:00,Watford,West Ham,"Andre Marriner, England",1,0,2,0,12
+Premier League,11792,2017-11-20T20:00:00+00:00,Brighton,Stoke City,"Lee Mason, England",1,2,2,2,12
+Premier League,11791,2017-11-24T20:00:00+00:00,West Ham,Leicester,"Martin Atkinson, England",1,1,1,1,13
+Premier League,11786,2017-11-25T15:00:00+00:00,Crystal Palace,Stoke City,"Mike Dean, England",0,0,2,1,13
+Premier League,11787,2017-11-25T15:00:00+00:00,Manchester United,Brighton,"Neil Swarbrick, England",0,0,1,0,13
+Premier League,11788,2017-11-25T15:00:00+00:00,Newcastle,Watford,"Chris Kavanagh, England",0,2,0,3,13
+Premier League,11789,2017-11-25T15:00:00+00:00,Swansea,Bournemouth,"Stuart Attwell, England",0,0,0,0,13
+Premier League,11790,2017-11-25T15:00:00+00:00,Tottenham,West Brom,"Mike Jones, England",0,1,1,1,13
+Premier League,11785,2017-11-25T17:30:00+00:00,Liverpool,Chelsea,"Michael Oliver, England",0,0,1,1,13
+Premier League,11784,2017-11-26T13:30:00+00:00,Southampton,Everton,"Kevin Friend, England",1,1,4,1,13
+Premier League,11783,2017-11-26T14:00:00+00:00,Burnley,Arsenal,"Lee Mason, England",0,0,0,1,13
+Premier League,11782,2017-11-26T16:00:00+00:00,Huddersfield,Manchester City,"Craig Pawson, England",1,0,1,2,13
+Premier League,11780,2017-11-28T19:45:00+00:00,Brighton,Crystal Palace,"Andre Marriner, England",0,0,0,0,14
+Premier League,11781,2017-11-28T19:45:00+00:00,Leicester,Tottenham,"Anthony Taylor, England",2,0,2,1,14
+Premier League,11778,2017-11-28T20:00:00+00:00,Watford,Manchester United,"Jonathan Moss, England",0,3,2,4,14
+Premier League,11779,2017-11-28T20:00:00+00:00,West Brom,Newcastle,"Lee Probert, England",1,0,2,2,14
+Premier League,11776,2017-11-29T19:45:00+00:00,Bournemouth,Burnley,"Roger East, England",0,1,1,2,14
+Premier League,11777,2017-11-29T19:45:00+00:00,Chelsea,Swansea,"Neil Swarbrick, England",0,0,1,0,14
+Premier League,11775,2017-11-29T19:45:00+00:00,Arsenal,Huddersfield,"Graham Scott, England",1,0,5,0,14
+Premier League,11772,2017-11-29T20:00:00+00:00,Everton,West Ham,"Michael Oliver, England",2,0,4,0,14
+Premier League,11773,2017-11-29T20:00:00+00:00,Manchester City,Southampton,"Paul Tierney, England",0,0,2,1,14
+Premier League,11774,2017-11-29T20:00:00+00:00,Stoke City,Liverpool,"Martin Atkinson, England",0,1,0,3,14
+Premier League,11771,2017-12-02T12:30:00+00:00,Chelsea,Newcastle,"Kevin Friend, England",2,1,3,1,15
+Premier League,11765,2017-12-02T15:00:00+00:00,Brighton,Liverpool,"Graham Scott, England",0,2,1,5,15
+Premier League,11766,2017-12-02T15:00:00+00:00,Everton,Huddersfield,"Chris Kavanagh, England",0,0,2,0,15
+Premier League,11767,2017-12-02T15:00:00+00:00,Leicester,Burnley,"Paul Tierney, England",1,0,1,0,15
+Premier League,11768,2017-12-02T15:00:00+00:00,Stoke City,Swansea,"Craig Pawson, England",2,1,2,1,15
+Premier League,11769,2017-12-02T15:00:00+00:00,Watford,Tottenham,"Martin Atkinson, England",1,1,1,1,15
+Premier League,11770,2017-12-02T15:00:00+00:00,West Brom,Crystal Palace,"Michael Oliver, England",0,0,0,0,15
+Premier League,11764,2017-12-02T17:30:00+00:00,Arsenal,Manchester United,"Andre Marriner, England",0,2,1,3,15
+Premier League,11763,2017-12-03T13:30:00+00:00,Bournemouth,Southampton,"Jonathan Moss, England",1,0,1,1,15
+Premier League,11762,2017-12-03T16:00:00+00:00,Manchester City,West Ham,"Mike Dean, England",0,1,2,1,15
+Premier League,11761,2017-12-09T12:30:00+00:00,West Ham,Chelsea,"Anthony Taylor, England",1,0,1,0,16
+Premier League,11756,2017-12-09T15:00:00+00:00,Burnley,Watford,"Lee Probert, England",1,0,1,0,16
+Premier League,11757,2017-12-09T15:00:00+00:00,Crystal Palace,Bournemouth,"Kevin Friend, England",2,2,2,2,16
+Premier League,11758,2017-12-09T15:00:00+00:00,Huddersfield,Brighton,"Stuart Attwell, England",2,0,2,0,16
+Premier League,11759,2017-12-09T15:00:00+00:00,Swansea,West Brom,"Mike Dean, England",0,0,1,0,16
+Premier League,11760,2017-12-09T15:00:00+00:00,Tottenham,Stoke City,"Roger East, England",1,0,5,1,16
+Premier League,11755,2017-12-09T17:30:00+00:00,Newcastle,Leicester,"Neil Swarbrick, England",1,1,2,3,16
+Premier League,11754,2017-12-10T12:00:00+00:00,Southampton,Arsenal,"Robert Madley, England",1,0,1,1,16
+Premier League,11753,2017-12-10T14:15:00+00:00,Liverpool,Everton,"Craig Pawson, England",1,0,1,1,16
+Premier League,11752,2017-12-10T16:30:00+00:00,Manchester United,Manchester City,"Michael Oliver, England",1,1,1,2,16
+Premier League,11751,2017-12-12T19:45:00+00:00,Burnley,Stoke City,"Mike Jones, England",0,0,1,0,17
+Premier League,11749,2017-12-12T20:00:00+00:00,Crystal Palace,Watford,"Lee Mason, England",0,1,2,1,17
+Premier League,11750,2017-12-12T20:00:00+00:00,Huddersfield,Chelsea,"Andre Marriner, England",0,2,1,3,17
+Premier League,11746,2017-12-13T19:45:00+00:00,Newcastle,Everton,"Martin Atkinson, England",0,1,0,1,17
+Premier League,11747,2017-12-13T19:45:00+00:00,Southampton,Leicester,"Chris Kavanagh, England",0,3,1,4,17
+Premier League,11748,2017-12-13T19:45:00+00:00,Swansea,Manchester City,"Anthony Taylor, England",0,2,0,4,17
+Premier League,11742,2017-12-13T20:00:00+00:00,Liverpool,West Brom,"Paul Tierney, England",0,0,0,0,17
+Premier League,11743,2017-12-13T20:00:00+00:00,Manchester United,Bournemouth,"Graham Scott, England",1,0,1,0,17
+Premier League,11744,2017-12-13T20:00:00+00:00,Tottenham,Brighton,"Robert Madley, England",1,0,2,0,17
+Premier League,11745,2017-12-13T20:00:00+00:00,West Ham,Arsenal,"Jonathan Moss, England",0,0,0,0,17
+Premier League,11741,2017-12-16T12:30:00+00:00,Leicester,Crystal Palace,"Martin Atkinson, England",0,2,0,3,18
+Premier League,11737,2017-12-16T15:00:00+00:00,Arsenal,Newcastle,"Stuart Attwell, England",1,0,1,0,18
+Premier League,11738,2017-12-16T15:00:00+00:00,Brighton,Burnley,"Chris Kavanagh, England",0,0,0,0,18
+Premier League,11739,2017-12-16T15:00:00+00:00,Chelsea,Southampton,"Roger East, England",1,0,1,0,18
+Premier League,11740,2017-12-16T15:00:00+00:00,Watford,Huddersfield,"Michael Oliver, England",0,2,1,4,18
+Premier League,11736,2017-12-16T16:00:00+00:00,Stoke City,West Ham,"Graham Scott, England",0,1,0,3,18
+Premier League,11735,2017-12-16T17:30:00+00:00,Manchester City,Tottenham,"Craig Pawson, England",1,0,4,1,18
+Premier League,11734,2017-12-17T14:15:00+00:00,West Brom,Manchester United,"Anthony Taylor, England",0,2,1,2,18
+Premier League,11733,2017-12-17T16:30:00+00:00,Bournemouth,Liverpool,"Andre Marriner, England",0,3,0,4,18
+Premier League,11732,2017-12-18T20:00:00+00:00,Everton,Swansea,"Jonathan Moss, England",1,1,3,1,18
+Premier League,11731,2017-12-22T19:45:00+00:00,Arsenal,Liverpool,"Martin Atkinson, England",0,1,3,3,19
+Premier League,11730,2017-12-23T12:30:00+00:00,Everton,Chelsea,"Robert Madley, England",0,0,0,0,19
+Premier League,11724,2017-12-23T15:00:00+00:00,Brighton,Watford,"Paul Tierney, England",0,0,1,0,19
+Premier League,11725,2017-12-23T15:00:00+00:00,Manchester City,Bournemouth,"Mike Jones, England",1,0,4,0,19
+Premier League,11726,2017-12-23T15:00:00+00:00,Southampton,Huddersfield,"Lee Probert, England",1,0,1,1,19
+Premier League,11727,2017-12-23T15:00:00+00:00,Stoke City,West Brom,"Neil Swarbrick, England",2,0,3,1,19
+Premier League,11728,2017-12-23T15:00:00+00:00,Swansea,Crystal Palace,"Craig Pawson, England",0,0,1,1,19
+Premier League,11729,2017-12-23T15:00:00+00:00,West Ham,Newcastle,"Lee Mason, England",1,1,2,3,19
+Premier League,11723,2017-12-23T17:30:00+00:00,Burnley,Tottenham,"Michael Oliver, England",0,1,0,3,19
+Premier League,11722,2017-12-23T19:45:00+00:00,Leicester,Manchester United,"Jonathan Moss, England",1,1,2,2,19
+Premier League,11721,2017-12-26T12:30:00+00:00,Tottenham,Southampton,"Graham Scott, England",2,0,5,2,20
+Premier League,11715,2017-12-26T15:00:00+00:00,Bournemouth,West Ham,"Robert Madley, England",1,1,3,3,20
+Premier League,11716,2017-12-26T15:00:00+00:00,Chelsea,Brighton,"Mike Dean, England",0,0,2,0,20
+Premier League,11717,2017-12-26T15:00:00+00:00,Huddersfield,Stoke City,"Anthony Taylor, England",1,0,1,1,20
+Premier League,11718,2017-12-26T15:00:00+00:00,Manchester United,Burnley,"Martin Atkinson, England",0,2,2,2,20
+Premier League,11719,2017-12-26T15:00:00+00:00,Watford,Leicester,"Chris Kavanagh, England",1,1,2,1,20
+Premier League,11720,2017-12-26T15:00:00+00:00,West Brom,Everton,"Roger East, England",0,0,0,0,20
+Premier League,11714,2017-12-26T17:30:00+00:00,Liverpool,Swansea,"Kevin Friend, England",1,0,5,0,20
+Premier League,11713,2017-12-27T19:45:00+00:00,Newcastle,Manchester City,"Andre Marriner, England",0,1,0,1,20
+Premier League,11712,2017-12-28T20:00:00+00:00,Crystal Palace,Arsenal,"Michael Oliver, England",0,1,2,3,20
+Premier League,11706,2017-12-30T15:00:00+00:00,Bournemouth,Everton,"Lee Probert, England",1,0,2,1,21
+Premier League,11707,2017-12-30T15:00:00+00:00,Chelsea,Stoke City,"Kevin Friend, England",3,0,5,0,21
+Premier League,11708,2017-12-30T15:00:00+00:00,Huddersfield,Burnley,"Paul Tierney, England",0,0,0,0,21
+Premier League,11709,2017-12-30T15:00:00+00:00,Liverpool,Leicester,"Neil Swarbrick, England",0,1,2,1,21
+Premier League,11710,2017-12-30T15:00:00+00:00,Newcastle,Brighton,"Anthony Taylor, England",0,0,0,0,21
+Premier League,11711,2017-12-30T15:00:00+00:00,Watford,Swansea,"Martin Atkinson, England",1,0,1,2,21
+Premier League,11705,2017-12-30T17:30:00+00:00,Manchester United,Southampton,"Craig Pawson, England",0,0,0,0,21
+Premier League,11704,2017-12-31T12:00:00+00:00,Crystal Palace,Manchester City,"Jonathan Moss, England",0,0,0,0,21
+Premier League,11703,2017-12-31T16:30:00+00:00,West Brom,Arsenal,"Mike Dean, England",0,0,1,1,21
+Premier League,11692,2018-01-04T20:00:00+00:00,Tottenham,West Ham,"Mike Dean, England",0,0,1,1,21
+Premier League,11702,2018-01-01T12:30:00+00:00,Brighton,Bournemouth,"Michael Oliver, England",1,1,2,2,22
+Premier League,11699,2018-01-01T15:00:00+00:00,Burnley,Liverpool,"Roger East, England",0,0,1,2,22
+Premier League,11700,2018-01-01T15:00:00+00:00,Leicester,Huddersfield,"Graham Scott, England",0,0,3,0,22
+Premier League,11701,2018-01-01T15:00:00+00:00,Stoke City,Newcastle,"Chris Kavanagh, England",0,0,0,1,22
+Premier League,11698,2018-01-01T17:30:00+00:00,Everton,Manchester United,"Andre Marriner, England",0,0,0,2,22
+Premier League,11695,2018-01-02T19:45:00+00:00,Southampton,Crystal Palace,"Stuart Attwell, England",1,0,1,2,22
+Premier League,11696,2018-01-02T19:45:00+00:00,Swansea,Tottenham,"Robert Madley, England",0,1,0,2,22
+Premier League,11697,2018-01-02T19:45:00+00:00,West Ham,West Brom,"Mike Jones, England",0,1,2,1,22
+Premier League,11694,2018-01-02T20:00:00+00:00,Manchester City,Watford,"Lee Mason, England",2,0,3,1,22
+Premier League,11693,2018-01-03T19:45:00+00:00,Arsenal,Chelsea,"Anthony Taylor, England",0,0,2,2,22
+Premier League,11686,2018-01-13T15:00:00+00:00,Chelsea,Leicester,"Mike Jones, England",0,0,0,0,23
+Premier League,11687,2018-01-13T15:00:00+00:00,Crystal Palace,Burnley,"Michael Oliver, England",1,0,1,0,23
+Premier League,11688,2018-01-13T15:00:00+00:00,Huddersfield,West Ham,"Jonathan Moss, England",1,1,1,4,23
+Premier League,11689,2018-01-13T15:00:00+00:00,Newcastle,Swansea,"Graham Scott, England",0,0,1,1,23
+Premier League,11690,2018-01-13T15:00:00+00:00,Watford,Southampton,"Roger East, England",0,2,2,2,23
+Premier League,11691,2018-01-13T15:00:00+00:00,West Brom,Brighton,"Martin Atkinson, England",1,0,2,0,23
+Premier League,11685,2018-01-13T17:30:00+00:00,Tottenham,Everton,"Craig Pawson, England",1,0,4,0,23
+Premier League,11684,2018-01-14T13:30:00+00:00,Bournemouth,Arsenal,"Kevin Friend, England",0,0,2,1,23
+Premier League,11683,2018-01-14T16:00:00+00:00,Liverpool,Manchester City,"Andre Marriner, England",1,1,4,3,23
+Premier League,11682,2018-01-15T20:00:00+00:00,Manchester United,Stoke City,"Anthony Taylor, England",2,0,3,0,23
+Premier League,11681,2018-01-20T12:30:00+00:00,Brighton,Chelsea,"Jonathan Moss, England",0,2,0,4,24
+Premier League,11675,2018-01-20T15:00:00+00:00,Arsenal,Crystal Palace,"Chris Kavanagh, England",4,0,4,1,24
+Premier League,11676,2018-01-20T15:00:00+00:00,Burnley,Manchester United,"Mike Dean, England",0,0,0,1,24
+Premier League,11677,2018-01-20T15:00:00+00:00,Everton,West Brom,"Stuart Attwell, England",0,1,1,1,24
+Premier League,11678,2018-01-20T15:00:00+00:00,Leicester,Watford,"Lee Probert, England",1,0,2,0,24
+Premier League,11679,2018-01-20T15:00:00+00:00,Stoke City,Huddersfield,"Michael Oliver, England",0,0,2,0,24
+Premier League,11680,2018-01-20T15:00:00+00:00,West Ham,Bournemouth,"Martin Atkinson, England",0,0,1,1,24
+Premier League,11674,2018-01-20T17:30:00+00:00,Manchester City,Newcastle,"Paul Tierney, England",1,0,3,1,24
+Premier League,11673,2018-01-21T16:00:00+00:00,Southampton,Tottenham,"Kevin Friend, England",1,1,1,1,24
+Premier League,11672,2018-01-22T20:00:00+00:00,Swansea,Liverpool,"Neil Swarbrick, England",1,0,1,0,24
+Premier League,11670,2018-01-30T19:45:00+00:00,Swansea,Arsenal,"Lee Mason, England",1,1,3,1,25
+Premier League,11671,2018-01-30T19:45:00+00:00,West Ham,Crystal Palace,"Neil Swarbrick, England",1,1,1,1,25
+Premier League,11669,2018-01-30T20:00:00+00:00,Huddersfield,Liverpool,"Kevin Friend, England",0,2,0,3,25
+Premier League,11665,2018-01-31T19:45:00+00:00,Chelsea,Bournemouth,"Lee Probert, England",0,0,0,3,25
+Premier League,11666,2018-01-31T19:45:00+00:00,Everton,Leicester,"Chris Kavanagh, England",2,0,2,1,25
+Premier League,11667,2018-01-31T19:45:00+00:00,Newcastle,Burnley,"Simon Hooper, England",0,0,1,1,25
+Premier League,11668,2018-01-31T19:45:00+00:00,Southampton,Brighton,"Mike Dean, England",0,1,1,1,25
+Premier League,11662,2018-01-31T20:00:00+00:00,Manchester City,West Brom,"Robert Madley, England",1,0,3,0,25
+Premier League,11663,2018-01-31T20:00:00+00:00,Stoke City,Watford,"Jonathan Moss, England",0,0,0,0,25
+Premier League,11664,2018-01-31T20:00:00+00:00,Tottenham,Manchester United,"Andre Marriner, England",2,0,2,0,25
+Premier League,11661,2018-02-03T12:30:00+00:00,Burnley,Manchester City,"Martin Atkinson, England",0,1,1,1,26
+Premier League,11656,2018-02-03T15:00:00+00:00,Bournemouth,Stoke City,"Paul Tierney, England",0,1,2,1,26
+Premier League,11657,2018-02-03T15:00:00+00:00,Brighton,West Ham,"Roger East, England",1,1,3,1,26
+Premier League,11658,2018-02-03T15:00:00+00:00,Leicester,Swansea,"Anthony Taylor, England",1,0,1,1,26
+Premier League,11659,2018-02-03T15:00:00+00:00,Manchester United,Huddersfield,"Stuart Attwell, England",0,0,2,0,26
+Premier League,11660,2018-02-03T15:00:00+00:00,West Brom,Southampton,"Michael Oliver, England",1,2,2,3,26
+Premier League,11655,2018-02-03T17:30:00+00:00,Arsenal,Everton,"Neil Swarbrick, England",4,0,5,1,26
+Premier League,11654,2018-02-04T14:15:00+00:00,Crystal Palace,Newcastle,"Andre Marriner, England",0,1,1,1,26
+Premier League,11653,2018-02-04T16:30:00+00:00,Liverpool,Tottenham,"Jonathan Moss, England",1,0,2,2,26
+Premier League,11652,2018-02-05T20:00:00+00:00,Watford,Chelsea,"Mike Dean, England",1,0,4,1,26
+Premier League,11651,2018-02-10T12:30:00+00:00,Tottenham,Arsenal,"Anthony Taylor, England",0,0,1,0,27
+Premier League,11647,2018-02-10T15:00:00+00:00,Everton,Crystal Palace,"Jonathan Moss, England",0,0,3,1,27
+Premier League,11648,2018-02-10T15:00:00+00:00,Stoke City,Brighton,"Robert Madley, England",0,1,1,1,27
+Premier League,11649,2018-02-10T15:00:00+00:00,Swansea,Burnley,"Andre Marriner, England",0,0,1,0,27
+Premier League,11650,2018-02-10T15:00:00+00:00,West Ham,Watford,"Graham Scott, England",1,0,2,0,27
+Premier League,11646,2018-02-10T17:30:00+00:00,Manchester City,Leicester,"Mike Jones, England",1,1,5,1,27
+Premier League,11645,2018-02-11T12:00:00+00:00,Huddersfield,Bournemouth,"Michael Oliver, England",2,1,4,1,27
+Premier League,11644,2018-02-11T14:15:00+00:00,Newcastle,Manchester United,"Craig Pawson, England",0,0,1,0,27
+Premier League,11643,2018-02-11T16:30:00+00:00,Southampton,Liverpool,"Martin Atkinson, England",0,2,0,2,27
+Premier League,11642,2018-02-12T20:00:00+00:00,Chelsea,West Brom,"Lee Mason, England",1,0,3,0,27
+Premier League,11641,2018-02-24T12:30:00+00:00,Leicester,Stoke City,"Michael Oliver, England",0,1,1,1,28
+Premier League,11636,2018-02-24T15:00:00+00:00,Bournemouth,Newcastle,"Roger East, England",0,2,2,2,28
+Premier League,11637,2018-02-24T15:00:00+00:00,Brighton,Swansea,"Mike Dean, England",1,0,4,1,28
+Premier League,11638,2018-02-24T15:00:00+00:00,Burnley,Southampton,"Robert Madley, England",0,0,1,1,28
+Premier League,11639,2018-02-24T15:00:00+00:00,Liverpool,West Ham,"Stuart Attwell, England",1,0,4,1,28
+Premier League,11640,2018-02-24T15:00:00+00:00,West Brom,Huddersfield,"Jonathan Moss, England",0,0,1,2,28
+Premier League,11635,2018-02-24T17:30:00+00:00,Watford,Everton,"Anthony Taylor, England",0,0,1,0,28
+Premier League,11634,2018-02-25T12:00:00+00:00,Crystal Palace,Tottenham,"Kevin Friend, England",0,0,0,1,28
+Premier League,11633,2018-02-25T14:05:00+00:00,Manchester United,Chelsea,"Martin Atkinson, England",1,1,2,1,28
+Premier League,11632,2018-03-01T19:45:00+00:00,Arsenal,Manchester City,"Andre Marriner, England",0,3,0,3,28
+Premier League,11631,2018-03-03T12:30:00+00:00,Burnley,Everton,"Chris Kavanagh, England",0,1,2,1,29
+Premier League,11626,2018-03-03T15:00:00+00:00,Leicester,Bournemouth,"Lee Probert, England",0,1,1,1,29
+Premier League,11627,2018-03-03T15:00:00+00:00,Southampton,Stoke City,"Anthony Taylor, England",0,0,0,0,29
+Premier League,11628,2018-03-03T15:00:00+00:00,Swansea,West Ham,"Martin Atkinson, England",2,0,4,1,29
+Premier League,11629,2018-03-03T15:00:00+00:00,Tottenham,Huddersfield,"Kevin Friend, England",1,0,2,0,29
+Premier League,11630,2018-03-03T15:00:00+00:00,Watford,West Brom,"Paul Tierney, England",0,0,1,0,29
+Premier League,11625,2018-03-03T17:30:00+00:00,Liverpool,Newcastle,"Graham Scott, England",1,0,2,0,29
+Premier League,11624,2018-03-04T13:30:00+00:00,Brighton,Arsenal,"Stuart Attwell, England",2,1,2,1,29
+Premier League,11623,2018-03-04T16:00:00+00:00,Manchester City,Chelsea,"Michael Oliver, England",0,0,1,0,29
+Premier League,11622,2018-03-05T20:00:00+00:00,Crystal Palace,Manchester United,"Neil Swarbrick, England",1,0,2,3,29
+Premier League,11621,2018-03-10T12:30:00+00:00,Manchester United,Liverpool,"Craig Pawson, England",2,0,2,1,30
+Premier League,11616,2018-03-10T15:00:00+00:00,Everton,Brighton,"Roger East, England",0,0,2,0,30
+Premier League,11617,2018-03-10T15:00:00+00:00,Huddersfield,Swansea,"Michael Oliver, England",0,0,0,0,30
+Premier League,11618,2018-03-10T15:00:00+00:00,Newcastle,Southampton,"Andre Marriner, England",2,0,3,0,30
+Premier League,11619,2018-03-10T15:00:00+00:00,West Brom,Leicester,"Robert Madley, England",1,1,1,4,30
+Premier League,11620,2018-03-10T15:00:00+00:00,West Ham,Burnley,"Lee Mason, England",0,0,0,3,30
+Premier League,11615,2018-03-10T17:30:00+00:00,Chelsea,Crystal Palace,"Anthony Taylor, England",2,0,2,1,30
+Premier League,11614,2018-03-11T13:30:00+00:00,Arsenal,Watford,"Martin Atkinson, England",1,0,3,0,30
+Premier League,11613,2018-03-11T16:00:00+00:00,Bournemouth,Tottenham,"Mike Dean, England",1,1,1,4,30
+Premier League,11612,2018-03-12T20:00:00+00:00,Stoke City,Manchester City,"Jonathan Moss, England",0,1,0,2,30
+Premier League,11609,2018-03-17T15:00:00+00:00,Bournemouth,West Brom,"Graham Scott, England",0,0,2,1,31
+Premier League,11610,2018-03-17T15:00:00+00:00,Huddersfield,Crystal Palace,"Mike Dean, England",0,1,0,2,31
+Premier League,11611,2018-03-17T15:00:00+00:00,Stoke City,Everton,"Martin Atkinson, England",0,0,1,2,31
+Premier League,11608,2018-03-17T17:30:00+00:00,Liverpool,Watford,"Anthony Taylor, England",2,0,5,0,31
+Premier League,11574,2018-04-19T18:45:00+00:00,Burnley,Chelsea,"Robert Madley, England",0,1,1,2,31
+Premier League,11547,2018-05-08T18:45:00+00:00,Swansea,Southampton,"Michael Oliver, England",0,0,0,1,31
+Premier League,11545,2018-05-09T18:45:00+00:00,Leicester,Arsenal,"Graham Scott, England",1,0,3,1,31
+Premier League,11543,2018-05-09T19:00:00+00:00,Manchester City,Brighton,"Paul Tierney, England",2,1,3,1,31
+Premier League,11544,2018-05-09T19:00:00+00:00,Tottenham,Newcastle,"Neil Swarbrick, England",0,0,1,0,31
+Premier League,11542,2018-05-10T18:45:00+00:00,West Ham,Manchester United,"Jonathan Moss, England",0,0,0,0,31
+Premier League,11607,2018-03-31T11:30:00+00:00,Crystal Palace,Liverpool,"Neil Swarbrick, England",1,0,1,2,32
+Premier League,11601,2018-03-31T14:00:00+00:00,Brighton,Leicester,"Chris Kavanagh, England",0,0,0,2,32
+Premier League,11602,2018-03-31T14:00:00+00:00,Manchester United,Swansea,"Robert Madley, England",2,0,2,0,32
+Premier League,11603,2018-03-31T14:00:00+00:00,Newcastle,Huddersfield,"Martin Atkinson, England",0,0,1,0,32
+Premier League,11604,2018-03-31T14:00:00+00:00,Watford,Bournemouth,"Andy Madley, England",1,1,2,2,32
+Premier League,11605,2018-03-31T14:00:00+00:00,West Brom,Burnley,"Lee Probert, England",0,1,1,2,32
+Premier League,11606,2018-03-31T14:00:00+00:00,West Ham,Southampton,"Jonathan Moss, England",3,0,3,0,32
+Premier League,11600,2018-03-31T16:30:00+00:00,Everton,Manchester City,"Paul Tierney, England",0,3,1,3,32
+Premier League,11599,2018-04-01T12:30:00+00:00,Arsenal,Stoke City,"Craig Pawson, England",0,0,3,0,32
+Premier League,11598,2018-04-01T15:00:00+00:00,Chelsea,Tottenham,"Andre Marriner, England",1,1,1,3,32
+Premier League,11597,2018-04-07T11:30:00+00:00,Everton,Liverpool,"Michael Oliver, England",0,0,0,0,33
+Premier League,11591,2018-04-07T14:00:00+00:00,Bournemouth,Crystal Palace,"Jonathan Moss, England",0,0,2,2,33
+Premier League,11592,2018-04-07T14:00:00+00:00,Brighton,Huddersfield,"Anthony Taylor, England",1,1,1,1,33
+Premier League,11593,2018-04-07T14:00:00+00:00,Leicester,Newcastle,"Stuart Attwell, England",0,1,1,2,33
+Premier League,11594,2018-04-07T14:00:00+00:00,Stoke City,Tottenham,"Graham Scott, England",0,0,1,2,33
+Premier League,11595,2018-04-07T14:00:00+00:00,Watford,Burnley,"Paul Tierney, England",0,0,1,2,33
+Premier League,11596,2018-04-07T14:00:00+00:00,West Brom,Swansea,"Roger East, England",0,0,1,1,33
+Premier League,11590,2018-04-07T16:30:00+00:00,Manchester City,Manchester United,"Martin Atkinson, England",2,0,2,3,33
+Premier League,11589,2018-04-08T13:15:00+00:00,Arsenal,Southampton,"Andre Marriner, England",2,1,3,2,33
+Premier League,11588,2018-04-08T15:30:00+00:00,Chelsea,West Ham,"Kevin Friend, England",1,0,1,1,33
+Premier League,11587,2018-04-14T11:30:00+00:00,Southampton,Chelsea,"Mike Dean, England",1,0,2,3,34
+Premier League,11583,2018-04-14T14:00:00+00:00,Burnley,Leicester,"Martin Atkinson, England",2,0,2,1,34
+Premier League,11584,2018-04-14T14:00:00+00:00,Crystal Palace,Brighton,"Andre Marriner, England",3,2,3,2,34
+Premier League,11585,2018-04-14T14:00:00+00:00,Huddersfield,Watford,"Craig Pawson, England",0,0,1,0,34
+Premier League,11586,2018-04-14T14:00:00+00:00,Swansea,Everton,"Lee Mason, England",0,1,1,1,34
+Premier League,11582,2018-04-14T16:30:00+00:00,Liverpool,Bournemouth,"Chris Kavanagh, England",1,0,3,0,34
+Premier League,11581,2018-04-14T18:45:00+00:00,Tottenham,Manchester City,"Jonathan Moss, England",1,2,1,3,34
+Premier League,11580,2018-04-15T12:30:00+00:00,Newcastle,Arsenal,"Anthony Taylor, England",1,1,2,1,34
+Premier League,11579,2018-04-15T15:00:00+00:00,Manchester United,West Brom,"Paul Tierney, England",0,0,0,1,34
+Premier League,11578,2018-04-16T19:00:00+00:00,West Ham,Stoke City,"Michael Oliver, England",0,0,1,1,34
+Premier League,11577,2018-04-17T18:45:00+00:00,Brighton,Tottenham,"Kevin Friend, England",0,0,1,1,35
+Premier League,11576,2018-04-18T18:45:00+00:00,Bournemouth,Manchester United,"Graham Scott, England",0,1,0,2,35
+Premier League,11575,2018-04-19T18:45:00+00:00,Leicester,Southampton,"Roger East, England",0,0,0,0,35
+Premier League,11573,2018-04-21T11:30:00+00:00,West Brom,Liverpool,"Stuart Attwell, England",0,1,2,2,35
+Premier League,11572,2018-04-21T14:00:00+00:00,Watford,Crystal Palace,"Chris Kavanagh, England",0,0,0,0,35
+Premier League,11570,2018-04-22T12:30:00+00:00,Arsenal,West Ham,"Lee Mason, England",0,0,4,1,35
+Premier League,11571,2018-04-22T12:30:00+00:00,Stoke City,Burnley,"Mike Dean, England",1,0,1,1,35
+Premier League,11569,2018-04-22T15:30:00+00:00,Manchester City,Swansea,"Craig Pawson, England",2,0,5,0,35
+Premier League,11568,2018-04-23T19:00:00+00:00,Everton,Newcastle,"Robert Madley, England",0,0,1,0,35
+Premier League,11546,2018-05-09T18:45:00+00:00,Chelsea,Huddersfield,"Lee Mason, England",0,0,1,1,35
+Premier League,11567,2018-04-28T11:30:00+00:00,Liverpool,Stoke City,"Andre Marriner, England",0,0,0,0,36
+Premier League,11562,2018-04-28T14:00:00+00:00,Burnley,Brighton,"Roger East, England",0,0,0,0,36
+Premier League,11563,2018-04-28T14:00:00+00:00,Crystal Palace,Leicester,"Mike Dean, England",2,0,5,0,36
+Premier League,11564,2018-04-28T14:00:00+00:00,Huddersfield,Everton,"Lee Probert, England",0,1,0,2,36
+Premier League,11565,2018-04-28T14:00:00+00:00,Newcastle,West Brom,"David Coote, England",0,1,0,1,36
+Premier League,11566,2018-04-28T14:00:00+00:00,Southampton,Bournemouth,"Anthony Taylor, England",1,1,2,1,36
+Premier League,11561,2018-04-28T16:30:00+00:00,Swansea,Chelsea,"Jonathan Moss, England",0,1,0,1,36
+Premier League,11560,2018-04-29T13:15:00+00:00,West Ham,Manchester City,"Neil Swarbrick, England",1,2,1,4,36
+Premier League,11559,2018-04-29T15:30:00+00:00,Manchester United,Arsenal,"Kevin Friend, England",1,0,2,1,36
+Premier League,11558,2018-04-30T19:00:00+00:00,Tottenham,Watford,"Michael Oliver, England",1,0,2,0,36
+Premier League,11557,2018-05-04T19:00:00+00:00,Brighton,Manchester United,"Craig Pawson, England",0,0,1,0,37
+Premier League,11556,2018-05-05T11:30:00+00:00,Stoke City,Crystal Palace,"Martin Atkinson, England",1,0,1,2,37
+Premier League,11552,2018-05-05T14:00:00+00:00,Bournemouth,Swansea,"Kevin Friend, England",1,0,1,0,37
+Premier League,11553,2018-05-05T14:00:00+00:00,Leicester,West Ham,"Chris Kavanagh, England",0,1,0,2,37
+Premier League,11554,2018-05-05T14:00:00+00:00,Watford,Newcastle,"Roger East, England",2,0,2,1,37
+Premier League,11555,2018-05-05T14:00:00+00:00,West Brom,Tottenham,"Mike Jones, England",0,0,1,0,37
+Premier League,11551,2018-05-05T16:30:00+00:00,Everton,Southampton,"Jonathan Moss, England",0,0,1,1,37
+Premier League,11550,2018-05-06T12:30:00+00:00,Manchester City,Huddersfield,"Mike Dean, England",0,0,0,0,37
+Premier League,11548,2018-05-06T15:30:00+00:00,Arsenal,Burnley,"Andre Marriner, England",2,0,5,0,37
+Premier League,11549,2018-05-06T15:30:00+00:00,Chelsea,Liverpool,"Anthony Taylor, England",1,0,1,0,37
+Premier League,11532,2018-05-13T14:00:00+00:00,Burnley,Bournemouth,"Paul Tierney, England",1,0,1,2,38
+Premier League,11533,2018-05-13T14:00:00+00:00,Crystal Palace,West Brom,"Jonathan Moss, England",0,0,2,0,38
+Premier League,11534,2018-05-13T14:00:00+00:00,Huddersfield,Arsenal,"Michael Oliver, England",0,1,0,1,38
+Premier League,11535,2018-05-13T14:00:00+00:00,Liverpool,Brighton,"Kevin Friend, England",2,0,4,0,38
+Premier League,11536,2018-05-13T14:00:00+00:00,Manchester United,Watford,"Lee Mason, England",1,0,1,0,38
+Premier League,11537,2018-05-13T14:00:00+00:00,Newcastle,Chelsea,"Martin Atkinson, England",1,0,3,0,38
+Premier League,11538,2018-05-13T14:00:00+00:00,Southampton,Manchester City,"Andre Marriner, England",0,0,0,1,38
+Premier League,11539,2018-05-13T14:00:00+00:00,Swansea,Stoke City,"Anthony Taylor, England",1,2,1,2,38
+Premier League,11540,2018-05-13T14:00:00+00:00,Tottenham,Leicester,"Craig Pawson, England",1,2,5,4,38
+Premier League,11541,2018-05-13T14:00:00+00:00,West Ham,Everton,"Graham Scott, England",1,0,3,1,38
+FA Cup,210075,2017-11-03T19:45:00+00:00,Port Vale,Oxford United,,1,0,2,0,1st Round
+FA Cup,210076,2017-11-03T19:45:00+00:00,Notts County,Bristol Rovers,,2,2,4,2,1st Round
+FA Cup,210077,2017-11-03T19:55:00+00:00,Hyde United,Milton Keynes Dons,,0,2,0,4,1st Round
+FA Cup,210078,2017-11-04T12:30:00+00:00,SL Aquaforce,Mansfield Town,,1,1,1,3,1st Round
+FA Cup,210079,2017-11-04T15:00:00+00:00,Bradford,Chesterfield,,2,0,2,0,1st Round
+FA Cup,210080,2017-11-04T15:00:00+00:00,Morecambe,Hartlepool,,1,0,3,0,1st Round
+FA Cup,210081,2017-11-04T15:00:00+00:00,Yeovil Town,Southend,,1,0,1,0,1st Round
+FA Cup,210082,2017-11-04T15:00:00+00:00,Peterborough,Tranmere,,0,0,1,1,1st Round
+FA Cup,210083,2017-11-04T15:00:00+00:00,Forest Green,Macclesfield,,1,0,1,0,1st Round
+FA Cup,210084,2017-11-04T15:00:00+00:00,AFC Fylde,Kidderminster Harriers,,1,0,4,2,1st Round
+FA Cup,210085,2017-11-04T15:00:00+00:00,Luton,Portsmouth,,1,0,1,0,1st Round
+FA Cup,210086,2017-11-04T15:00:00+00:00,Shrewsbury,Aldershot Town,,2,0,5,0,1st Round
+FA Cup,210087,2017-11-04T15:00:00+00:00,Hereford,AFC Telford United,,0,0,1,0,1st Round
+FA Cup,210088,2017-11-04T15:00:00+00:00,Blackburn,Barnet,,0,1,3,1,1st Round
+FA Cup,210089,2017-11-04T15:00:00+00:00,Ebbsfleet United,Doncaster,,2,2,2,6,1st Round
+FA Cup,210090,2017-11-04T15:00:00+00:00,Boreham Wood,Blackpool,,0,0,2,1,1st Round
+FA Cup,210091,2017-11-04T15:00:00+00:00,Colchester,Oxford City,,0,0,0,1,1st Round
+FA Cup,210092,2017-11-04T15:00:00+00:00,Plymouth,Grimsby,,1,0,1,0,1st Round
+FA Cup,210093,2017-11-04T15:00:00+00:00,AFC Wimbledon,Lincoln,,1,0,1,0,1st Round
+FA Cup,210094,2017-11-04T15:00:00+00:00,Rochdale,Bromley,,2,0,4,0,1st Round
+FA Cup,210095,2017-11-04T15:00:00+00:00,Carlisle,Oldham,,2,0,3,2,1st Round
+FA Cup,210096,2017-11-04T15:00:00+00:00,Cheltenham,Maidstone Utd,,0,3,2,4,1st Round
+FA Cup,210097,2017-11-04T15:00:00+00:00,Crewe,Rotherham,,0,1,2,1,1st Round
+FA Cup,210098,2017-11-04T15:00:00+00:00,Gillingham,Leyton Orient,,1,0,2,1,1st Round
+FA Cup,210099,2017-11-04T15:00:00+00:00,Gainsborough Trinity,Slough Town,,0,1,0,6,1st Round
+FA Cup,210100,2017-11-04T15:00:00+00:00,Stevenage,Nantwich Town,,1,0,5,0,1st Round
+FA Cup,210101,2017-11-04T15:00:00+00:00,Northampton,Scunthorpe,,0,0,0,0,1st Round
+FA Cup,210102,2017-11-04T15:00:00+00:00,Gateshead,Chelmsford City,,2,0,2,0,1st Round
+FA Cup,210103,2017-11-04T15:00:00+00:00,Wigan,Crawley Town,,1,1,2,1,1st Round
+FA Cup,210104,2017-11-04T17:15:00+00:00,Newport County,Walsall,,1,0,2,1,1st Round
+FA Cup,210105,2017-11-05T14:00:00+00:00,Cambridge United,Sutton Utd,,1,0,1,0,1st Round
+FA Cup,210106,2017-11-05T14:00:00+00:00,Guiseley AFC,Accrington ST,,0,0,0,0,1st Round
+FA Cup,210107,2017-11-05T14:00:00+00:00,Leatherhead,Billericay Town,,1,0,1,1,1st Round
+FA Cup,210108,2017-11-05T14:00:00+00:00,Coventry,Maidenhead,,2,0,2,0,1st Round
+FA Cup,210109,2017-11-05T14:00:00+00:00,Solihull Moors,Wycombe,,0,2,0,2,1st Round
+FA Cup,210110,2017-11-05T14:00:00+00:00,Dartford,Swindon Town,,0,3,1,5,1st Round
+FA Cup,210111,2017-11-05T14:00:00+00:00,Woking,Bury,,1,1,1,1,1st Round
+FA Cup,210112,2017-11-05T14:00:00+00:00,Charlton,Truro City,,1,0,3,1,1st Round
+FA Cup,210113,2017-11-05T14:00:00+00:00,Exeter City,Heybridge Swifts,,0,0,3,1,1st Round
+FA Cup,210114,2017-11-06T19:45:00+00:00,Chorley,Fleetwood Town,,0,0,1,2,1st Round
+FA Cup,210070,2017-11-14T19:45:00+00:00,Accrington ST,Guiseley AFC,,0,0,1,1,1st Round Replays
+FA Cup,210071,2017-11-14T19:45:00+00:00,Bury,Woking,,0,1,0,3,1st Round Replays
+FA Cup,210072,2017-11-14T19:45:00+00:00,Scunthorpe,Northampton,,1,0,1,0,1st Round Replays
+FA Cup,210073,2017-11-15T19:45:00+00:00,Tranmere,Peterborough,,0,2,0,5,1st Round Replays
+FA Cup,210074,2017-11-16T19:45:00+00:00,Billericay Town,Leatherhead,,0,0,1,3,1st Round Replays
+FA Cup,210050,2017-12-01T19:55:00+00:00,AFC Fylde,Wigan,,0,1,1,1,2nd Round
+FA Cup,210051,2017-12-02T12:30:00+00:00,Notts County,Oxford City,,1,0,3,2,2nd Round
+FA Cup,210052,2017-12-02T15:00:00+00:00,Milton Keynes Dons,Maidstone Utd,,0,1,4,1,2nd Round
+FA Cup,210053,2017-12-02T15:00:00+00:00,Port Vale,Yeovil Town,,0,0,1,1,2nd Round
+FA Cup,210054,2017-12-02T15:00:00+00:00,Shrewsbury,Morecambe,,2,0,2,0,2nd Round
+FA Cup,210055,2017-12-02T15:00:00+00:00,Stevenage,Swindon Town,,3,2,5,2,2nd Round
+FA Cup,210056,2017-12-02T15:00:00+00:00,Bradford,Plymouth,,1,0,3,1,2nd Round
+FA Cup,210057,2017-12-02T15:00:00+00:00,Gillingham,Carlisle,,1,1,1,1,2nd Round
+FA Cup,210058,2017-12-02T15:00:00+00:00,Forest Green,Exeter City,,1,0,3,3,2nd Round
+FA Cup,210059,2017-12-02T15:00:00+00:00,Fleetwood Town,Hereford,,1,1,1,1,2nd Round
+FA Cup,210060,2017-12-03T14:00:00+00:00,Woking,Peterborough,,0,1,1,1,2nd Round
+FA Cup,210061,2017-12-03T14:00:00+00:00,Newport County,Cambridge United,,1,0,2,0,2nd Round
+FA Cup,210062,2017-12-03T14:00:00+00:00,Wycombe,Leatherhead,,1,1,3,1,2nd Round
+FA Cup,210063,2017-12-03T14:00:00+00:00,Doncaster,Scunthorpe,,1,0,3,0,2nd Round
+FA Cup,210064,2017-12-03T14:00:00+00:00,AFC Wimbledon,Charlton,,1,1,3,1,2nd Round
+FA Cup,210065,2017-12-03T14:00:00+00:00,Mansfield Town,Guiseley AFC,,1,0,3,0,2nd Round
+FA Cup,210066,2017-12-03T14:00:00+00:00,Gateshead,Luton,,0,1,0,5,2nd Round
+FA Cup,210067,2017-12-03T14:00:00+00:00,Blackburn,Crewe,,3,1,3,3,2nd Round
+FA Cup,210068,2017-12-03T14:00:00+00:00,Coventry,Boreham Wood,"Darren Handley, England",2,0,3,0,2nd Round
+FA Cup,210069,2017-12-04T19:45:00+00:00,Slough Town,Rochdale,,0,1,0,4,2nd Round
+FA Cup,210043,2017-12-12T19:45:00+00:00,Peterborough,Woking,,2,1,5,2,2nd Round Replays
+FA Cup,210044,2017-12-12T19:45:00+00:00,Yeovil Town,Port Vale,,1,0,3,2,2nd Round Replays
+FA Cup,210045,2017-12-12T19:45:00+00:00,Wigan,AFC Fylde,,1,1,3,2,2nd Round Replays
+FA Cup,210046,2017-12-12T19:45:00+00:00,Exeter City,Forest Green,,0,1,2,1,2nd Round Replays
+FA Cup,210047,2017-12-13T19:45:00+00:00,Crewe,Blackburn,,0,1,0,1,2nd Round Replays
+FA Cup,210048,2017-12-14T19:45:00+00:00,Hereford,Fleetwood Town,,0,1,0,2,2nd Round Replays
+FA Cup,210049,2017-12-19T19:45:00+00:00,Carlisle,Gillingham,,2,0,3,1,2nd Round Replays
+FA Cup,210011,2018-01-05T19:55:00+00:00,Liverpool,Everton,,1,0,2,1,3rd Round
+FA Cup,210012,2018-01-05T20:00:00+00:00,Manchester United,Derby,,0,0,2,0,3rd Round
+FA Cup,210013,2018-01-06T12:45:00+00:00,Fleetwood Town,Leicester,,0,0,0,0,3rd Round
+FA Cup,210014,2018-01-06T13:00:00+00:00,Middlesbrough,Sunderland,,2,0,2,0,3rd Round
+FA Cup,210015,2018-01-06T15:00:00+00:00,Ipswich,Sheffield Utd,,0,1,0,1,3rd Round
+FA Cup,210016,2018-01-06T15:00:00+00:00,Watford,Bristol City,,1,0,3,0,3rd Round
+FA Cup,210017,2018-01-06T15:00:00+00:00,Birmingham,Burton Albion,,0,0,1,0,3rd Round
+FA Cup,210018,2018-01-06T15:00:00+00:00,Aston Villa,Peterborough,,1,0,1,3,3rd Round
+FA Cup,210019,2018-01-06T15:00:00+00:00,Bournemouth,Wigan,,0,2,2,2,3rd Round
+FA Cup,210020,2018-01-06T15:00:00+00:00,Coventry,Stoke City,,1,0,2,1,3rd Round
+FA Cup,210021,2018-01-06T15:00:00+00:00,Bolton,Huddersfield,,0,0,1,2,3rd Round
+FA Cup,210022,2018-01-06T15:00:00+00:00,Yeovil Town,Bradford,,0,0,2,0,3rd Round
+FA Cup,210023,2018-01-06T15:00:00+00:00,Brentford,Notts County,,0,0,0,1,3rd Round
+FA Cup,210024,2018-01-06T15:00:00+00:00,QPR,Milton Keynes Dons,,0,0,0,1,3rd Round
+FA Cup,210025,2018-01-06T15:00:00+00:00,Exeter City,West Brom,,0,2,0,2,3rd Round
+FA Cup,210026,2018-01-06T15:00:00+00:00,Doncaster,Rochdale,,0,1,0,1,3rd Round
+FA Cup,210027,2018-01-06T15:00:00+00:00,Blackburn,Hull City,,0,0,0,1,3rd Round
+FA Cup,210028,2018-01-06T15:00:00+00:00,Cardiff,Mansfield Town,,0,0,0,0,3rd Round
+FA Cup,210029,2018-01-06T15:00:00+00:00,Manchester City,Burnley,,0,1,4,1,3rd Round
+FA Cup,210030,2018-01-06T15:00:00+00:00,Wolves,Swansea,,0,0,0,0,3rd Round
+FA Cup,210031,2018-01-06T15:00:00+00:00,Stevenage,Reading,,0,0,0,0,3rd Round
+FA Cup,210032,2018-01-06T15:00:00+00:00,Newcastle,Luton,,3,0,3,1,3rd Round
+FA Cup,210033,2018-01-06T15:00:00+00:00,Millwall,Barnsley,,1,1,4,1,3rd Round
+FA Cup,210034,2018-01-06T15:00:00+00:00,Fulham,Southampton,,0,1,0,1,3rd Round
+FA Cup,210035,2018-01-06T15:00:00+00:00,Wycombe,Preston,,1,2,1,5,3rd Round
+FA Cup,210036,2018-01-06T15:00:00+00:00,Carlisle,Sheffield Wednesday,,0,0,0,0,3rd Round
+FA Cup,210037,2018-01-06T17:30:00+00:00,Norwich,Chelsea,,0,0,0,0,3rd Round
+FA Cup,210038,2018-01-07T12:00:00+00:00,Newport County,Leeds,,0,1,2,1,3rd Round
+FA Cup,210039,2018-01-07T14:00:00+00:00,Shrewsbury,West Ham,,0,0,0,0,3rd Round
+FA Cup,210040,2018-01-07T15:00:00+00:00,Tottenham,AFC Wimbledon,,0,0,3,0,3rd Round
+FA Cup,210041,2018-01-07T16:00:00+00:00,Nottingham Forest,Arsenal,,2,1,4,2,3rd Round
+FA Cup,210042,2018-01-08T19:45:00+00:00,Brighton,Crystal Palace,,1,0,2,1,3rd Round
+FA Cup,210003,2018-01-16T19:45:00+00:00,Leicester,Fleetwood Town,,1,0,2,0,3rd Round Replays
+FA Cup,210004,2018-01-16T19:45:00+00:00,Mansfield Town,Cardiff,,1,1,1,4,3rd Round Replays
+FA Cup,210005,2018-01-16T19:45:00+00:00,West Ham,Shrewsbury,,0,0,1,0,3rd Round Replays
+FA Cup,210006,2018-01-16T19:45:00+00:00,Sheffield Wednesday,Carlisle,,1,0,2,0,3rd Round Replays
+FA Cup,210007,2018-01-16T20:00:00+00:00,Reading,Stevenage,,2,0,3,0,3rd Round Replays
+FA Cup,210008,2018-01-17T19:45:00+00:00,Swansea,Wolves,,1,0,2,1,3rd Round Replays
+FA Cup,210009,2018-01-17T19:45:00+00:00,Wigan,Bournemouth,,1,0,3,0,3rd Round Replays
+FA Cup,210010,2018-01-17T20:00:00+00:00,Chelsea,Norwich,,0,0,1,1,3rd Round Replays
+FA Cup,209987,2018-01-26T19:45:00+00:00,Sheffield Wednesday,Reading,,1,0,3,1,4th Round
+FA Cup,209988,2018-01-26T19:55:00+00:00,Yeovil Town,Manchester United,,0,1,0,4,4th Round
+FA Cup,209989,2018-01-27T12:30:00+00:00,Peterborough,Leicester,,0,3,1,5,4th Round
+FA Cup,209990,2018-01-27T15:00:00+00:00,Huddersfield,Birmingham,,1,0,1,1,4th Round
+FA Cup,209991,2018-01-27T15:00:00+00:00,Notts County,Swansea,,0,1,1,1,4th Round
+FA Cup,209992,2018-01-27T15:00:00+00:00,Milton Keynes Dons,Coventry,,0,0,0,1,4th Round
+FA Cup,209993,2018-01-27T15:00:00+00:00,Millwall,Rochdale,,1,1,2,2,4th Round
+FA Cup,209994,2018-01-27T15:00:00+00:00,Southampton,Watford,,1,0,1,0,4th Round
+FA Cup,209995,2018-01-27T15:00:00+00:00,Middlesbrough,Brighton,,0,0,0,1,4th Round
+FA Cup,209996,2018-01-27T15:00:00+00:00,Wigan,West Ham,,1,0,2,0,4th Round
+FA Cup,209997,2018-01-27T15:00:00+00:00,Hull City,Nottingham Forest,,2,0,2,1,4th Round
+FA Cup,209998,2018-01-27T15:00:00+00:00,Sheffield Utd,Preston,,0,0,1,0,4th Round
+FA Cup,209999,2018-01-27T17:30:00+00:00,Newport County,Tottenham,,1,0,1,1,4th Round
+FA Cup,210000,2018-01-27T19:45:00+00:00,Liverpool,West Brom,,1,3,2,3,4th Round
+FA Cup,210001,2018-01-28T13:30:00+00:00,Chelsea,Newcastle,,2,0,3,0,4th Round
+FA Cup,210002,2018-01-28T16:00:00+00:00,Cardiff,Manchester City,,0,2,0,2,4th Round
+FA Cup,209983,2018-02-06T19:45:00+00:00,Birmingham,Huddersfield,,0,0,1,4,4th Round Replays
+FA Cup,209984,2018-02-06T19:45:00+00:00,Rochdale,Millwall,,0,0,1,0,4th Round Replays
+FA Cup,209985,2018-02-06T20:05:00+00:00,Swansea,Notts County,,4,1,8,1,4th Round Replays
+FA Cup,209986,2018-02-07T19:45:00+00:00,Tottenham,Newport County,,2,0,2,0,4th Round Replays
+FA Cup,209975,2018-02-16T19:45:00+00:00,Leicester,Sheffield Utd,,0,0,1,0,5th Round
+FA Cup,209976,2018-02-16T20:00:00+00:00,Chelsea,Hull City,,4,0,4,0,5th Round
+FA Cup,209977,2018-02-17T12:30:00+00:00,Sheffield Wednesday,Swansea,,0,0,0,0,5th Round
+FA Cup,209978,2018-02-17T15:00:00+00:00,West Brom,Southampton,,0,1,1,2,5th Round
+FA Cup,209979,2018-02-17T15:15:00+00:00,Brighton,Coventry,,2,0,3,1,5th Round
+FA Cup,209980,2018-02-17T17:30:00+00:00,Huddersfield,Manchester United,,0,1,0,2,5th Round
+FA Cup,209981,2018-02-18T16:00:00+00:00,Rochdale,Tottenham,,1,0,2,2,5th Round
+FA Cup,209982,2018-02-19T19:55:00+00:00,Wigan,Manchester City,,0,0,1,0,5th Round
+FA Cup,209973,2018-02-27T20:05:00+00:00,Swansea,Sheffield Wednesday,,0,0,2,0,5th Round Replays
+FA Cup,209974,2018-02-28T19:45:00+00:00,Tottenham,Rochdale,,1,1,6,1,5th Round Replays
+FA Cup,209966,2018-03-17T12:15:00+00:00,Swansea,Tottenham,,0,2,0,3,Quarter-finals
+FA Cup,209967,2018-03-17T19:45:00+00:00,Manchester United,Brighton,,1,0,2,0,Quarter-finals
+FA Cup,209968,2018-03-18T13:30:00+00:00,Wigan,Southampton,,0,0,0,2,Quarter-finals
+FA Cup,209969,2018-03-18T16:30:00+00:00,Leicester,Chelsea,,0,1,1,2,Quarter-finals
+FA Cup,209970,2018-04-21T16:15:00+00:00,Manchester United,Tottenham,,1,1,2,1,Semi-finals
+FA Cup,209971,2018-04-22T14:00:00+00:00,Chelsea,Southampton,,0,0,2,0,Semi-finals
+FA Cup,209972,2018-05-19T16:15:00+00:00,Chelsea,Manchester United,,1,0,1,0,Final
+League Cup,455132,2017-02-26T16:30:00+00:00,Grimsby,Derby,,2,1,3,2,Final
+League Cup,455040,2018-02-25T16:30:00+00:00,Arsenal,Manchester City,,0,1,0,3,Final
+League Cup,455098,2017-08-08T18:45:00+00:00,Coventry,Blackburn,,1,2,1,3,1st Round
+League Cup,455099,2017-08-08T18:45:00+00:00,Nottingham Forest,Shrewsbury,,1,0,2,1,1st Round
+League Cup,455100,2017-08-08T18:45:00+00:00,Bradford,Doncaster,,1,1,2,3,1st Round
+League Cup,455101,2017-08-08T18:45:00+00:00,Mansfield Town,Rochdale,,0,1,0,1,1st Round
+League Cup,455102,2017-08-08T18:45:00+00:00,Barnsley,Morecambe,,2,1,4,3,1st Round
+League Cup,455103,2017-08-08T18:45:00+00:00,Wigan,Blackpool,,2,0,2,1,1st Round
+League Cup,455104,2017-08-08T18:45:00+00:00,Sheffield Wednesday,Chesterfield,,2,1,4,1,1st Round
+League Cup,455105,2017-08-08T18:45:00+00:00,Accrington ST,Preston,,1,0,3,2,1st Round
+League Cup,455106,2017-08-08T18:45:00+00:00,Fleetwood Town,Carlisle,,0,1,1,2,1st Round
+League Cup,455107,2017-08-08T18:45:00+00:00,Scunthorpe,Notts County,,0,1,3,3,1st Round
+League Cup,455108,2017-08-08T18:45:00+00:00,Birmingham,Crawley Town,,3,0,5,1,1st Round
+League Cup,455109,2017-08-08T18:45:00+00:00,Exeter City,Charlton,,0,0,1,2,1st Round
+League Cup,455110,2017-08-08T18:45:00+00:00,QPR,Northampton,,1,0,1,0,1st Round
+League Cup,455111,2017-08-08T18:45:00+00:00,Southend,Newport County,,0,0,0,2,1st Round
+League Cup,455112,2017-08-08T18:45:00+00:00,Bristol City,Plymouth,,4,0,5,0,1st Round
+League Cup,455113,2017-08-08T18:45:00+00:00,Cardiff,Portsmouth,,0,1,2,1,1st Round
+League Cup,455114,2017-08-08T18:45:00+00:00,Rotherham,Lincoln,,1,0,2,1,1st Round
+League Cup,455115,2017-08-08T18:45:00+00:00,Oxford United,Cheltenham,,3,1,3,4,1st Round
+League Cup,455116,2017-08-08T18:45:00+00:00,AFC Wimbledon,Brentford,,1,0,1,3,1st Round
+League Cup,455117,2017-08-08T18:45:00+00:00,Norwich,Swindon Town,,3,1,3,2,1st Round
+League Cup,455118,2017-08-08T18:45:00+00:00,Bristol Rovers,Cambridge United,,2,0,4,1,1st Round
+League Cup,455119,2017-08-08T18:45:00+00:00,Peterborough,Barnet,,1,2,1,3,1st Round
+League Cup,455120,2017-08-08T18:45:00+00:00,Wycombe,Fulham,,0,0,0,2,1st Round
+League Cup,455121,2017-08-08T18:45:00+00:00,Forest Green,Milton Keynes Dons,,0,0,0,1,1st Round
+League Cup,455122,2017-08-08T18:45:00+00:00,Millwall,Stevenage,,0,0,2,0,1st Round
+League Cup,455123,2017-08-08T18:45:00+00:00,Wolves,Yeovil Town,,0,0,1,0,1st Round
+League Cup,455124,2017-08-08T18:45:00+00:00,Luton,Ipswich,,0,1,0,2,1st Round
+League Cup,455125,2017-08-08T19:00:00+00:00,Reading,Gillingham,,0,0,2,0,1st Round
+League Cup,455126,2017-08-09T18:45:00+00:00,Crewe,Bolton,,1,0,1,2,1st Round
+League Cup,455127,2017-08-09T18:45:00+00:00,Oldham,Burton Albion,,0,0,2,3,1st Round
+League Cup,455128,2017-08-09T18:45:00+00:00,Sheffield Utd,Walsall,,0,1,3,2,1st Round
+League Cup,455129,2017-08-09T18:45:00+00:00,Leeds,Port Vale,,1,1,4,1,1st Round
+League Cup,455130,2017-08-09T18:45:00+00:00,Colchester,Aston Villa,"John Brooks, England",1,2,1,2,1st Round
+League Cup,455131,2017-08-10T18:45:00+00:00,Bury,Sunderland,"Robert Jones, England",0,0,0,1,1st Round
+League Cup,455073,2017-08-22T18:30:00+00:00,Crystal Palace,Ipswich,,0,0,2,1,2nd Round
+League Cup,455074,2017-08-22T18:45:00+00:00,Carlisle,Sunderland,,0,1,1,2,2nd Round
+League Cup,455075,2017-08-22T18:45:00+00:00,Accrington ST,West Brom,,0,2,1,3,2nd Round
+League Cup,455076,2017-08-22T18:45:00+00:00,Leeds,Newport County,,1,1,5,1,2nd Round
+League Cup,455077,2017-08-22T18:45:00+00:00,Middlesbrough,Scunthorpe,,2,0,3,0,2nd Round
+League Cup,455078,2017-08-22T18:45:00+00:00,Doncaster,Hull City,,0,0,2,0,2nd Round
+League Cup,455079,2017-08-22T18:45:00+00:00,Sheffield Utd,Leicester,"Tony Harrington, England",0,0,1,4,2nd Round
+League Cup,455080,2017-08-22T18:45:00+00:00,Aston Villa,Wigan,,3,1,4,1,2nd Round
+League Cup,455081,2017-08-22T18:45:00+00:00,QPR,Brentford,,1,3,1,4,2nd Round
+League Cup,455082,2017-08-22T18:45:00+00:00,Watford,Bristol City,,0,0,2,3,2nd Round
+League Cup,455083,2017-08-22T18:45:00+00:00,Norwich,Charlton,,1,1,4,1,2nd Round
+League Cup,455084,2017-08-22T18:45:00+00:00,Brighton,Barnet,,0,0,1,0,2nd Round
+League Cup,455085,2017-08-22T18:45:00+00:00,Cardiff,Burton Albion,,0,1,1,2,2nd Round
+League Cup,455086,2017-08-22T18:45:00+00:00,Fulham,Bristol Rovers,,0,1,0,1,2nd Round
+League Cup,455087,2017-08-22T18:45:00+00:00,Milton Keynes Dons,Swansea,,1,1,1,4,2nd Round
+League Cup,455088,2017-08-22T18:45:00+00:00,Birmingham,Bournemouth,,1,0,1,2,2nd Round
+League Cup,455089,2017-08-22T19:00:00+00:00,Bolton,Sheffield Wednesday,,1,0,3,2,2nd Round
+League Cup,455090,2017-08-22T19:00:00+00:00,Reading,Millwall,,1,1,3,1,2nd Round
+League Cup,455091,2017-08-23T18:45:00+00:00,Newcastle,Nottingham Forest,,2,2,2,3,2nd Round
+League Cup,455092,2017-08-23T18:45:00+00:00,Huddersfield,Rotherham,,0,1,2,1,2nd Round
+League Cup,455093,2017-08-23T18:45:00+00:00,Blackburn,Burnley,"Simon Hooper, England",0,2,0,2,2nd Round
+League Cup,455094,2017-08-23T18:45:00+00:00,Cheltenham,West Ham,,0,2,0,2,2nd Round
+League Cup,455095,2017-08-23T18:45:00+00:00,Southampton,Wolves,,0,0,0,2,2nd Round
+League Cup,455096,2017-08-23T19:00:00+00:00,Stoke City,Rochdale,,3,0,4,0,2nd Round
+League Cup,455097,2017-09-12T18:45:00+00:00,Barnsley,Derby,,1,2,3,2,2nd Round
+League Cup,455057,2017-09-19T18:45:00+00:00,Leicester,Liverpool,"Stuart Attwell, England",0,0,2,0,3rd Round
+League Cup,455058,2017-09-19T18:45:00+00:00,Brentford,Norwich,,0,1,1,3,3rd Round
+League Cup,455059,2017-09-19T18:45:00+00:00,Wolves,Bristol Rovers,,0,0,1,0,3rd Round
+League Cup,455060,2017-09-19T18:45:00+00:00,Burnley,Leeds,"Darren Bond, England",0,0,2,2,3rd Round
+League Cup,455061,2017-09-19T18:45:00+00:00,Bristol City,Stoke City,,0,0,2,0,3rd Round
+League Cup,455062,2017-09-19T18:45:00+00:00,Aston Villa,Middlesbrough,,0,0,0,2,3rd Round
+League Cup,455063,2017-09-19T18:45:00+00:00,West Ham,Bolton,,2,0,3,0,3rd Round
+League Cup,455064,2017-09-19T18:45:00+00:00,Crystal Palace,Huddersfield,,1,0,1,0,3rd Round
+League Cup,455065,2017-09-19T18:45:00+00:00,Bournemouth,Brighton,,0,0,1,0,3rd Round
+League Cup,455066,2017-09-19T19:00:00+00:00,Reading,Swansea,,0,0,0,2,3rd Round
+League Cup,455067,2017-09-19T19:00:00+00:00,Tottenham,Barnsley,,0,0,1,0,3rd Round
+League Cup,455068,2017-09-20T18:45:00+00:00,Everton,Sunderland,"Oliver Langford, England",1,0,3,0,3rd Round
+League Cup,455069,2017-09-20T18:45:00+00:00,Arsenal,Doncaster,"Scott Duncan, England",1,0,1,0,3rd Round
+League Cup,455070,2017-09-20T18:45:00+00:00,Chelsea,Nottingham Forest,"Chris Kavanagh, England",3,0,5,1,3rd Round
+League Cup,455071,2017-09-20T19:00:00+00:00,West Brom,Manchester City,"Mike Jones, England",0,1,1,2,3rd Round
+League Cup,455072,2017-09-20T19:00:00+00:00,Manchester United,Burton Albion,"Graham Scott, England",3,0,4,1,3rd Round
+League Cup,455049,2017-10-24T18:45:00+00:00,Bournemouth,Middlesbrough,"Simon Hooper, England",0,0,3,1,8th Finals
+League Cup,455050,2017-10-24T18:45:00+00:00,Arsenal,Norwich,"Andy Madley, England",0,1,2,1,8th Finals
+League Cup,455051,2017-10-24T18:45:00+00:00,Bristol City,Crystal Palace,"Tim Robinson, England",2,1,4,1,8th Finals
+League Cup,455052,2017-10-24T18:45:00+00:00,Leicester,Leeds,"Lee Probert, England",1,1,3,1,8th Finals
+League Cup,455053,2017-10-24T18:45:00+00:00,Swansea,Manchester United,"Robert Madley, England",0,1,0,2,8th Finals
+League Cup,455054,2017-10-24T19:00:00+00:00,Manchester City,Wolves,"Kevin Friend, England",0,0,0,0,8th Finals
+League Cup,455055,2017-10-25T18:45:00+00:00,Chelsea,Everton,"Neil Swarbrick, England",1,0,2,1,8th Finals
+League Cup,455056,2017-10-25T19:00:00+00:00,Tottenham,West Ham,"Mike Dean, England",2,0,2,3,8th Finals
+League Cup,455045,2017-12-19T19:45:00+00:00,Arsenal,West Ham,,1,0,1,0,Quarter-finals
+League Cup,455046,2017-12-19T19:45:00+00:00,Leicester,Manchester City,,0,1,1,1,Quarter-finals
+League Cup,455047,2017-12-20T19:45:00+00:00,Chelsea,Bournemouth,,1,0,2,1,Quarter-finals
+League Cup,455048,2017-12-20T20:00:00+00:00,Bristol City,Manchester United,,0,0,2,1,Quarter-finals
+League Cup,455041,2018-01-09T19:45:00+00:00,Manchester City,Bristol City,,0,1,2,1,Semi-finals
+League Cup,455043,2018-01-10T20:00:00+00:00,Chelsea,Arsenal,,0,0,0,0,Semi-finals
+League Cup,455042,2018-01-23T19:45:00+00:00,Bristol City,Manchester City,,0,1,2,3,Semi-finals
+League Cup,455044,2018-01-24T20:00:00+00:00,Arsenal,Chelsea,,1,1,2,1,Semi-finals
+Community Shield,362360,2018-08-12T18:30:00+00:00,Arsenal,Chelsea,"Robert Madley, England",0,2,0,5,Final
+Super Cup,367225,2017-08-13T20:00:00+00:00,Barcelona,Real Madrid,"Ricardo De Burgos Bengoetxea, Spain",0,0,1,3,Finals
+Super Cup,367226,2017-08-16T21:00:00+00:00,Real Madrid,Barcelona,"Jose Maria Sanchez Martinez, Spain",2,0,2,0,Finals
+Super Cup,367224,2018-08-12T20:00:00+00:00,Sevilla,Barcelona,"Carlos Del Cerro Grande, Spain",1,1,1,2,Finals
+Super Cup,367221,2020-01-08T19:00:00+00:00,Valencia,Real Madrid,"Jesus Gil Manzano, Spain",0,2,1,3,Semi-finals
+Super Cup,367222,2020-01-09T19:00:00+00:00,Barcelona,Atletico Madrid,"Jose Luis Gonzalez Gonzalez, Spain",0,0,2,3,Semi-finals
+Super Cup,367223,2020-01-12T18:00:00+00:00,Real Madrid,Atletico Madrid,"Jose Maria Sanchez Martinez, Spain",0,0,0,0,Final

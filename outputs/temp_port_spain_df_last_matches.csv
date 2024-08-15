@@ -1,0 +1,487 @@
+,league,fixture_id,date,home_team,away_team,referee,first_home_goals,first_away_goals,match_home_goals,match_away_goals,round
+0,Primeira Liga,3434,2018-08-10T19:30:00+00:00,Benfica,Guimaraes,"Joao Pedro Pinheiro, Portugal",3,0,3,2,1
+1,Primeira Liga,3442,2018-08-11T15:30:00+00:00,Vitoria Setubal,Aves,"Helder Malheiro, Portugal",1,0,2,0,1
+2,Primeira Liga,3441,2018-08-11T18:00:00+00:00,Tondela,Belenenses,"Luis Miguel Branco Godinho, Portugal",0,0,0,1,1
+3,Primeira Liga,3435,2018-08-11T20:00:00+00:00,FC Porto,Chaves,"Nuno Miguel Serrano Almeida, Portugal",3,0,5,0,1
+4,Primeira Liga,3436,2018-08-12T15:00:00+00:00,Feirense,Rio Ave,"Antonio Nobre, Portugal",2,0,2,0,1
+5,Primeira Liga,3437,2018-08-12T15:00:00+00:00,Maritimo,Santa Clara,"Anzhony Rodrigues, Portugal",0,0,1,0,1
+6,Primeira Liga,3438,2018-08-12T17:30:00+00:00,Moreirense,Sporting CP,"Tiago Martins, Portugal",1,1,1,3,1
+7,Primeira Liga,3440,2018-08-12T19:30:00+00:00,SC Braga,Nacional,"Carlos Xistra, Portugal",2,2,4,2,1
+8,Primeira Liga,3439,2018-08-13T19:15:00+00:00,Portimonense,Boavista,"Joao Carlos Santos Capela, Portugal",0,0,0,2,1
+9,Primeira Liga,3443,2018-08-17T19:30:00+00:00,Aves,Tondela,"Artur Soares Dias, Portugal",1,1,2,2,2
+10,Primeira Liga,3446,2018-08-18T15:30:00+00:00,Chaves,Portimonense,"Andre Filipe Domingues Narciso, Portugal",2,0,2,0,2
+11,Primeira Liga,3445,2018-08-18T18:00:00+00:00,Boavista,Benfica,"Manuel Mota da Silva, Portugal",0,1,0,2,2
+12,Primeira Liga,3451,2018-08-18T20:00:00+00:00,Sporting CP,Vitoria Setubal,"Manuel Oliveira, Portugal",1,1,2,1,2
+13,Primeira Liga,3448,2018-08-19T15:00:00+00:00,Nacional,Moreirense,"Antonio Nobre, Portugal",0,1,1,2,2
+14,Primeira Liga,3449,2018-08-19T15:00:00+00:00,Rio Ave,Maritimo,"Vitor Ferreira, Portugal",2,0,3,1,2
+15,Primeira Liga,3444,2018-08-19T17:30:00+00:00,Belenenses,FC Porto,"Carlos Xistra, Portugal",0,1,2,3,2
+16,Primeira Liga,3450,2018-08-19T19:30:00+00:00,Santa Clara,SC Braga,"Rui Oliveira, Portugal",0,3,3,3,2
+17,Primeira Liga,3447,2018-08-20T19:15:00+00:00,Guimaraes,Feirense,"Hugo Miguel, Portugal",0,0,0,1,2
+18,Primeira Liga,3455,2018-08-24T19:30:00+00:00,Maritimo,Chaves,"Tiago Martins, Portugal",0,1,2,1,3
+19,Primeira Liga,3457,2018-08-25T15:30:00+00:00,Portimonense,Santa Clara,"Joao Pedro Pinheiro, Portugal",0,1,2,2,3
+20,Primeira Liga,3452,2018-08-25T18:00:00+00:00,Benfica,Sporting CP,"Luis Miguel Branco Godinho, Portugal",0,0,1,1,3
+21,Primeira Liga,3453,2018-08-25T20:00:00+00:00,FC Porto,Guimaraes,"Fabio Jose Costa Verissimo, Portugal",2,0,2,3,3
+22,Primeira Liga,3454,2018-08-26T15:00:00+00:00,Feirense,Boavista,"Rui Manuel Gomes Costa, Portugal",0,1,1,1,3
+23,Primeira Liga,3460,2018-08-26T15:00:00+00:00,Vitoria Setubal,Nacional,"Claudio Filipe Ruivo Pereira, Portugal",0,1,1,2,3
+24,Primeira Liga,3459,2018-08-26T17:30:00+00:00,Tondela,Rio Ave,"Manuel Mota da Silva, Portugal",0,1,1,1,3
+25,Primeira Liga,3458,2018-08-26T19:30:00+00:00,SC Braga,Aves,"Manuel Oliveira, Portugal",0,0,3,1,3
+26,Primeira Liga,3456,2018-08-27T19:15:00+00:00,Moreirense,Belenenses,"Rui Oliveira, Portugal",0,0,1,1,3
+27,Primeira Liga,3463,2018-08-31T18:00:00+00:00,Chaves,SC Braga,"Luis Miguel Branco Godinho, Portugal",0,1,0,1,4
+28,Primeira Liga,3465,2018-08-31T20:15:00+00:00,Guimaraes,Tondela,"Nuno Miguel Serrano Almeida, Portugal",1,0,1,0,4
+29,Primeira Liga,3462,2018-09-01T15:30:00+00:00,Belenenses,Vitoria Setubal,"Manuel Mota da Silva, Portugal",0,0,0,0,4
+30,Primeira Liga,3468,2018-09-01T18:00:00+00:00,Santa Clara,Boavista,"Antonio Nobre, Portugal",1,1,4,2,4
+31,Primeira Liga,3469,2018-09-01T20:00:00+00:00,Sporting CP,Feirense,"Rui Oliveira, Portugal",0,0,1,0,4
+32,Primeira Liga,3461,2018-09-02T15:00:00+00:00,Aves,Maritimo,"Joao Pedro Pinheiro, Portugal",0,1,0,1,4
+33,Primeira Liga,3467,2018-09-02T15:00:00+00:00,Rio Ave,Portimonense,"Artur Soares Dias, Portugal",0,1,2,1,4
+34,Primeira Liga,3466,2018-09-02T17:30:00+00:00,Nacional,Benfica,"Fabio Jose Costa Verissimo, Portugal",0,2,0,4,4
+35,Primeira Liga,3464,2018-09-02T19:30:00+00:00,FC Porto,Moreirense,"Helder Malheiro, Portugal",2,0,3,0,4
+36,Primeira Liga,3471,2018-09-21T19:30:00+00:00,Boavista,Chaves,"Joao Pedro Pinheiro, Portugal",0,1,1,2,5
+37,Primeira Liga,3475,2018-09-22T15:30:00+00:00,Santa Clara,Rio Ave,"Joao Carlos Santos Capela, Portugal",0,0,1,3,5
+38,Primeira Liga,3473,2018-09-22T18:00:00+00:00,Maritimo,Belenenses,"Hugo Miguel, Portugal",0,0,0,0,5
+39,Primeira Liga,3478,2018-09-22T20:00:00+00:00,Vitoria Setubal,FC Porto,"Manuel Oliveira, Portugal",0,1,0,2,5
+40,Primeira Liga,3472,2018-09-23T15:00:00+00:00,Feirense,Nacional,"Nuno Miguel Serrano Almeida, Portugal",0,0,0,0,5
+41,Primeira Liga,3477,2018-09-23T15:00:00+00:00,Tondela,Moreirense,"Tiago Martins, Portugal",1,0,2,0,5
+42,Primeira Liga,3470,2018-09-23T17:30:00+00:00,Benfica,Aves,"Rui Manuel Gomes Costa, Portugal",1,0,2,0,5
+43,Primeira Liga,3474,2018-09-23T19:30:00+00:00,Portimonense,Guimaraes,"Luis Miguel Branco Godinho, Portugal",1,0,3,2,5
+44,Primeira Liga,3476,2018-09-24T19:15:00+00:00,SC Braga,Sporting CP,"Artur Soares Dias, Portugal",0,0,1,0,5
+45,Primeira Liga,3481,2018-09-27T20:15:00+00:00,Chaves,Benfica,"Joao Carlos Santos Capela, Portugal",0,1,2,2,6
+46,Primeira Liga,3482,2018-09-28T19:30:00+00:00,FC Porto,Tondela,"Luis Miguel Branco Godinho, Portugal",0,0,1,0,6
+47,Primeira Liga,3484,2018-09-29T15:30:00+00:00,Moreirense,Feirense,"Artur Soares Dias, Portugal",0,0,1,0,6
+48,Primeira Liga,3486,2018-09-29T18:00:00+00:00,Rio Ave,Boavista,"Hugo Miguel, Portugal",2,0,2,1,6
+49,Primeira Liga,3487,2018-09-29T20:00:00+00:00,Sporting CP,Maritimo,"Nuno Miguel Serrano Almeida, Portugal",2,0,2,0,6
+50,Primeira Liga,3485,2018-09-30T15:00:00+00:00,Nacional,Santa Clara,"Manuel Mota da Silva, Portugal",0,1,0,3,6
+51,Primeira Liga,3483,2018-09-30T17:30:00+00:00,Guimaraes,Vitoria Setubal,"Antonio Nobre, Portugal",0,0,1,1,6
+52,Primeira Liga,3480,2018-09-30T19:30:00+00:00,Belenenses,SC Braga,"Fabio Jose Costa Verissimo, Portugal",0,2,0,3,6
+53,Primeira Liga,3479,2018-10-01T19:15:00+00:00,Aves,Portimonense,"Joao Malheiro Pinto, Portugal",1,0,3,0,6
+54,Primeira Liga,3495,2018-10-05T14:30:00+00:00,Tondela,Nacional,"Andre Filipe Domingues Narciso, Portugal",0,0,1,1,7
+55,Primeira Liga,3493,2018-10-05T17:00:00+00:00,Santa Clara,Chaves,"Claudio Filipe Ruivo Pereira, Portugal",0,0,1,0,7
+56,Primeira Liga,3490,2018-10-05T19:30:00+00:00,Feirense,Belenenses,"Joao Pedro Pinheiro, Portugal",0,0,0,0,7
+57,Primeira Liga,3496,2018-10-06T14:30:00+00:00,Vitoria Setubal,Moreirense,"Luis Miguel Branco Godinho, Portugal",1,0,3,0,7
+58,Primeira Liga,3491,2018-10-06T17:00:00+00:00,Maritimo,Guimaraes,"Manuel Oliveira, Portugal",0,1,1,3,7
+59,Primeira Liga,3494,2018-10-06T19:30:00+00:00,SC Braga,Rio Ave,"Tiago Martins, Portugal",1,1,1,1,7
+60,Primeira Liga,3489,2018-10-07T14:00:00+00:00,Boavista,Aves,"Vitor Ferreira, Portugal",0,0,1,0,7
+61,Primeira Liga,3488,2018-10-07T16:30:00+00:00,Benfica,FC Porto,"Fabio Jose Costa Verissimo, Portugal",0,0,1,0,7
+62,Primeira Liga,3492,2018-10-07T19:00:00+00:00,Portimonense,Sporting CP,"Hugo Miguel, Portugal",2,0,4,2,7
+63,Primeira Liga,3502,2018-10-26T18:00:00+00:00,Nacional,Portimonense,"Manuel Oliveira, Portugal",0,1,0,1,8
+64,Primeira Liga,3500,2018-10-26T20:15:00+00:00,Guimaraes,SC Braga,"Hugo Miguel,",1,1,1,1,8
+65,Primeira Liga,3497,2018-10-27T14:30:00+00:00,Aves,Santa Clara,"Fabio Jose Costa Verissimo, Portugal",0,2,1,2,8
+66,Primeira Liga,3503,2018-10-27T17:00:00+00:00,Rio Ave,Chaves,"Helder Malheiro, Portugal",0,0,1,0,8
+67,Primeira Liga,3498,2018-10-27T19:30:00+00:00,Belenenses,Benfica,"Artur Soares Dias, Portugal",2,0,2,0,8
+68,Primeira Liga,3501,2018-10-28T15:00:00+00:00,Moreirense,Maritimo,"Joao Carlos Santos Capela, Portugal",0,0,1,0,8
+69,Primeira Liga,3505,2018-10-28T15:00:00+00:00,Tondela,Vitoria Setubal,"Joao Malheiro Pinto, Portugal",0,1,1,2,8
+70,Primeira Liga,3499,2018-10-28T17:30:00+00:00,FC Porto,Feirense,"Rui Oliveira, Portugal",1,0,2,0,8
+71,Primeira Liga,3504,2018-10-28T20:00:00+00:00,Sporting CP,Boavista,"Carlos Xistra, Portugal",1,0,3,0,8
+72,Primeira Liga,3506,2018-11-02T20:30:00+00:00,Benfica,Moreirense,"Nuno Miguel Serrano Almeida, Portugal",1,3,1,3,9
+73,Primeira Liga,3511,2018-11-03T15:30:00+00:00,Portimonense,Belenenses,"Joao Carlos Santos Capela, Portugal",0,0,1,1,9
+74,Primeira Liga,3510,2018-11-03T18:00:00+00:00,Maritimo,FC Porto,"Carlos Xistra, Portugal",0,0,0,2,9
+75,Primeira Liga,3507,2018-11-03T20:30:00+00:00,Boavista,Guimaraes,"Tiago Martins, Portugal",0,0,0,0,9
+76,Primeira Liga,3509,2018-11-04T15:00:00+00:00,Feirense,Tondela,"Hugo Miguel, Portugal",1,1,2,4,9
+77,Primeira Liga,3513,2018-11-04T17:30:00+00:00,Santa Clara,Sporting CP,"Manuel Mota da Silva, Portugal",1,0,1,2,9
+78,Primeira Liga,3514,2018-11-04T20:00:00+00:00,SC Braga,Vitoria Setubal,"Helder Malheiro, Portugal",2,1,2,1,9
+79,Primeira Liga,3512,2018-11-05T19:00:00+00:00,Rio Ave,Nacional,"Joao Malheiro Pinto, Portugal",2,1,3,3,9
+80,Primeira Liga,3508,2018-11-05T21:15:00+00:00,Chaves,Aves,"Rui Manuel Gomes Costa, Portugal",0,1,1,2,9
+81,Primeira Liga,3519,2018-11-09T19:00:00+00:00,Moreirense,Portimonense,"Hugo Miguel, Portugal",1,0,2,0,10
+82,Primeira Liga,3523,2018-11-09T21:15:00+00:00,Vitoria Setubal,Feirense,"Fabio Jose Costa Verissimo, Portugal",1,1,2,1,10
+83,Primeira Liga,3515,2018-11-10T15:30:00+00:00,Aves,Rio Ave,"Luis Miguel Branco Godinho, Portugal",2,0,2,1,10
+84,Primeira Liga,3516,2018-11-10T15:30:00+00:00,Belenenses,Boavista,"Andre Filipe Domingues Narciso, Portugal",0,0,0,0,10
+85,Primeira Liga,3520,2018-11-10T18:00:00+00:00,Nacional,Maritimo,"Rui Manuel Gomes Costa, Portugal",0,0,1,0,10
+86,Primeira Liga,3517,2018-11-10T20:30:00+00:00,FC Porto,SC Braga,"Artur Soares Dias, Portugal",0,0,1,0,10
+87,Primeira Liga,3518,2018-11-11T15:00:00+00:00,Guimaraes,Santa Clara,"Carlos Xistra, Portugal",1,0,2,0,10
+88,Primeira Liga,3522,2018-11-11T17:30:00+00:00,Tondela,Benfica,"Joao Pedro Pinheiro, Portugal",1,1,1,3,10
+89,Primeira Liga,3521,2018-11-11T20:00:00+00:00,Sporting CP,Chaves,"Tiago Martins, Portugal",1,0,2,1,10
+90,Primeira Liga,3531,2018-11-30T20:30:00+00:00,Santa Clara,Belenenses,"Antonio Nobre, Portugal",1,1,2,3,11
+91,Primeira Liga,3528,2018-12-01T15:30:00+00:00,Maritimo,Vitoria Setubal,"Artur Soares Dias, Portugal",0,0,0,1,11
+92,Primeira Liga,3525,2018-12-01T18:00:00+00:00,Benfica,Feirense,"Rui Manuel Gomes Costa, Portugal",0,0,4,0,11
+93,Primeira Liga,3532,2018-12-01T20:30:00+00:00,SC Braga,Moreirense,"Manuel Oliveira, Portugal",2,0,2,0,11
+94,Primeira Liga,3524,2018-12-02T15:00:00+00:00,Aves,Nacional,"Joao Pedro Pinheiro, Portugal",1,1,2,3,11
+95,Primeira Liga,3529,2018-12-02T15:00:00+00:00,Portimonense,Tondela,"Vitor Ferreira, Portugal",3,1,3,2,11
+96,Primeira Liga,3527,2018-12-02T17:30:00+00:00,Chaves,Guimaraes,"Joao Carlos Santos Capela, Portugal",0,1,0,1,11
+97,Primeira Liga,3526,2018-12-02T20:00:00+00:00,Boavista,FC Porto,"Hugo Miguel, Portugal",0,0,0,1,11
+98,Primeira Liga,3530,2018-12-03T20:15:00+00:00,Rio Ave,Sporting CP,"Carlos Xistra, Portugal",1,2,1,3,11
+99,Primeira Liga,3534,2018-12-07T20:30:00+00:00,FC Porto,Portimonense,"Manuel Mota da Silva, Portugal",1,1,4,1,12
+100,Primeira Liga,3533,2018-12-08T15:30:00+00:00,Belenenses,Chaves,"Luis Miguel Branco Godinho, Portugal",1,0,1,0,12
+101,Primeira Liga,3540,2018-12-08T18:00:00+00:00,Tondela,SC Braga,"Rui Manuel Gomes Costa, Portugal",0,1,0,1,12
+102,Primeira Liga,3541,2018-12-08T20:30:00+00:00,Vitoria Setubal,Benfica,"Carlos Xistra, Portugal",0,1,0,1,12
+103,Primeira Liga,3537,2018-12-09T15:00:00+00:00,Moreirense,Santa Clara,"Andre Filipe Domingues Narciso, Portugal",0,0,0,1,12
+104,Primeira Liga,3538,2018-12-09T15:00:00+00:00,Nacional,Boavista,"Claudio Filipe Ruivo Pereira, Portugal",0,0,0,0,12
+105,Primeira Liga,3536,2018-12-09T17:30:00+00:00,Guimaraes,Rio Ave,"Nuno Miguel Serrano Almeida, Portugal",2,1,3,2,12
+106,Primeira Liga,3539,2018-12-09T20:00:00+00:00,Sporting CP,Aves,"Vitor Ferreira, Portugal",2,1,4,1,12
+107,Primeira Liga,3535,2018-12-10T20:15:00+00:00,Feirense,Maritimo,"Helder Malheiro, Portugal",0,0,1,1,12
+108,Primeira Liga,3546,2018-12-14T19:00:00+00:00,Portimonense,Vitoria Setubal,"Helder Malheiro, Portugal",2,0,3,1,13
+109,Primeira Liga,3549,2018-12-14T21:15:00+00:00,SC Braga,Feirense,"Nuno Miguel Serrano Almeida, Portugal",2,0,4,0,13
+110,Primeira Liga,3543,2018-12-15T15:30:00+00:00,Boavista,Tondela,"Artur Soares Dias, Portugal",2,0,2,0,13
+111,Primeira Liga,3544,2018-12-15T15:30:00+00:00,Chaves,Moreirense,"Rui Manuel Gomes Costa, Portugal",0,0,1,2,13
+112,Primeira Liga,3542,2018-12-15T18:00:00+00:00,Aves,Guimaraes,"Carlos Xistra, Portugal",1,1,1,1,13
+113,Primeira Liga,3548,2018-12-15T20:30:00+00:00,Santa Clara,FC Porto,"Luis Miguel Branco Godinho, Portugal",1,1,1,2,13
+114,Primeira Liga,3547,2018-12-16T15:00:00+00:00,Rio Ave,Belenenses,"Manuel Mota da Silva, Portugal",1,0,2,2,13
+115,Primeira Liga,3545,2018-12-16T17:30:00+00:00,Maritimo,Benfica,"Joao Pedro Pinheiro, Portugal",0,1,0,1,13
+116,Primeira Liga,3550,2018-12-16T20:00:00+00:00,Sporting CP,Nacional,"Fabio Jose Costa Verissimo, Portugal",1,2,5,2,13
+117,Primeira Liga,3554,2018-12-22T15:30:00+00:00,Feirense,Portimonense,"Joao Malheiro Pinto, Portugal",0,0,0,1,14
+118,Primeira Liga,3558,2018-12-22T15:30:00+00:00,Tondela,Maritimo,"Carlos Xistra, Portugal",1,1,2,1,14
+119,Primeira Liga,3559,2018-12-22T15:30:00+00:00,Vitoria Setubal,Santa Clara,"Joao Pedro Pinheiro, Portugal",0,1,0,2,14
+120,Primeira Liga,3551,2018-12-22T18:00:00+00:00,Belenenses,Aves,"Nuno Miguel Serrano Almeida, Portugal",2,2,5,2,14
+121,Primeira Liga,3556,2018-12-22T20:30:00+00:00,Moreirense,Boavista,"Manuel Oliveira, Portugal",2,1,2,1,14
+122,Primeira Liga,3553,2018-12-23T15:00:00+00:00,FC Porto,Rio Ave,"Tiago Martins, Portugal",2,1,2,1,14
+123,Primeira Liga,3557,2018-12-23T15:00:00+00:00,Nacional,Chaves,"Vitor Ferreira, Portugal",1,0,2,0,14
+124,Primeira Liga,3552,2018-12-23T17:30:00+00:00,Benfica,SC Braga,"Artur Soares Dias, Portugal",2,0,6,2,14
+125,Primeira Liga,3555,2018-12-23T20:00:00+00:00,Guimaraes,Sporting CP,"Luis Miguel Branco Godinho, Portugal",1,0,1,0,14
+126,Primeira Liga,3566,2019-01-02T16:00:00+00:00,Santa Clara,Tondela,"Claudio Filipe Ruivo Pereira, Portugal",0,0,1,2,15
+127,Primeira Liga,3561,2019-01-02T18:00:00+00:00,Boavista,Vitoria Setubal,"Tiago Martins, Portugal",0,0,1,0,15
+128,Primeira Liga,3563,2019-01-02T18:00:00+00:00,Nacional,Guimaraes,"Helder Malheiro, Portugal",1,0,1,0,15
+129,Primeira Liga,3567,2019-01-02T18:00:00+00:00,SC Braga,Maritimo,"Manuel Oliveira, Portugal",2,0,2,0,15
+130,Primeira Liga,3564,2019-01-02T20:15:00+00:00,Portimonense,Benfica,"Manuel Mota da Silva, Portugal",2,0,2,0,15
+131,Primeira Liga,3565,2019-01-02T20:15:00+00:00,Rio Ave,Moreirense,"Fabio Jose Costa Verissimo, Portugal",1,0,1,2,15
+132,Primeira Liga,3562,2019-01-03T16:00:00+00:00,Chaves,Feirense,"Artur Soares Dias, Portugal",0,0,0,0,15
+133,Primeira Liga,3568,2019-01-03T18:00:00+00:00,Sporting CP,Belenenses,"Joao Carlos Santos Capela, Portugal",0,0,2,1,15
+134,Primeira Liga,3560,2019-01-03T20:15:00+00:00,Aves,FC Porto,"Joao Pedro Pinheiro, Portugal",0,1,0,1,15
+135,Primeira Liga,3573,2019-01-05T20:30:00+00:00,Maritimo,Portimonense,"Tiago Martins, Portugal",1,0,2,1,16
+136,Primeira Liga,3569,2019-01-06T15:00:00+00:00,Belenenses,Guimaraes,"Artur Soares Dias, Portugal",1,0,1,0,16
+137,Primeira Liga,3572,2019-01-06T15:00:00+00:00,Feirense,Santa Clara,"Carlos Xistra, Portugal",0,1,2,2,16
+138,Primeira Liga,3577,2019-01-06T15:00:00+00:00,Vitoria Setubal,Chaves,"Hugo Miguel, Portugal",0,0,0,0,16
+139,Primeira Liga,3570,2019-01-06T17:30:00+00:00,Benfica,Rio Ave,"Luis Miguel Branco Godinho, Portugal",2,2,4,2,16
+140,Primeira Liga,3575,2019-01-06T20:00:00+00:00,SC Braga,Boavista,"Joao Carlos Santos Capela, Portugal",1,0,1,0,16
+141,Primeira Liga,3574,2019-01-07T17:00:00+00:00,Moreirense,Aves,"Manuel Mota da Silva, Portugal",0,0,1,0,16
+142,Primeira Liga,3576,2019-01-07T19:00:00+00:00,Tondela,Sporting CP,"Nuno Miguel Serrano Almeida, Portugal",1,0,2,1,16
+143,Primeira Liga,3571,2019-01-07T21:15:00+00:00,FC Porto,Nacional,"Rui Manuel Gomes Costa, Portugal",2,1,3,1,16
+144,Primeira Liga,3583,2019-01-10T20:15:00+00:00,Portimonense,SC Braga,"Fabio Jose Costa Verissimo, Portugal",1,0,1,1,17
+145,Primeira Liga,3585,2019-01-11T19:00:00+00:00,Santa Clara,Benfica,"Joao Carlos Santos Capela, Portugal",0,1,0,2,17
+146,Primeira Liga,3578,2019-01-11T19:00:00+00:00,Aves,Feirense,"Manuel Oliveira, Portugal",1,0,1,1,17
+147,Primeira Liga,3581,2019-01-11T21:15:00+00:00,Guimaraes,Moreirense,"Carlos Xistra, Portugal",0,0,1,0,17
+148,Primeira Liga,3586,2019-01-12T15:30:00+00:00,Sporting CP,FC Porto,"Hugo Miguel, Portugal",0,0,0,0,17
+149,Primeira Liga,3579,2019-01-12T20:30:00+00:00,Boavista,Maritimo,"Luis Miguel Branco Godinho, Portugal",0,0,0,1,17
+150,Primeira Liga,3582,2019-01-13T15:00:00+00:00,Nacional,Belenenses,"Andre Filipe Domingues Narciso, Portugal",0,0,0,1,17
+151,Primeira Liga,3580,2019-01-13T17:30:00+00:00,Chaves,Tondela,"Antonio Nobre, Portugal",1,0,2,1,17
+152,Primeira Liga,3584,2019-01-13T20:00:00+00:00,Rio Ave,Vitoria Setubal,"Manuel Mota da Silva, Portugal",1,0,1,1,17
+153,Primeira Liga,3592,2019-01-18T18:45:00+00:00,Nacional,SC Braga,"Hugo Miguel, Portugal",0,0,0,3,18
+154,Primeira Liga,3590,2019-01-18T19:00:00+00:00,Chaves,FC Porto,"Nuno Miguel Serrano Almeida, Portugal",0,2,1,4,18
+155,Primeira Liga,3591,2019-01-18T21:15:00+00:00,Guimaraes,Benfica,"Tiago Martins, Portugal",0,0,0,1,18
+156,Primeira Liga,3588,2019-01-19T15:30:00+00:00,Belenenses,Tondela,"Carlos Xistra, Portugal",1,2,2,2,18
+157,Primeira Liga,3595,2019-01-19T18:00:00+00:00,Sporting CP,Moreirense,"Rui Manuel Gomes Costa, Portugal",2,1,2,1,18
+158,Primeira Liga,3594,2019-01-19T20:30:00+00:00,Santa Clara,Maritimo,"Helder Malheiro, Portugal",0,1,0,1,18
+159,Primeira Liga,3587,2019-01-20T15:00:00+00:00,Aves,Vitoria Setubal,"Artur Soares Dias, Portugal",1,0,2,1,18
+160,Primeira Liga,3589,2019-01-20T17:30:00+00:00,Boavista,Portimonense,"Manuel Mota da Silva, Portugal",0,1,0,2,18
+161,Primeira Liga,3593,2019-01-20T20:00:00+00:00,Rio Ave,Feirense,"Joao Pedro Pinheiro, Portugal",0,0,0,0,18
+162,Primeira Liga,3599,2019-01-28T17:00:00+00:00,Maritimo,Rio Ave,"Hugo Miguel, Portugal",0,0,0,2,19
+163,Primeira Liga,3600,2019-01-28T19:00:00+00:00,Moreirense,Nacional,"Manuel Mota da Silva, Portugal",1,0,2,1,19
+164,Primeira Liga,3603,2019-01-28T19:00:00+00:00,Tondela,Aves,"Vitor Ferreira, Portugal",0,0,0,2,19
+165,Primeira Liga,3598,2019-01-28T21:15:00+00:00,Feirense,Guimaraes,"Nuno Miguel Serrano Almeida, Portugal",1,2,1,2,19
+166,Primeira Liga,3596,2019-01-29T19:00:00+00:00,Benfica,Boavista,"Rui Manuel Gomes Costa, Portugal",2,1,5,1,19
+167,Primeira Liga,3601,2019-01-29T19:00:00+00:00,Portimonense,Chaves,"Andre Filipe Domingues Narciso, Portugal",0,1,0,1,19
+168,Primeira Liga,3602,2019-01-29T21:15:00+00:00,SC Braga,Santa Clara,"Joao Carlos Santos Capela, Portugal",0,0,1,0,19
+169,Primeira Liga,3604,2019-01-30T19:00:00+00:00,Vitoria Setubal,Sporting CP,"Helder Malheiro, Portugal",1,0,1,1,19
+170,Primeira Liga,3597,2019-01-30T21:15:00+00:00,FC Porto,Belenenses,"Luis Miguel Branco Godinho, Portugal",2,0,3,0,19
+171,Primeira Liga,3611,2019-02-01T20:30:00+00:00,Rio Ave,Tondela,"Joao Carlos Santos Capela, Portugal",1,1,2,2,20
+172,Primeira Liga,3608,2019-02-02T15:30:00+00:00,Chaves,Maritimo,"Luis Miguel Branco Godinho, Portugal",0,0,1,0,20
+173,Primeira Liga,3607,2019-02-02T18:00:00+00:00,Boavista,Feirense,"Hugo Miguel, Portugal",0,0,2,0,20
+174,Primeira Liga,3605,2019-02-02T20:30:00+00:00,Aves,SC Braga,"Helder Malheiro, Portugal",0,0,0,2,20
+175,Primeira Liga,3610,2019-02-03T15:00:00+00:00,Nacional,Vitoria Setubal,"Joao Malheiro Pinto, Portugal",0,0,0,0,20
+176,Primeira Liga,3612,2019-02-03T15:00:00+00:00,Santa Clara,Portimonense,"Vitor Ferreira, Portugal",1,1,2,1,20
+177,Primeira Liga,3613,2019-02-03T17:30:00+00:00,Sporting CP,Benfica,"Artur Soares Dias, Portugal",1,2,2,4,20
+178,Primeira Liga,3609,2019-02-03T20:00:00+00:00,Guimaraes,FC Porto,"Rui Manuel Gomes Costa, Portugal",0,0,0,0,20
+179,Primeira Liga,3606,2019-02-04T20:15:00+00:00,Belenenses,Moreirense,"Claudio Filipe Ruivo Pereira, Portugal",0,0,0,1,20
+180,Primeira Liga,3618,2019-02-08T20:30:00+00:00,Moreirense,FC Porto,"Jorge de Sousa, Portugal",0,0,1,1,21
+181,Primeira Liga,3617,2019-02-09T15:30:00+00:00,Maritimo,Aves,"Rui Manuel Gomes Costa, Portugal",0,1,0,1,21
+182,Primeira Liga,3619,2019-02-09T18:00:00+00:00,Portimonense,Rio Ave,"Helder Malheiro, Portugal",0,1,0,1,21
+183,Primeira Liga,3621,2019-02-09T20:30:00+00:00,Tondela,Guimaraes,"Manuel Oliveira, Portugal",0,0,1,0,21
+184,Primeira Liga,3615,2019-02-10T15:00:00+00:00,Boavista,Santa Clara,"Artur Soares Dias, Portugal",0,0,1,0,21
+185,Primeira Liga,3620,2019-02-10T15:00:00+00:00,SC Braga,Chaves,"Hugo Miguel, Portugal",0,0,2,1,21
+186,Primeira Liga,3614,2019-02-10T17:30:00+00:00,Benfica,Nacional,"Nuno Miguel Serrano Almeida, Portugal",3,0,10,0,21
+187,Primeira Liga,3616,2019-02-10T20:00:00+00:00,Feirense,Sporting CP,"Manuel Mota da Silva, Portugal",0,1,1,3,21
+188,Primeira Liga,3622,2019-02-11T20:15:00+00:00,Vitoria Setubal,Belenenses,"Joao Carlos Santos Capela, Portugal",0,0,0,0,21
+189,Primeira Liga,3630,2019-02-15T20:30:00+00:00,Rio Ave,Santa Clara,"Vitor Ferreira, Portugal",1,1,1,2,22
+190,Primeira Liga,3629,2019-02-16T15:30:00+00:00,Nacional,Feirense,"Joao Pedro Pinheiro, Portugal",1,0,4,0,22
+191,Primeira Liga,3627,2019-02-16T18:00:00+00:00,Guimaraes,Portimonense,"Artur Soares Dias, Portugal",1,0,2,0,22
+192,Primeira Liga,3626,2019-02-16T20:30:00+00:00,FC Porto,Vitoria Setubal,"Nuno Miguel Serrano Almeida, Portugal",1,0,2,0,22
+193,Primeira Liga,3624,2019-02-17T15:00:00+00:00,Belenenses,Maritimo,"Antonio Nobre, Portugal",0,0,0,1,22
+194,Primeira Liga,3628,2019-02-17T15:00:00+00:00,Moreirense,Tondela,"Rui Manuel Gomes Costa, Portugal",1,0,2,0,22
+195,Primeira Liga,3625,2019-02-17T17:30:00+00:00,Chaves,Boavista,"Manuel Oliveira, Portugal",1,0,1,1,22
+196,Primeira Liga,3631,2019-02-17T20:00:00+00:00,Sporting CP,SC Braga,"Jorge de Sousa, Portugal",1,0,3,0,22
+197,Primeira Liga,3623,2019-02-18T20:15:00+00:00,Aves,Benfica,"Hugo Miguel, Portugal",0,2,0,3,22
+198,Primeira Liga,3638,2019-02-22T19:00:00+00:00,SC Braga,Belenenses,"Nuno Miguel Serrano Almeida, Portugal",0,1,0,2,23
+199,Primeira Liga,3639,2019-02-22T21:15:00+00:00,Tondela,FC Porto,"Luis Miguel Branco Godinho, Portugal",0,1,0,3,23
+200,Primeira Liga,3634,2019-02-23T15:30:00+00:00,Feirense,Moreirense,"Manuel Oliveira, Portugal",0,2,1,3,23
+201,Primeira Liga,3636,2019-02-23T18:00:00+00:00,Portimonense,Aves,"Jorge de Sousa, Portugal",0,1,1,1,23
+202,Primeira Liga,3640,2019-02-23T20:30:00+00:00,Vitoria Setubal,Guimaraes,"Hugo Miguel, Portugal",0,1,1,1,23
+203,Primeira Liga,3637,2019-02-24T15:30:00+00:00,Santa Clara,Nacional,"Antonio Nobre, Portugal",0,0,2,0,23
+204,Primeira Liga,3633,2019-02-24T17:30:00+00:00,Boavista,Rio Ave,"Fabio Jose Costa Verissimo, Portugal",1,0,1,0,23
+205,Primeira Liga,3635,2019-02-25T19:00:00+00:00,Maritimo,Sporting CP,"Tiago Martins, Portugal",0,0,0,0,23
+206,Primeira Liga,3632,2019-02-25T21:15:00+00:00,Benfica,Chaves,"Manuel Mota da Silva, Portugal",3,0,4,0,23
+207,Primeira Liga,3641,2019-03-01T20:30:00+00:00,Aves,Boavista,"Nuno Miguel Serrano Almeida, Portugal",0,0,2,0,24
+208,Primeira Liga,3647,2019-03-02T15:30:00+00:00,Nacional,Tondela,"Helder Malheiro, Portugal",1,1,3,2,24
+209,Primeira Liga,3646,2019-03-02T18:00:00+00:00,Moreirense,Vitoria Setubal,"Joao Malheiro Pinto, Portugal",1,1,1,1,24
+210,Primeira Liga,3644,2019-03-02T20:30:00+00:00,FC Porto,Benfica,"Jorge de Sousa, Portugal",1,1,1,2,24
+211,Primeira Liga,3642,2019-03-03T15:00:00+00:00,Belenenses,Feirense,"Luis Miguel Branco Godinho, Portugal",2,0,4,0,24
+212,Primeira Liga,3643,2019-03-03T15:00:00+00:00,Chaves,Santa Clara,"Claudio Filipe Ruivo Pereira, Portugal",0,0,0,0,24
+213,Primeira Liga,3648,2019-03-03T17:30:00+00:00,Rio Ave,SC Braga,"Artur Soares Dias, Portugal",0,0,1,2,24
+214,Primeira Liga,3649,2019-03-03T20:00:00+00:00,Sporting CP,Portimonense,"Joao Carlos Santos Capela, Portugal",2,1,3,1,24
+215,Primeira Liga,3645,2019-03-04T20:15:00+00:00,Guimaraes,Maritimo,"Joao Pedro Pinheiro, Portugal",0,0,1,0,24
+216,Primera Division,214022,2019-08-16T19:00:00+00:00,Athletic Club,Barcelona,Carlos Del Cerro,0,0,1,0,1
+217,Primera Division,214023,2019-08-17T15:00:00+00:00,Celta Vigo,Real Madrid,Javier Estrada,0,1,1,3,1
+218,Primera Division,214024,2019-08-17T17:00:00+00:00,Valencia,Real Sociedad,Jesús Gil,0,0,1,1,1
+219,Primera Division,214030,2019-08-17T18:00:00+00:00,Mallorca,Eibar,Mario Melero,1,0,2,1,1
+220,Primera Division,214025,2019-08-17T19:00:00+00:00,Leganes,Osasuna,Javier Alberola,0,0,0,1,1
+221,Primera Division,214026,2019-08-17T19:00:00+00:00,Villarreal,Granada CF,Adrián Cordero,1,1,4,4,1
+222,Primera Division,214027,2019-08-18T15:00:00+00:00,Alaves,Levante,César Soto,0,0,1,0,1
+223,Primera Division,214028,2019-08-18T17:00:00+00:00,Espanyol,Sevilla,Juan Martínez,0,1,0,2,1
+224,Primera Division,214031,2019-08-18T19:00:00+00:00,Real Betis,Valladolid,Santiago Jaime,0,0,1,2,1
+225,Primera Division,214029,2019-08-18T20:00:00+00:00,Atletico Madrid,Getafe,Guillermo Cuadra,1,0,1,0,1
+226,Primera Division,214032,2019-08-23T18:00:00+00:00,Granada CF,Sevilla,José Sánchez,0,0,0,1,2
+227,Primera Division,214033,2019-08-23T20:00:00+00:00,Levante,Villarreal,José Munuera,0,1,2,1,2
+228,Primera Division,214034,2019-08-24T15:00:00+00:00,Osasuna,Eibar,David Medié,0,0,0,0,2
+229,Primera Division,214035,2019-08-24T17:00:00+00:00,Real Madrid,Valladolid,Pablo González,0,0,1,1,2
+230,Primera Division,214036,2019-08-24T19:00:00+00:00,Celta Vigo,Valencia,Alejandro Hernández,1,0,1,0,2
+231,Primera Division,214037,2019-08-24T19:00:00+00:00,Getafe,Athletic Club,Antonio Mateu,1,1,1,1,2
+232,Primera Division,214038,2019-08-25T15:00:00+00:00,Alaves,Espanyol,Eduardo Prieto,0,0,0,0,2
+233,Primera Division,214039,2019-08-25T15:00:00+00:00,Mallorca,Real Sociedad,Valentín Pizarro,0,0,0,1,2
+234,Primera Division,214041,2019-08-25T17:00:00+00:00,Leganes,Atletico Madrid,Ricardo De Burgos,0,0,0,1,2
+235,Primera Division,214040,2019-08-25T19:00:00+00:00,Barcelona,Real Betis,José González,1,1,5,2,2
+236,Primera Division,214042,2019-08-30T18:00:00+00:00,Sevilla,Celta Vigo,Carlos Del Cerro,0,0,1,1,3
+237,Primera Division,214043,2019-08-30T20:00:00+00:00,Athletic Club,Real Sociedad,Javier Estrada,2,0,2,0,3
+238,Primera Division,214044,2019-08-31T15:00:00+00:00,Osasuna,Barcelona,Juan Martínez,1,0,2,2,3
+239,Primera Division,214045,2019-08-31T17:00:00+00:00,Getafe,Alaves,Mario Melero,1,1,1,1,3
+240,Primera Division,214046,2019-08-31T17:00:00+00:00,Levante,Valladolid,Adrián Cordero,0,0,2,0,3
+241,Primera Division,214047,2019-08-31T19:00:00+00:00,Real Betis,Leganes,Guillermo Cuadra,0,0,2,1,3
+242,Primera Division,214048,2019-09-01T15:00:00+00:00,Valencia,Mallorca,Javier Alberola,1,0,2,0,3
+243,Primera Division,214049,2019-09-01T17:00:00+00:00,Atletico Madrid,Eibar,Santiago Jaime,1,2,3,2,3
+244,Primera Division,214050,2019-09-01T17:00:00+00:00,Espanyol,Granada CF,César Soto,0,1,0,3,3
+245,Primera Division,214051,2019-09-01T19:00:00+00:00,Villarreal,Real Madrid,Jesús Gil,1,1,2,2,3
+246,Primera Division,214058,2019-09-13T19:00:00+00:00,Mallorca,Athletic Club,Pablo González,0,0,0,0,4
+247,Primera Division,214059,2019-09-14T11:00:00+00:00,Real Madrid,Levante,Ricardo De Burgos,3,0,3,2,4
+248,Primera Division,214057,2019-09-14T14:00:00+00:00,Leganes,Villarreal,David Medié,0,2,0,3,4
+249,Primera Division,214060,2019-09-14T16:30:00+00:00,Real Sociedad,Atletico Madrid,Antonio Mateu,0,0,2,0,4
+250,Primera Division,214053,2019-09-14T19:00:00+00:00,Barcelona,Valencia,José Sánchez,2,1,5,2,4
+251,Primera Division,214056,2019-09-15T10:00:00+00:00,Eibar,Espanyol,Valentín Pizarro,0,0,1,2,4
+252,Primera Division,214052,2019-09-15T12:00:00+00:00,Alaves,Sevilla,Alejandro Hernández,0,1,0,1,4
+253,Primera Division,214055,2019-09-15T14:00:00+00:00,Celta Vigo,Granada CF,Eduardo Prieto,0,1,0,2,4
+254,Primera Division,214061,2019-09-15T16:30:00+00:00,Valladolid,Osasuna,José Munuera,0,0,1,1,4
+255,Primera Division,214054,2019-09-15T19:00:00+00:00,Real Betis,Getafe,José González,0,1,1,1,4
+256,Primera Division,214068,2019-09-20T19:00:00+00:00,Osasuna,Real Betis,Carlos Del Cerro,0,0,0,0,5
+257,Primera Division,214071,2019-09-21T11:00:00+00:00,Villarreal,Valladolid,César Soto,0,0,2,0,5
+258,Primera Division,214067,2019-09-21T14:00:00+00:00,Levante,Eibar,Javier Alberola,0,0,0,0,5
+259,Primera Division,214063,2019-09-21T16:30:00+00:00,Atletico Madrid,Celta Vigo,Mario Melero,0,0,0,0,5
+260,Primera Division,214066,2019-09-21T19:00:00+00:00,Granada CF,Barcelona,Guillermo Cuadra,1,0,2,0,5
+261,Primera Division,214065,2019-09-22T10:00:00+00:00,Getafe,Mallorca,Santiago Jaime,2,0,4,2,5
+262,Primera Division,214064,2019-09-22T12:00:00+00:00,Espanyol,Real Sociedad,Adrián Cordero,0,2,1,3,5
+263,Primera Division,214070,2019-09-22T14:00:00+00:00,Valencia,Leganes,Javier Estrada,1,1,1,1,5
+264,Primera Division,214062,2019-09-22T16:30:00+00:00,Athletic Club,Alaves,Jesús Gil,1,0,2,0,5
+265,Primera Division,214069,2019-09-22T19:00:00+00:00,Sevilla,Real Madrid,Juan Martínez,0,0,0,1,5
+266,Primera Division,214081,2019-09-24T17:00:00+00:00,Valladolid,Granada CF,Valentín Pizarro,1,1,1,1,6
+267,Primera Division,214073,2019-09-24T18:00:00+00:00,Real Betis,Levante,Eduardo Prieto,1,1,3,1,6
+268,Primera Division,214072,2019-09-24T19:00:00+00:00,Barcelona,Villarreal,Ricardo De Burgos,2,1,2,1,6
+269,Primera Division,214076,2019-09-25T17:00:00+00:00,Leganes,Athletic Club,José González,0,0,1,1,6
+270,Primera Division,214077,2019-09-25T17:00:00+00:00,Mallorca,Atletico Madrid,Alejandro Hernández,0,1,0,2,6
+271,Primera Division,214080,2019-09-25T18:00:00+00:00,Valencia,Getafe,José Munuera,3,1,3,3,6
+272,Primera Division,214078,2019-09-25T19:00:00+00:00,Real Madrid,Osasuna,Antonio Mateu,1,0,2,0,6
+273,Primera Division,214075,2019-09-26T17:00:00+00:00,Eibar,Sevilla,Pablo González,0,2,3,2,6
+274,Primera Division,214074,2019-09-26T18:00:00+00:00,Celta Vigo,Espanyol,José Sánchez,0,0,1,1,6
+275,Primera Division,214079,2019-09-26T19:00:00+00:00,Real Sociedad,Alaves,David Medié,3,0,3,0,6
+276,Primera Division,214091,2019-09-27T19:00:00+00:00,Villarreal,Real Betis,Javier Estrada,1,0,5,1,7
+277,Primera Division,214083,2019-09-28T11:00:00+00:00,Athletic Club,Valencia,Mario Melero,0,1,0,1,7
+278,Primera Division,214087,2019-09-28T14:00:00+00:00,Getafe,Barcelona,Jesús Gil,0,1,0,2,7
+279,Primera Division,214088,2019-09-28T16:30:00+00:00,Granada CF,Leganes,Adrián Cordero,1,0,1,0,7
+280,Primera Division,214084,2019-09-28T19:00:00+00:00,Atletico Madrid,Real Madrid,José González,0,0,0,0,7
+281,Primera Division,214086,2019-09-29T10:00:00+00:00,Espanyol,Valladolid,Guillermo Cuadra,0,1,0,2,7
+282,Primera Division,214085,2019-09-29T12:00:00+00:00,Eibar,Celta Vigo,Juan Martínez,0,0,2,0,7
+283,Primera Division,214082,2019-09-29T14:00:00+00:00,Alaves,Mallorca,Carlos Del Cerro,0,0,2,0,7
+284,Primera Division,214089,2019-09-29T16:30:00+00:00,Levante,Osasuna,César Soto,1,0,1,1,7
+285,Primera Division,214090,2019-09-29T19:00:00+00:00,Sevilla,Real Sociedad,Javier Alberola,1,1,3,2,7
+286,Primera Division,214093,2019-10-04T19:00:00+00:00,Real Betis,Eibar,Alejandro Hernández,0,1,1,1,8
+287,Primera Division,214095,2019-10-05T11:00:00+00:00,Leganes,Levante,José Munuera,0,1,1,2,8
+288,Primera Division,214098,2019-10-05T14:00:00+00:00,Real Madrid,Granada CF,Santiago Jaime,2,0,4,2,8
+289,Primera Division,214100,2019-10-05T16:30:00+00:00,Valencia,Alaves,Eduardo Prieto,1,0,2,1,8
+290,Primera Division,214097,2019-10-05T19:00:00+00:00,Osasuna,Villarreal,Valentín Pizarro,0,1,2,1,8
+291,Primera Division,214096,2019-10-06T10:00:00+00:00,Mallorca,Espanyol,Ricardo De Burgos,1,0,2,0,8
+292,Primera Division,214094,2019-10-06T12:00:00+00:00,Celta Vigo,Athletic Club,David Medié,0,0,1,0,8
+293,Primera Division,214101,2019-10-06T14:00:00+00:00,Valladolid,Atletico Madrid,José Sánchez,0,0,0,0,8
+294,Primera Division,214099,2019-10-06T16:30:00+00:00,Real Sociedad,Getafe,Pablo González,1,0,1,2,8
+295,Primera Division,214092,2019-10-06T19:00:00+00:00,Barcelona,Sevilla,Antonio Mateu,3,0,4,0,8
+296,Primera Division,214108,2019-10-18T19:00:00+00:00,Granada CF,Osasuna,Javier Estrada,1,0,1,0,9
+297,Primera Division,214105,2019-10-19T11:00:00+00:00,Eibar,Barcelona,Mario Melero,0,1,0,3,9
+298,Primera Division,214104,2019-10-19T14:00:00+00:00,Atletico Madrid,Valencia,Adrián Cordero,1,0,1,1,9
+299,Primera Division,214107,2019-10-19T16:30:00+00:00,Getafe,Leganes,Juan Martínez,0,0,2,0,9
+300,Primera Division,214109,2019-10-19T19:00:00+00:00,Mallorca,Real Madrid,Javier Alberola,1,0,1,0,9
+301,Primera Division,214102,2019-10-20T10:00:00+00:00,Alaves,Celta Vigo,José González,0,0,2,0,9
+302,Primera Division,214110,2019-10-20T12:00:00+00:00,Real Sociedad,Real Betis,César Soto,2,1,3,1,9
+303,Primera Division,214106,2019-10-20T14:00:00+00:00,Espanyol,Villarreal,Carlos Del Cerro,0,1,0,1,9
+304,Primera Division,214103,2019-10-20T16:30:00+00:00,Athletic Club,Valladolid,Jesús Gil,1,0,1,1,9
+305,Primera Division,214111,2019-10-20T19:00:00+00:00,Sevilla,Levante,Guillermo Cuadra,0,0,1,0,9
+306,Primera Division,214120,2019-10-25T19:00:00+00:00,Villarreal,Alaves,David Medié,1,0,4,1,10
+307,Primera Division,214116,2019-10-26T14:00:00+00:00,Leganes,Mallorca,Eduardo Prieto,1,0,1,0,10
+308,Primera Division,214121,2019-10-26T16:30:00+00:00,Valladolid,Eibar,José Munuera,2,0,2,0,10
+309,Primera Division,214112,2019-10-26T19:00:00+00:00,Atletico Madrid,Athletic Club,Alejandro Hernández,1,0,2,0,10
+310,Primera Division,214114,2019-10-27T10:00:00+00:00,Celta Vigo,Real Sociedad,Valentín Pizarro,0,0,0,1,10
+311,Primera Division,214115,2019-10-27T12:00:00+00:00,Granada CF,Real Betis,Antonio Mateu,0,0,1,0,10
+312,Primera Division,214117,2019-10-27T14:00:00+00:00,Levante,Espanyol,Pablo González,0,1,0,1,10
+313,Primera Division,214119,2019-10-27T16:30:00+00:00,Sevilla,Getafe,José Sánchez,0,0,2,0,10
+314,Primera Division,214118,2019-10-27T19:00:00+00:00,Osasuna,Valencia,Santiago Jaime,1,1,3,1,10
+315,Primera Division,214113,2019-12-18T19:00:00+00:00,Barcelona,Real Madrid,Alejandro Hernández,0,0,0,0,10
+316,Primera Division,214122,2019-10-29T18:00:00+00:00,Alaves,Atletico Madrid,Javier Estrada,0,0,1,1,11
+317,Primera Division,214124,2019-10-29T20:15:00+00:00,Barcelona,Valladolid,Javier Alberola,3,1,5,1,11
+318,Primera Division,214130,2019-10-30T18:00:00+00:00,Real Sociedad,Levante,Mario Melero,0,2,1,2,11
+319,Primera Division,214131,2019-10-30T18:00:00+00:00,Valencia,Sevilla,Carlos Del Cerro,0,1,1,1,11
+320,Primera Division,214123,2019-10-30T19:00:00+00:00,Athletic Club,Espanyol,Juan Martínez,2,0,3,0,11
+321,Primera Division,214125,2019-10-30T20:00:00+00:00,Real Betis,Celta Vigo,Jesús Gil,1,0,2,1,11
+322,Primera Division,214129,2019-10-30T20:15:00+00:00,Real Madrid,Leganes,César Soto,3,0,5,0,11
+323,Primera Division,214126,2019-10-31T18:00:00+00:00,Eibar,Villarreal,Guillermo Cuadra,0,0,2,1,11
+324,Primera Division,214128,2019-10-31T18:00:00+00:00,Mallorca,Osasuna,Adrián Cordero,1,0,2,2,11
+325,Primera Division,214127,2019-10-31T20:15:00+00:00,Getafe,Granada CF,José González,2,0,3,1,11
+326,Primera Division,214133,2019-11-02T12:00:00+00:00,Espanyol,Valencia,Valentín Pizarro,1,0,1,2,12
+327,Primera Division,214136,2019-11-02T15:00:00+00:00,Levante,Barcelona,Alejandro Hernández,0,1,3,1,12
+328,Primera Division,214139,2019-11-02T17:30:00+00:00,Sevilla,Atletico Madrid,José González,1,0,1,1,12
+329,Primera Division,214138,2019-11-02T20:00:00+00:00,Real Madrid,Real Betis,José Sánchez,0,0,0,0,12
+330,Primera Division,214141,2019-11-03T11:00:00+00:00,Valladolid,Mallorca,David Medié,1,0,3,0,12
+331,Primera Division,214140,2019-11-03T13:00:00+00:00,Villarreal,Athletic Club,Santiago Jaime,0,0,0,0,12
+332,Primera Division,214137,2019-11-03T15:00:00+00:00,Osasuna,Alaves,José Munuera,3,1,4,2,12
+333,Primera Division,214132,2019-11-03T17:30:00+00:00,Celta Vigo,Getafe,Antonio Mateu,0,1,0,1,12
+334,Primera Division,214135,2019-11-03T17:30:00+00:00,Leganes,Eibar,Pablo González,1,1,1,2,12
+335,Primera Division,214134,2019-11-03T20:00:00+00:00,Granada CF,Real Sociedad,Eduardo Prieto,1,1,1,2,12
+336,Primera Division,214150,2019-11-08T20:00:00+00:00,Real Sociedad,Leganes,Juan Martínez,0,0,1,1,13
+337,Primera Division,214142,2019-11-09T12:00:00+00:00,Alaves,Valladolid,Mario Melero,2,0,3,0,13
+338,Primera Division,214151,2019-11-09T15:00:00+00:00,Valencia,Granada CF,Javier Estrada,0,0,2,0,13
+339,Primera Division,214147,2019-11-09T17:30:00+00:00,Eibar,Real Madrid,Adrián Cordero,0,3,0,4,13
+340,Primera Division,214145,2019-11-09T20:00:00+00:00,Barcelona,Celta Vigo,Guillermo Cuadra,2,1,4,1,13
+341,Primera Division,214149,2019-11-10T11:00:00+00:00,Mallorca,Villarreal,Carlos Del Cerro,2,0,3,1,13
+342,Primera Division,214143,2019-11-10T13:00:00+00:00,Athletic Club,Levante,Javier Alberola,0,1,2,1,13
+343,Primera Division,214144,2019-11-10T15:00:00+00:00,Atletico Madrid,Espanyol,Jesús Gil,1,1,3,1,13
+344,Primera Division,214148,2019-11-10T17:30:00+00:00,Getafe,Osasuna,César Soto,0,0,0,0,13
+345,Primera Division,214146,2019-11-10T20:00:00+00:00,Real Betis,Sevilla,Alejandro Hernández,1,1,1,2,13
+346,Primera Division,214157,2019-11-22T20:00:00+00:00,Levante,Mallorca,Valentín Pizarro,0,0,2,1,14
+347,Primera Division,214156,2019-11-23T12:00:00+00:00,Leganes,Barcelona,Santiago Jaime,1,0,1,2,14
+348,Primera Division,214152,2019-11-23T15:00:00+00:00,Real Betis,Valencia,Ricardo De Burgos,1,1,2,1,14
+349,Primera Division,214155,2019-11-23T17:30:00+00:00,Granada CF,Atletico Madrid,David Medié,0,0,1,1,14
+350,Primera Division,214159,2019-11-23T20:00:00+00:00,Real Madrid,Real Sociedad,Jesús Gil,1,1,3,1,14
+351,Primera Division,214154,2019-11-24T11:00:00+00:00,Espanyol,Getafe,Pablo González,1,1,1,1,14
+352,Primera Division,214158,2019-11-24T13:00:00+00:00,Osasuna,Athletic Club,José Sánchez,0,1,1,2,14
+353,Primera Division,214153,2019-11-24T15:00:00+00:00,Eibar,Alaves,Antonio Mateu,0,0,0,2,14
+354,Primera Division,214160,2019-11-24T17:30:00+00:00,Villarreal,Celta Vigo,José Munuera,0,0,1,3,14
+355,Primera Division,214161,2019-11-24T20:00:00+00:00,Valladolid,Sevilla,Eduardo Prieto,0,1,0,1,14
+356,Primera Division,214165,2019-11-29T20:00:00+00:00,Celta Vigo,Valladolid,Javier Alberola,0,0,0,0,15
+357,Primera Division,214162,2019-11-30T12:00:00+00:00,Alaves,Real Madrid,Guillermo Cuadra,0,0,1,2,15
+358,Primera Division,214169,2019-11-30T15:00:00+00:00,Real Sociedad,Eibar,Carlos Del Cerro,1,1,4,1,15
+359,Primera Division,214168,2019-11-30T17:30:00+00:00,Mallorca,Real Betis,Juan Martínez,0,2,1,2,15
+360,Primera Division,214171,2019-11-30T20:00:00+00:00,Valencia,Villarreal,César Soto,0,0,2,1,15
+361,Primera Division,214170,2019-12-01T11:00:00+00:00,Sevilla,Leganes,Ricardo De Burgos,0,0,1,0,15
+362,Primera Division,214163,2019-12-01T13:00:00+00:00,Athletic Club,Granada CF,Adrián Cordero,1,0,2,0,15
+363,Primera Division,214166,2019-12-01T15:00:00+00:00,Espanyol,Osasuna,Mario Melero,1,0,2,4,15
+364,Primera Division,214167,2019-12-01T17:30:00+00:00,Getafe,Levante,Javier Estrada,0,0,4,0,15
+365,Primera Division,214164,2019-12-01T20:00:00+00:00,Atletico Madrid,Barcelona,Antonio Mateu,0,0,0,1,15
+366,Primera Division,214180,2019-12-06T20:00:00+00:00,Villarreal,Atletico Madrid,Alejandro Hernández,0,0,0,0,16
+367,Primera Division,214179,2019-12-07T12:00:00+00:00,Real Madrid,Espanyol,Santiago Jaime,1,0,2,0,16
+368,Primera Division,214175,2019-12-07T15:00:00+00:00,Granada CF,Alaves,Jesús Gil,0,0,3,0,16
+369,Primera Division,214177,2019-12-07T17:30:00+00:00,Levante,Valencia,David Medié,2,1,2,4,16
+370,Primera Division,214172,2019-12-07T20:00:00+00:00,Barcelona,Mallorca,José Munuera,4,1,5,2,16
+371,Primera Division,214174,2019-12-08T11:00:00+00:00,Eibar,Getafe,Eduardo Prieto,0,0,0,1,16
+372,Primera Division,214173,2019-12-08T13:00:00+00:00,Real Betis,Athletic Club,Valentín Pizarro,3,1,3,2,16
+373,Primera Division,214181,2019-12-08T15:00:00+00:00,Valladolid,Real Sociedad,Pablo González,0,0,0,0,16
+374,Primera Division,214176,2019-12-08T17:30:00+00:00,Leganes,Celta Vigo,José Sánchez,2,0,3,2,16
+375,Primera Division,214178,2019-12-08T20:00:00+00:00,Osasuna,Sevilla,Javier Estrada,1,1,1,1,16
+376,Primera Division,214182,2019-12-13T20:00:00+00:00,Alaves,Leganes,César Soto,0,1,1,1,17
+377,Primera Division,214188,2019-12-14T12:00:00+00:00,Granada CF,Levante,Carlos Del Cerro,0,0,1,2,17
+378,Primera Division,214189,2019-12-14T15:00:00+00:00,Real Sociedad,Barcelona,Javier Alberola,1,1,2,2,17
+379,Primera Division,214183,2019-12-14T17:30:00+00:00,Athletic Club,Eibar,Mario Melero,0,0,0,0,17
+380,Primera Division,214184,2019-12-14T20:00:00+00:00,Atletico Madrid,Osasuna,José Munuera,0,0,2,0,17
+381,Primera Division,214187,2019-12-15T11:00:00+00:00,Getafe,Valladolid,Antonio Mateu,1,0,2,0,17
+382,Primera Division,214185,2019-12-15T13:00:00+00:00,Celta Vigo,Mallorca,Ricardo De Burgos,1,1,2,2,17
+383,Primera Division,214186,2019-12-15T15:00:00+00:00,Espanyol,Real Betis,Guillermo Cuadra,2,1,2,2,17
+384,Primera Division,214190,2019-12-15T17:30:00+00:00,Sevilla,Villarreal,Adrián Cordero,0,1,1,2,17
+385,Primera Division,214191,2019-12-15T20:00:00+00:00,Valencia,Real Madrid,José Sánchez,0,0,1,1,17
+386,Primera Division,214194,2019-12-20T20:00:00+00:00,Eibar,Granada CF,Pablo González,2,0,3,0,18
+387,Primera Division,214197,2019-12-21T12:00:00+00:00,Mallorca,Sevilla,Jesús Gil,0,1,0,2,18
+388,Primera Division,214192,2019-12-21T15:00:00+00:00,Barcelona,Alaves,Mario Melero,2,0,4,1,18
+389,Primera Division,214200,2019-12-21T17:30:00+00:00,Villarreal,Getafe,Santiago Jaime,0,0,1,0,18
+390,Primera Division,214201,2019-12-21T20:00:00+00:00,Valladolid,Valencia,Valentín Pizarro,0,0,1,1,18
+391,Primera Division,214195,2019-12-22T11:00:00+00:00,Leganes,Espanyol,Javier Alberola,1,0,2,0,18
+392,Primera Division,214198,2019-12-22T13:00:00+00:00,Osasuna,Real Sociedad,David Medié,1,3,3,4,18
+393,Primera Division,214193,2019-12-22T15:00:00+00:00,Real Betis,Atletico Madrid,Javier Estrada,0,0,1,2,18
+394,Primera Division,214196,2019-12-22T17:30:00+00:00,Levante,Celta Vigo,Eduardo Prieto,0,1,3,1,18
+395,Primera Division,214199,2019-12-22T20:00:00+00:00,Real Madrid,Athletic Club,Adrián Cordero,0,0,0,0,18
+396,Primera Division,214211,2020-01-03T18:00:00+00:00,Valladolid,Leganes,Juan Martínez,1,2,2,2,19
+397,Primera Division,214209,2020-01-03T20:00:00+00:00,Sevilla,Athletic Club,José González,0,1,1,1,19
+398,Primera Division,214210,2020-01-04T12:00:00+00:00,Valencia,Eibar,Alejandro Hernández,1,0,1,0,19
+399,Primera Division,214206,2020-01-04T15:00:00+00:00,Getafe,Real Madrid,José Munuera,0,1,0,3,19
+400,Primera Division,214203,2020-01-04T17:30:00+00:00,Atletico Madrid,Levante,Ricardo De Burgos,2,1,2,1,19
+401,Primera Division,214205,2020-01-04T20:00:00+00:00,Espanyol,Barcelona,Carlos Del Cerro,1,0,2,2,19
+402,Primera Division,214207,2020-01-05T11:00:00+00:00,Granada CF,Mallorca,César Soto,1,0,1,0,19
+403,Primera Division,214208,2020-01-05T13:00:00+00:00,Real Sociedad,Villarreal,José Sánchez,1,0,1,2,19
+404,Primera Division,214202,2020-01-05T15:00:00+00:00,Alaves,Real Betis,Antonio Mateu,1,0,1,1,19
+405,Primera Division,214204,2020-01-05T20:00:00+00:00,Celta Vigo,Osasuna,Guillermo Cuadra,0,0,1,1,19
+406,Primera Division,214216,2020-01-17T20:00:00+00:00,Leganes,Getafe,Javier Estrada,0,3,0,3,20
+407,Primera Division,214217,2020-01-18T12:00:00+00:00,Levante,Alaves,Guillermo Cuadra,0,0,0,1,20
+408,Primera Division,214220,2020-01-18T15:00:00+00:00,Real Madrid,Sevilla,Juan Martínez,0,0,2,1,20
+409,Primera Division,214219,2020-01-18T17:30:00+00:00,Osasuna,Valladolid,Javier Alberola,0,0,0,0,20
+410,Primera Division,214215,2020-01-18T20:00:00+00:00,Eibar,Atletico Madrid,Jesús Gil,1,0,2,0,20
+411,Primera Division,214218,2020-01-19T11:00:00+00:00,Mallorca,Valencia,Mario Melero,3,0,4,1,20
+412,Primera Division,214214,2020-01-19T13:00:00+00:00,Real Betis,Real Sociedad,Adrián Cordero,2,0,3,0,20
+413,Primera Division,214221,2020-01-19T15:00:00+00:00,Villarreal,Espanyol,Pablo González,0,1,1,2,20
+414,Primera Division,214212,2020-01-19T17:30:00+00:00,Athletic Club,Celta Vigo,David Medié,0,0,1,1,20
+415,Primera Division,214213,2020-01-19T20:00:00+00:00,Barcelona,Granada CF,Valentín Pizarro,0,0,1,0,20
+416,Primera Division,214227,2020-01-24T20:00:00+00:00,Osasuna,Levante,César Soto,0,0,2,0,21
+417,Primera Division,214225,2020-01-25T12:00:00+00:00,Espanyol,Athletic Club,José Sánchez,0,1,1,1,21
+418,Primera Division,214230,2020-01-25T15:00:00+00:00,Valencia,Barcelona,Jesús Gil,0,0,2,0,21
+419,Primera Division,214222,2020-01-25T17:30:00+00:00,Alaves,Villarreal,José Munuera,0,1,1,2,21
+420,Primera Division,214229,2020-01-25T20:00:00+00:00,Sevilla,Granada CF,Alejandro Hernández,2,0,2,0,21
+421,Primera Division,214223,2020-01-26T11:00:00+00:00,Atletico Madrid,Leganes,Antonio Mateu,0,0,0,0,21
+422,Primera Division,214224,2020-01-26T13:00:00+00:00,Celta Vigo,Eibar,José González,0,0,0,0,21
+423,Primera Division,214226,2020-01-26T15:00:00+00:00,Getafe,Real Betis,Eduardo Prieto,0,0,1,0,21
+424,Primera Division,214228,2020-01-26T17:30:00+00:00,Real Sociedad,Mallorca,Santiago Jaime,0,0,3,0,21
+425,Primera Division,214231,2020-01-26T20:00:00+00:00,Valladolid,Real Madrid,Ricardo De Burgos,0,0,0,1,21
+426,Primera Division,214235,2020-02-01T12:00:00+00:00,Granada CF,Espanyol,Guillermo Cuadra,1,1,2,1,22
+427,Primera Division,214238,2020-02-01T15:00:00+00:00,Real Madrid,Atletico Madrid,Javier Estrada,0,0,1,0,22
+428,Primera Division,214237,2020-02-01T17:30:00+00:00,Mallorca,Valladolid,David Medié,0,0,0,1,22
+429,Primera Division,214240,2020-02-01T20:00:00+00:00,Valencia,Celta Vigo,Pablo González,0,0,1,0,22
+430,Primera Division,214236,2020-02-02T11:00:00+00:00,Leganes,Real Sociedad,Mario Melero,0,1,2,1,22
+431,Primera Division,214234,2020-02-02T13:00:00+00:00,Eibar,Real Betis,Juan Martínez,1,1,1,1,22
+432,Primera Division,214232,2020-02-02T15:00:00+00:00,Athletic Club,Getafe,Javier Alberola,0,1,0,2,22
+433,Primera Division,214239,2020-02-02T17:30:00+00:00,Sevilla,Alaves,Carlos Del Cerro,0,0,1,1,22
+434,Primera Division,214241,2020-02-02T17:30:00+00:00,Villarreal,Osasuna,Valentín Pizarro,1,0,3,1,22
+435,Primera Division,214233,2020-02-02T20:00:00+00:00,Barcelona,Levante,Adrián Cordero,2,0,2,1,22
+436,Primera Division,214242,2020-02-07T20:00:00+00:00,Alaves,Eibar,Eduardo Prieto,0,0,2,1,23
+437,Primera Division,214248,2020-02-08T12:00:00+00:00,Levante,Leganes,José González,2,0,2,0,23
+438,Primera Division,214247,2020-02-08T15:00:00+00:00,Getafe,Valencia,Ricardo De Burgos,0,0,3,0,23
+439,Primera Division,214251,2020-02-08T17:30:00+00:00,Valladolid,Villarreal,Alejandro Hernández,1,0,1,1,23
+440,Primera Division,214243,2020-02-08T20:00:00+00:00,Atletico Madrid,Granada CF,César Soto,1,0,1,0,23
+441,Primera Division,214246,2020-02-09T11:00:00+00:00,Espanyol,Mallorca,Antonio Mateu,0,0,1,0,23
+442,Primera Division,214250,2020-02-09T13:00:00+00:00,Real Sociedad,Athletic Club,José Munuera,0,0,2,1,23
+443,Primera Division,214249,2020-02-09T15:00:00+00:00,Osasuna,Real Madrid,Jesús Gil,1,2,1,4,23
+444,Primera Division,214245,2020-02-09T17:30:00+00:00,Celta Vigo,Sevilla,Santiago Jaime,0,1,2,1,23
+445,Primera Division,214244,2020-02-09T20:00:00+00:00,Real Betis,Barcelona,José Sánchez,2,2,2,3,23
+446,Primera Division,214260,2020-02-14T20:00:00+00:00,Valencia,Atletico Madrid,David Medié,1,2,2,2,24
+447,Primera Division,214257,2020-02-15T12:00:00+00:00,Mallorca,Alaves,Valentín Pizarro,0,0,1,0,24
+448,Primera Division,214253,2020-02-15T15:00:00+00:00,Barcelona,Getafe,Guillermo Cuadra,2,0,2,1,24
+449,Primera Division,214261,2020-02-15T17:30:00+00:00,Villarreal,Levante,Mario Melero,1,0,2,1,24
+450,Primera Division,214255,2020-02-15T20:00:00+00:00,Granada CF,Valladolid,Juan Martínez,0,0,2,1,24
+451,Primera Division,214259,2020-02-16T11:00:00+00:00,Sevilla,Espanyol,Adrián Cordero,1,1,2,2,24
+452,Primera Division,214256,2020-02-16T13:00:00+00:00,Leganes,Real Betis,Javier Estrada,0,0,0,0,24
+453,Primera Division,214252,2020-02-16T17:30:00+00:00,Athletic Club,Osasuna,Pablo González,0,1,0,1,24
+454,Primera Division,214258,2020-02-16T20:00:00+00:00,Real Madrid,Celta Vigo,Javier Alberola,0,1,2,2,24
+455,Primera Division,214254,2020-03-10T19:00:00+00:00,Eibar,Real Sociedad,David Medié,0,1,1,2,24
+456,Primera Division,214265,2020-02-21T20:00:00+00:00,Real Betis,Mallorca,Jesús Gil,2,2,3,3,25
+457,Primera Division,214266,2020-02-22T12:00:00+00:00,Celta Vigo,Leganes,José Munuera,0,0,1,0,25
+458,Primera Division,214264,2020-02-22T15:00:00+00:00,Barcelona,Eibar,César Soto,3,0,5,0,25
+459,Primera Division,214270,2020-02-22T17:30:00+00:00,Real Sociedad,Valencia,José González,2,0,3,0,25
+460,Primera Division,214268,2020-02-22T20:00:00+00:00,Levante,Real Madrid,Alejandro Hernández,0,0,1,0,25
+461,Primera Division,214269,2020-02-23T11:00:00+00:00,Osasuna,Granada CF,José Sánchez,0,3,0,3,25
+462,Primera Division,214262,2020-02-23T13:00:00+00:00,Alaves,Athletic Club,Antonio Mateu,1,1,2,1,25
+463,Primera Division,214271,2020-02-23T15:00:00+00:00,Valladolid,Espanyol,Eduardo Prieto,0,0,2,1,25
+464,Primera Division,214267,2020-02-23T17:30:00+00:00,Getafe,Sevilla,Javier Estrada,0,1,0,3,25
+465,Primera Division,214263,2020-02-23T20:00:00+00:00,Atletico Madrid,Villarreal,Ricardo De Burgos,1,1,3,1,25
+466,Primera Division,214279,2020-02-28T20:00:00+00:00,Real Sociedad,Valladolid,Valentín Pizarro,0,0,1,0,26
+467,Primera Division,214273,2020-02-29T12:00:00+00:00,Eibar,Levante,Pablo González,1,0,3,0,26
+468,Primera Division,214281,2020-02-29T15:00:00+00:00,Valencia,Real Betis,Adrián Cordero,0,0,2,1,26
+469,Primera Division,214276,2020-02-29T17:30:00+00:00,Leganes,Alaves,Juan Martínez,0,0,1,1,26
+470,Primera Division,214275,2020-02-29T20:00:00+00:00,Granada CF,Celta Vigo,Guillermo Cuadra,0,0,0,0,26
+471,Primera Division,214280,2020-03-01T11:00:00+00:00,Sevilla,Osasuna,Carlos Del Cerro,2,0,3,2,26
+472,Primera Division,214272,2020-03-01T13:00:00+00:00,Athletic Club,Villarreal,David Medié,0,0,1,0,26
+473,Primera Division,214274,2020-03-01T15:00:00+00:00,Espanyol,Atletico Madrid,Javier Alberola,1,0,1,1,26
+474,Primera Division,214277,2020-03-01T17:30:00+00:00,Mallorca,Getafe,Mario Melero,0,0,0,1,26
+475,Primera Division,214278,2020-03-01T20:00:00+00:00,Real Madrid,Barcelona,Antonio Mateu,0,0,2,0,26
+476,Primera Division,214282,2020-03-06T20:00:00+00:00,Alaves,Valencia,Jesús Gil,0,1,1,1,27
+477,Primera Division,214286,2020-03-07T12:00:00+00:00,Eibar,Mallorca,Javier Estrada,0,1,1,2,27
+478,Primera Division,214283,2020-03-07T15:00:00+00:00,Atletico Madrid,Sevilla,Alejandro Hernández,2,2,2,2,27
+479,Primera Division,214284,2020-03-07T17:30:00+00:00,Barcelona,Real Sociedad,Juan Martínez,0,0,1,0,27
+480,Primera Division,214287,2020-03-07T20:00:00+00:00,Getafe,Celta Vigo,José Sánchez,0,0,0,0,27
+481,Primera Division,214289,2020-03-08T11:00:00+00:00,Osasuna,Espanyol,Ricardo De Burgos,0,0,1,0,27
+482,Primera Division,214291,2020-03-08T13:00:00+00:00,Valladolid,Athletic Club,José Munuera,0,2,1,4,27
+483,Primera Division,214288,2020-03-08T15:00:00+00:00,Levante,Granada CF,Eduardo Prieto,1,0,1,1,27
+484,Primera Division,214290,2020-03-08T17:30:00+00:00,Villarreal,Leganes,César Soto,1,0,1,2,27
+485,Primera Division,214285,2020-03-08T20:00:00+00:00,Real Betis,Real Madrid,José González,1,1,2,1,27

@@ -1,0 +1,20 @@
+league,fixture_id,date,home_team,away_team,referee,round,season
+Bundesliga 1,209202,2020-06-20T13:30:00+00:00,Bayern Munich,SC Freiburg,,33,2019
+Bundesliga 1,209203,2020-06-20T13:30:00+00:00,RB Leipzig,Borussia Dortmund,,33,2019
+Bundesliga 1,209204,2020-06-20T13:30:00+00:00,1899 Hoffenheim,Union Berlin,,33,2019
+Bundesliga 1,209205,2020-06-20T13:30:00+00:00,Fortuna Dusseldorf,FC Augsburg,,33,2019
+Bundesliga 1,209206,2020-06-20T13:30:00+00:00,Hertha Berlin,Bayer Leverkusen,,33,2019
+Bundesliga 1,209207,2020-06-20T13:30:00+00:00,FSV Mainz 05,Werder Bremen,,33,2019
+Bundesliga 1,209208,2020-06-20T13:30:00+00:00,FC Schalke 04,VfL Wolfsburg,,33,2019
+Bundesliga 1,209209,2020-06-20T13:30:00+00:00,FC Koln,Eintracht Frankfurt,,33,2019
+Bundesliga 1,209210,2020-06-20T13:30:00+00:00,SC Paderborn 07,Borussia Monchengladbach,,33,2019
+Bundesliga 1,209211,2020-06-27T13:30:00+00:00,Borussia Dortmund,1899 Hoffenheim,,34,2019
+Bundesliga 1,209212,2020-06-27T13:30:00+00:00,Bayer Leverkusen,FSV Mainz 05,,34,2019
+Bundesliga 1,209213,2020-06-27T13:30:00+00:00,Borussia Monchengladbach,Hertha Berlin,,34,2019
+Bundesliga 1,209214,2020-06-27T13:30:00+00:00,VfL Wolfsburg,Bayern Munich,,34,2019
+Bundesliga 1,209215,2020-06-27T13:30:00+00:00,Eintracht Frankfurt,SC Paderborn 07,,34,2019
+Bundesliga 1,209216,2020-06-27T13:30:00+00:00,Werder Bremen,FC Koln,,34,2019
+Bundesliga 1,209217,2020-06-27T13:30:00+00:00,SC Freiburg,FC Schalke 04,,34,2019
+Bundesliga 1,209218,2020-06-27T13:30:00+00:00,FC Augsburg,RB Leipzig,,34,2019
+Bundesliga 1,209219,2020-06-27T13:30:00+00:00,Union Berlin,Fortuna Dusseldorf,,34,2019
+DFB Pokal,564163,2020-07-03T22:00:00+00:00,Bayer Leverkusen,Bayern Munich,L. Presinský,Final,2019

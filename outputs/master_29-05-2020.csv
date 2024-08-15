@@ -1,0 +1,10 @@
+league,round,fixture_id,date,home_team,away_team,advice,goals_home,goals_away,home_pred,draw_pred,away_pred,odd_home_wins,odd_draw,odd_away_wins,odd_over_1_5,odd_over_2_5,odd_over_3_5,odd_under_1_5,odd_under_2_5,odd_under_3_5,odd_home_or_draw,odd_home_or_away,odd_draw_or_away
+Bundesliga 1,29,209171,2020-05-29T18:30:00+00:00,SC Freiburg,Bayer Leverkusen,Double chance :  draws or Bayer Leverkusen,-2.5,-3.5,0.1,0.45,0.45,4.5,3.75,1.75,1.16,1.57,2.5,5.0,2.37,1.53,2.0,1.25,1.18
+Bundesliga 1,29,209168,2020-05-30T13:30:00+00:00,VfL Wolfsburg,Eintracht Frankfurt,Double chance : VfL Wolfsburg or draws,-2.5,-2.5,0.45,0.45,0.1,1.95,3.75,3.5,1.22,1.72,2.75,4.33,2.1,1.44,1.28,1.25,1.8
+Bundesliga 1,29,209169,2020-05-30T13:30:00+00:00,Hertha Berlin,FC Augsburg,Double chance : Hertha Berlin or draws,-3.5,-2.5,0.45,0.45,0.1,2.0,3.5,3.6,1.25,1.8,3.0,4.0,2.0,1.4,1.28,1.28,1.72
+Bundesliga 1,29,209170,2020-05-30T13:30:00+00:00,FSV Mainz 05,1899 Hoffenheim,Double chance : FSV Mainz 05 or draws,-1.5,-2.5,0.45,0.45,0.1,2.9,3.5,2.3,1.16,1.57,2.37,5.0,2.37,1.57,1.57,1.28,1.4
+Bundesliga 1,29,209172,2020-05-30T13:30:00+00:00,FC Schalke 04,Werder Bremen,Double chance :  draws or Werder Bremen,-1.5,-2.5,0.1,0.45,0.45,2.2,3.5,3.25,1.25,1.8,3.0,4.0,2.0,1.4,1.33,1.28,1.61
+Bundesliga 1,29,209166,2020-05-30T16:30:00+00:00,Bayern Munich,Fortuna Dusseldorf,Winner : Bayern Munich,-4.5,-2.5,0.5,0.5,0.0,1.1,10.0,17.0,1.05,1.2,1.5,11.0,4.5,2.62,1.02,1.06,7.0
+Bundesliga 1,29,209167,2020-05-31T13:30:00+00:00,Borussia Monchengladbach,Union Berlin,Winner : Borussia Monchengladbach,-3.5,-1.5,0.45,0.45,0.1,1.5,4.33,6.0,1.22,1.66,2.75,4.33,2.2,1.44,1.12,1.2,2.5
+Bundesliga 1,29,209174,2020-05-31T16:00:00+00:00,SC Paderborn 07,Borussia Dortmund,Double chance :  draws or Borussia Dortmund,-2.5,-3.5,0.0,0.5,0.5,8.5,5.5,1.3,1.12,1.4,2.0,6.0,3.0,1.8,3.4,1.14,1.08
+Bundesliga 1,29,209173,2020-06-01T18:30:00+00:00,FC Koln,RB Leipzig,Double chance :  draws or RB Leipzig,-2.5,-3.5,0.1,0.45,0.45,5.75,4.2,1.53,1.14,1.44,2.1,5.5,2.75,1.72,2.37,1.22,1.14

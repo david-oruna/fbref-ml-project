@@ -1,0 +1,9 @@
+,league,fixture_id,date,home_team,away_team,advice,goals_home,goals_away,home_pred,draw_pred,away_pred,odd_home_wins,odd_draw,odd_away_wins,odd_over_1_5,odd_over_2_5,odd_over_3_5,odd_under_1_5,odd_under_2_5,odd_under_3_5,odd_home_or_draw,odd_home_or_away,odd_draw_or_away
+0,Bundesliga 1,209149,2020-05-23T13:30:00+00:00,Borussia Monchengladbach,Bayer Leverkusen,Double chance :  draws or Bayer Leverkusen,-2.5,-3.5,10%,45%,45%,2.3,3.75,2.75,1.14,1.5,2.2,5.5,2.62,1.66,1.4,1.25,1.57
+1,Bundesliga 1,209150,2020-05-23T13:30:00+00:00,VfL Wolfsburg,Borussia Dortmund,Double chance :  draws or Borussia Dortmund,-2.5,-2.5,10%,45%,45%,4.2,4.0,1.75,1.2,1.57,2.5,4.5,2.37,1.53,2.0,1.22,1.22
+2,Bundesliga 1,209153,2020-05-23T13:30:00+00:00,SC Freiburg,Werder Bremen,Double chance : SC Freiburg or draws,-2.5,-1.5,45%,45%,10%,2.15,3.75,3.0,1.22,1.72,2.75,4.33,2.1,1.44,1.36,1.25,1.66
+3,Bundesliga 1,209156,2020-05-23T13:30:00+00:00,SC Paderborn 07,1899 Hoffenheim,Double chance :  draws or 1899 Hoffenheim,-1.5,-2.5,10%,45%,45%,3.1,3.8,2.1,1.16,1.57,2.37,5.0,2.37,1.57,1.66,1.25,1.36
+4,Bundesliga 1,209148,2020-05-23T16:30:00+00:00,Bayern Munich,Eintracht Frankfurt,Combo Winner : Bayern Munich and +1.5 goals,-4.5,-1.5,50%,50%,0%,1.16,7.5,13.0,1.07,1.25,1.72,9.0,4.0,2.1,1.04,1.1,5.0
+5,Bundesliga 1,209154,2020-05-24T11:30:00+00:00,FC Schalke 04,FC Augsburg,Double chance : FC Schalke 04 or draws,-2.5,-1.5,45%,45%,10%,2.0,3.5,3.6,1.28,1.9,3.2,3.75,1.9,1.36,1.28,1.28,1.72
+6,Bundesliga 1,209152,2020-05-24T13:30:00+00:00,FSV Mainz 05,RB Leipzig,Winner : RB Leipzig,-1.5,-3.5,0%,50%,50%,6.5,5.0,1.4,1.14,1.44,2.1,5.5,2.75,1.72,2.75,1.16,1.11
+7,Bundesliga 1,209155,2020-05-24T16:00:00+00:00,FC Koln,Fortuna Dusseldorf,Double chance : FC Koln or draws,-3.5,-2.5,45%,45%,10%,1.72,4.0,4.2,1.22,1.66,2.75,4.33,2.2,1.44,1.22,1.22,2.0
