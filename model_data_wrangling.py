@@ -124,6 +124,18 @@ def main():
     df.to_csv("df_for_model.csv", index=False)
     print("Data saved to df_for_model.csv")
 
+def stats_columns():
+    return  [
+        'shots_on_goal_home', 'shots_off_goal_home', 'total_shots_home', 'blocked_shots_home',
+        'shots_insidebox_home', 'shots_outsidebox_home', 'fouls_home', 'corner_kicks_home',
+        'offsides_home', 'ball_possession_home', 'yellow_cards_home', 'red_cards_home',
+        'goalkeeper_saves_home', 'total_passes_home', 'passes_accurate_home', 'passes_%_home',
+        'expected_goals_home', 'goals_prevented_home', 'shots_on_goal_away', 'shots_off_goal_away',
+        'total_shots_away', 'blocked_shots_away', 'shots_insidebox_away', 'shots_outsidebox_away',
+        'fouls_away', 'corner_kicks_away', 'offsides_away', 'ball_possession_away',
+        'yellow_cards_away', 'red_cards_away', 'goalkeeper_saves_away', 'total_passes_away',
+        'passes_accurate_away', 'passes_%_away', 'expected_goals_away', 'goals_prevented_away'
+    ]
 if __name__ == "__main__":
     main()
 
