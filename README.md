@@ -10,7 +10,7 @@ This project provides secure and reliable football match predictions by combinin
   - The match fixtures, statistics, and predictions are extracted from the `api-football` API.
   
 - **Data Cleaning and Wrangling**
-  - The raw data extracted from the API is cleaned and formatted using `model_data_wrangling.py`. This script processes dates, generates cumulative statistics, and creates additional features that are used for model training.
+  - The raw data extracted from the API is cleaned and formatted using `model_data_wrangling.py`. This script processes dates, generates cumulative statistics, and creates additional features that are used for model training. Currently, the leagues used for training are the Premier League, Serie A, Coppa Italia, FA Cup.
 
 - **Model Training**
   - The cleaned and processed data is then used to train an ML model using the script `MLP.py`. The training process involves data preprocessing, feature engineering, and model selection using techniques like RandomizedSearchCV. The trained model is saved as a `.pk` file for later use.
